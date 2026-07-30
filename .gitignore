@@ -1,0 +1,7 @@
+# yerel calisma dosyalari — repoya girmez
+.venv/
+__pycache__/
+logs/
+config.json
+
+# seen.json BILEREK ignore edilmiyor: GitHub Actions state'i repoda saklar

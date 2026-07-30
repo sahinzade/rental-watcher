@@ -1,0 +1,61 @@
+name: Rental Watcher
+
+on:
+  schedule:
+    # 10 dakikada bir (:04, :14, :24 ... — tam saat basi yogunlugundan kacinmak icin ofsetli).
+    # Not: GitHub zamanlamayi garanti etmez; yogun saatlerde 3-10 dk gecikebilir.
+    - cron: "4-59/10 * * * *"
+  workflow_dispatch: {}   # Actions sekmesinden elle tetiklemek icin
+
+permissions:
+  contents: write         # seen.json'u repoya geri commit edebilmek icin
+
+concurrency:
+  group: rental-watcher   # iki kontrol ayni anda calisip birbirini ezmesin
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Python paketlerini kur
+        run: pip install -r requirements.txt
+
+      - name: Playwright tarayici cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Chromium kur
+        run: python -m playwright install --with-deps chromium
+
+      - name: Siteleri kontrol et
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python watcher.py --once
+
+      - name: Gorulen ilanlari kaydet (seen.json commit)
+        run: |
+          git config user.name "rental-watcher-bot"
+          git config user.email "rental-watcher-bot@users.noreply.github.com"
+          git add seen.json
+          if git diff --cached --quiet; then
+            echo "state degismedi, commit yok"
+            exit 0
+          fi
+          git commit -m "seen.json guncelle"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase
+          done
+          git push

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.rental-watcher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/yilmazsahin/Desktop/My Zone/rental-watcher/.venv/bin/python</string>
+        <string>/Users/yilmazsahin/Desktop/My Zone/rental-watcher/watcher.py</string>
+        <string>--once</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/yilmazsahin/Desktop/My Zone/rental-watcher</string>
+
+    <!-- 600 saniye = 10 dakikada bir calistir -->
+    <key>StartInterval</key>
+    <integer>600</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/yilmazsahin/Desktop/My Zone/rental-watcher/logs/out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/yilmazsahin/Desktop/My Zone/rental-watcher/logs/err.log</string>
+</dict>
+</plist>
