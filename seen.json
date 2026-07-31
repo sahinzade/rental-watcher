@@ -86,7 +86,9 @@
    "16843": "2026-07-30T18:01:18",
    "16844": "2026-07-30T18:01:18",
    "16231": "2026-07-31T08:48:38",
-   "16778": "2026-07-31T08:48:38"
+   "16778": "2026-07-31T08:48:38",
+   "16232": "2026-07-31T12:08:53",
+   "16845": "2026-07-31T12:08:53"
   },
   "fails": 0,
   "down_notified": false
@@ -94,20 +96,21 @@
  "Magis Real Estate": {
   "seen": {
    "https://magisrealestate.com/for-rent/the-wing/7H": "2026-07-30T18:01:19",
-   "https://magisrealestate.com/for-rent/novum/194": "2026-07-31T08:48:42"
+   "https://magisrealestate.com/for-rent/novum/194": "2026-07-31T08:48:42",
+   "https://magisrealestate.com/for-rent/the-wing/9A": "2026-07-31T12:08:58"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "SSH Short Stay": {
   "seen": {},
@@ -155,7 +158,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477202-rivierstraat-210-k2": "2026-07-31T08:50:26",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477253-rivierstraat-180-k2": "2026-07-31T08:50:26",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477249-ina-boudier-bakkerlaan-187-k1662": "2026-07-31T08:50:26",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477248-willem-schuylenburglaan-39-k12": "2026-07-31T08:50:26"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477248-willem-schuylenburglaan-39-k12": "2026-07-31T08:50:26",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477312-van-lieflandlaan-88-k24": "2026-07-31T12:10:45"
   },
   "fails": 0,
   "down_notified": false
@@ -172,7 +176,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d520cee8/heuvelring": "2026-07-30T18:03:55",
    "https://www.pararius.com/studio-for-rent/tilburg/d51d9812/veldhovenring": "2026-07-30T18:03:55"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -195,7 +199,10 @@
    "https://kamernet.nl/en/for-rent/apartment-schijndel/lambertushof/apartment-2395982": "2026-07-30T18:03:57",
    "https://kamernet.nl/en/for-rent/studio-breda/visserstraat/studio-2395949": "2026-07-30T18:03:57",
    "https://kamernet.nl/en/for-rent/apartment-breda/balfortstraat/apartment-2396709": "2026-07-31T08:51:39",
-   "https://kamernet.nl/en/for-rent/room-vught/molenstraat/room-2396731": "2026-07-31T08:51:39"
+   "https://kamernet.nl/en/for-rent/room-vught/molenstraat/room-2396731": "2026-07-31T08:51:39",
+   "https://kamernet.nl/en/for-rent/room-breda/hoge-steenweg/room-2396832": "2026-07-31T12:11:44",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/luijbenstraat/apartment-2396805": "2026-07-31T12:11:44",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2396804": "2026-07-31T12:11:44"
   },
   "fails": 0,
   "down_notified": false
