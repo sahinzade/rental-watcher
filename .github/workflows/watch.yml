@@ -21,6 +21,12 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      - name: En guncel duruma gec
+        # "Re-run" eski kod/kayitla baslar; her kosulda main'in ucuna gecilir
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
@@ -56,6 +62,7 @@ jobs:
           git commit -m "seen.json guncelle"
           for i in 1 2 3; do
             git push && exit 0
-            git pull --rebase
+            # cakisma olursa bizim (en guncel) seen.json kazansin
+            git pull --rebase -X theirs || git rebase --abort
           done
           git push
