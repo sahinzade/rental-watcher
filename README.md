@@ -71,6 +71,21 @@ Repo sayfasında: **Settings → Secrets and variables → Actions → New repos
 2. Soldan **Rental Watcher** → sağda **Run workflow** → Run workflow (elle ilk test).
 3. Yeşil ✓ görürseniz sistem hazırdır — artık her 10 dakikada bir kendiliğinden çalışır.
 
+## Dış tetikleyici (cron-job.org)
+
+GitHub, yeni hesaplarda zamanlanmış (`schedule`) workflow'ları çalıştırmayabiliyor. Bu
+kurulumda tetikleme dışarıdan yapılır: cron-job.org her 10 dakikada bir GitHub API'sine
+`workflow_dispatch` isteği gönderir.
+
+- GitHub tarafında: fine-grained PAT (yalnızca bu repo, izin: **Actions → Read and write**).
+- cron-job.org tarafında: 10 dakikada bir çalışan POST isteği →
+  `https://api.github.com/repos/sahinzade/rental-watcher/actions/workflows/watch.yml/dispatches`
+  — header'lar: `Authorization: Bearer <PAT>`, `Accept: application/vnd.github+json`,
+  `Content-Type: application/json`; gövde: `{"ref":"main"}`. Başarılı yanıt: 204.
+- PAT'in süresi dolunca (1 yıl) yenilenmesi gerekir; aksi hâlde tetikleme sessizce durur.
+- GitHub'ın kendi zamanlayıcısı ileride devreye girerse sorun olmaz: `concurrency` ayarı
+  aynı anda iki kontrolün çakışmasını önler.
+
 ## Önemli notlar
 
 - **Zamanlama:** GitHub cron'u dakikası dakikasına garanti etmez; yoğun saatlerde kontroller
