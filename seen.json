@@ -88,7 +88,12 @@
    "16231": "2026-07-31T08:48:38",
    "16778": "2026-07-31T08:48:38",
    "16232": "2026-07-31T12:08:53",
-   "16845": "2026-07-31T12:08:53"
+   "16845": "2026-07-31T12:08:53",
+   "16173": "2026-07-31T17:13:00",
+   "16734": "2026-07-31T17:13:00",
+   "16760": "2026-07-31T17:13:00",
+   "16847": "2026-07-31T17:13:00",
+   "16848": "2026-07-31T17:13:00"
   },
   "fails": 0,
   "down_notified": false
@@ -104,12 +109,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -176,7 +181,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d520cee8/heuvelring": "2026-07-30T18:03:55",
    "https://www.pararius.com/studio-for-rent/tilburg/d51d9812/veldhovenring": "2026-07-30T18:03:55"
   },
-  "fails": 2,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -202,7 +207,11 @@
    "https://kamernet.nl/en/for-rent/room-vught/molenstraat/room-2396731": "2026-07-31T08:51:39",
    "https://kamernet.nl/en/for-rent/room-breda/hoge-steenweg/room-2396832": "2026-07-31T12:11:44",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/luijbenstraat/apartment-2396805": "2026-07-31T12:11:44",
-   "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2396804": "2026-07-31T12:11:44"
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2396804": "2026-07-31T12:11:44",
+   "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2396877": "2026-07-31T17:15:45",
+   "https://kamernet.nl/en/for-rent/room-tilburg/herman-heyermansweg/room-2396859": "2026-07-31T17:15:45",
+   "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2378302": "2026-07-31T17:15:45",
+   "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2374207": "2026-07-31T17:15:45"
   },
   "fails": 0,
   "down_notified": false
