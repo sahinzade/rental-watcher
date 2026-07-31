@@ -109,12 +109,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 4,
+  "fails": 5,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 4,
+  "fails": 5,
   "down_notified": true
  },
  "SSH Short Stay": {
