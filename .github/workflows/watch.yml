@@ -2,9 +2,9 @@ name: Rental Watcher
 
 on:
   schedule:
-    # 10 dakikada bir (:04, :14, :24 ... — tam saat basi yogunlugundan kacinmak icin ofsetli).
-    # Not: GitHub zamanlamayi garanti etmez; yogun saatlerde 3-10 dk gecikebilir.
-    - cron: "4-59/10 * * * *"
+    # 10 dakikada bir. Not: GitHub zamanlamayi garanti etmez; yogun saatlerde
+    # kontroller 10-20 dk araliklarla gerceklesebilir.
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}   # Actions sekmesinden elle tetiklemek icin
 
 permissions:
