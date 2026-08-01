@@ -109,12 +109,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 9,
+  "fails": 10,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 9,
+  "fails": 10,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -269,7 +269,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-3-ringbaan-oost-5014-ga-tilburg-pc543da": "2026-08-01T00:16:42",
    "https://huurportaal.nl/en/listings/mooie-kamer-in-tilburg-p685a1a": "2026-08-01T00:16:42",
    "https://huurportaal.nl/en/listings/dosso-p28ec52": "2026-08-01T08:47:00",
-   "https://huurportaal.nl/en/listings/mooie-kamer-te-huur-p699518": "2026-08-01T08:47:00"
+   "https://huurportaal.nl/en/listings/mooie-kamer-te-huur-p699518": "2026-08-01T08:47:00",
+   "https://huurportaal.nl/en/listings/woonhuis-p60ad2a": "2026-08-01T20:06:27",
+   "https://huurportaal.nl/en/listings/house-in-13-ruitenveenstraat-5035-dk-tilburg-p051947": "2026-08-01T20:06:27"
   },
   "fails": 0,
   "down_notified": false
