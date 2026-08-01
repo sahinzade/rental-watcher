@@ -109,12 +109,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -164,7 +164,16 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477253-rivierstraat-180-k2": "2026-07-31T08:50:26",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477249-ina-boudier-bakkerlaan-187-k1662": "2026-07-31T08:50:26",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477248-willem-schuylenburglaan-39-k12": "2026-07-31T08:50:26",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477312-van-lieflandlaan-88-k24": "2026-07-31T12:10:45"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477312-van-lieflandlaan-88-k24": "2026-07-31T12:10:45",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477269-salamancapad-217-k01": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477272-winschoterdiep-46-d128": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477261-opaalweg-230-k1": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477328-opaalweg-230-k2": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477270-talentenplein-499": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477274-plutolaan-329c-313": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477273-struisenburgdwarsstraat-12a-k2-": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477260-salamancapad-77-k03": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477298-opaalweg-254-k4": "2026-08-01T00:15:13"
   },
   "fails": 0,
   "down_notified": false
@@ -246,7 +255,12 @@
    "https://huurportaal.nl/en/listings/keurige-gemeubileerde-nieuwe-studio-aan-de-bijsterveldenlaan-in-tilburg-pc1034f": "2026-07-30T18:04:35",
    "https://huurportaal.nl/en/listings/luxe-gestoffeerde-studio-pd64eb1": "2026-07-30T18:04:35",
    "https://huurportaal.nl/en/listings/kamer-in-studentenhuis-p42babf": "2026-07-30T18:04:35",
-   "https://huurportaal.nl/en/listings/studio-te-huur-kruisvaardersstraat-in-tilburg-voor-1-150-pef8270": "2026-07-30T18:04:35"
+   "https://huurportaal.nl/en/listings/studio-te-huur-kruisvaardersstraat-in-tilburg-voor-1-150-pef8270": "2026-07-30T18:04:35",
+   "https://huurportaal.nl/en/listings/apartment-in-348-clarissenhof-5041-rw-tilburg-pc97bd6": "2026-08-01T00:16:42",
+   "https://huurportaal.nl/en/listings/studio-te-huur-clarissenhof-in-tilburg-voor-1-015-p61e56b": "2026-08-01T00:16:42",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-tuinstraat-in-tilburg-pc47071": "2026-08-01T00:16:42",
+   "https://huurportaal.nl/en/listings/apartment-in-3-ringbaan-oost-5014-ga-tilburg-pc543da": "2026-08-01T00:16:42",
+   "https://huurportaal.nl/en/listings/mooie-kamer-in-tilburg-p685a1a": "2026-08-01T00:16:42"
   },
   "fails": 0,
   "down_notified": false
