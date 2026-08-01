@@ -109,12 +109,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 6,
+  "fails": 7,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 6,
+  "fails": 7,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -220,7 +220,10 @@
    "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2396877": "2026-07-31T17:15:45",
    "https://kamernet.nl/en/for-rent/room-tilburg/herman-heyermansweg/room-2396859": "2026-07-31T17:15:45",
    "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2378302": "2026-07-31T17:15:45",
-   "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2374207": "2026-07-31T17:15:45"
+   "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2374207": "2026-07-31T17:15:45",
+   "https://kamernet.nl/en/for-rent/room-breda/magnoliastraat/room-2397036": "2026-08-01T08:46:15",
+   "https://kamernet.nl/en/for-rent/room-breda/wilderen/room-2397028": "2026-08-01T08:46:15",
+   "https://kamernet.nl/en/for-rent/room-best/zwikkerstraat/room-2396953": "2026-08-01T08:46:15"
   },
   "fails": 0,
   "down_notified": false
@@ -260,7 +263,9 @@
    "https://huurportaal.nl/en/listings/studio-te-huur-clarissenhof-in-tilburg-voor-1-015-p61e56b": "2026-08-01T00:16:42",
    "https://huurportaal.nl/en/listings/te-huur-appartement-tuinstraat-in-tilburg-pc47071": "2026-08-01T00:16:42",
    "https://huurportaal.nl/en/listings/apartment-in-3-ringbaan-oost-5014-ga-tilburg-pc543da": "2026-08-01T00:16:42",
-   "https://huurportaal.nl/en/listings/mooie-kamer-in-tilburg-p685a1a": "2026-08-01T00:16:42"
+   "https://huurportaal.nl/en/listings/mooie-kamer-in-tilburg-p685a1a": "2026-08-01T00:16:42",
+   "https://huurportaal.nl/en/listings/dosso-p28ec52": "2026-08-01T08:47:00",
+   "https://huurportaal.nl/en/listings/mooie-kamer-te-huur-p699518": "2026-08-01T08:47:00"
   },
   "fails": 0,
   "down_notified": false
