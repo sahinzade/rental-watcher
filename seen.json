@@ -109,12 +109,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 7,
+  "fails": 8,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 7,
+  "fails": 8,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -223,7 +223,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2374207": "2026-07-31T17:15:45",
    "https://kamernet.nl/en/for-rent/room-breda/magnoliastraat/room-2397036": "2026-08-01T08:46:15",
    "https://kamernet.nl/en/for-rent/room-breda/wilderen/room-2397028": "2026-08-01T08:46:15",
-   "https://kamernet.nl/en/for-rent/room-best/zwikkerstraat/room-2396953": "2026-08-01T08:46:15"
+   "https://kamernet.nl/en/for-rent/room-best/zwikkerstraat/room-2396953": "2026-08-01T08:46:15",
+   "https://kamernet.nl/en/for-rent/apartment-helvoirt/kastanjelaan/apartment-2397049": "2026-08-01T12:20:07"
   },
   "fails": 0,
   "down_notified": false
