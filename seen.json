@@ -109,12 +109,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 10,
+  "fails": 11,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 10,
+  "fails": 11,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -173,7 +173,20 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477274-plutolaan-329c-313": "2026-08-01T00:15:13",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477273-struisenburgdwarsstraat-12a-k2-": "2026-08-01T00:15:13",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477260-salamancapad-77-k03": "2026-08-01T00:15:13",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477298-opaalweg-254-k4": "2026-08-01T00:15:13"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477298-opaalweg-254-k4": "2026-08-01T00:15:13",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477279-opaalweg-200-k1": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477267-opaalweg-208-k4": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477275-pythagoraslaan-105-k7": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477289-winschoterdiep-46-c133": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477285-wouter-van%20doeverenplein-40-k2": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477277-cambridgelaan-237-k3": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477276-cambridgelaan-313": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477286-burgemeester-fockema%20andreaeplein-415a": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477258-leuvenplein-245": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477247-warande-182-k712": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477291-talent-square-307": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477227-van-lieflandlaan-44-k03": "2026-08-01T23:39:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477284-pythagoraslaan-121h-k2": "2026-08-01T23:39:01"
   },
   "fails": 0,
   "down_notified": false
