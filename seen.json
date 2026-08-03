@@ -93,7 +93,15 @@
    "16734": "2026-07-31T17:13:00",
    "16760": "2026-07-31T17:13:00",
    "16847": "2026-07-31T17:13:00",
-   "16848": "2026-07-31T17:13:00"
+   "16848": "2026-07-31T17:13:00",
+   "16196": "2026-08-03T12:39:31",
+   "16430": "2026-08-03T12:39:31",
+   "16728": "2026-08-03T12:39:31",
+   "16785": "2026-08-03T12:39:31",
+   "16823": "2026-08-03T12:39:31",
+   "16832": "2026-08-03T12:39:31",
+   "16881": "2026-08-03T12:39:31",
+   "16882": "2026-08-03T12:39:31"
   },
   "fails": 0,
   "down_notified": false
@@ -102,19 +110,21 @@
   "seen": {
    "https://magisrealestate.com/for-rent/the-wing/7H": "2026-07-30T18:01:19",
    "https://magisrealestate.com/for-rent/novum/194": "2026-07-31T08:48:42",
-   "https://magisrealestate.com/for-rent/the-wing/9A": "2026-07-31T12:08:58"
+   "https://magisrealestate.com/for-rent/the-wing/9A": "2026-07-31T12:08:58",
+   "https://magisrealestate.com/for-rent/novum/342": "2026-08-03T12:39:44",
+   "https://magisrealestate.com/for-rent/novum/320": "2026-08-03T12:39:44"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 16,
+  "fails": 17,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 16,
+  "fails": 17,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -222,7 +232,9 @@
    "https://www.pararius.com/studio-for-rent/tilburg/caf26d1c/wittebollestraat": "2026-07-30T18:03:55",
    "https://www.pararius.com/studio-for-rent/tilburg/2e636180/kruisvaardersstraat": "2026-07-30T18:03:55",
    "https://www.pararius.com/studio-for-rent/tilburg/d520cee8/heuvelring": "2026-07-30T18:03:55",
-   "https://www.pararius.com/studio-for-rent/tilburg/d51d9812/veldhovenring": "2026-07-30T18:03:55"
+   "https://www.pararius.com/studio-for-rent/tilburg/d51d9812/veldhovenring": "2026-07-30T18:03:55",
+   "https://www.pararius.com/studio-for-rent/tilburg/d8df353e/wittebollestraat": "2026-08-03T12:42:11",
+   "https://www.pararius.com/studio-for-rent/tilburg/b69b2059/hasseltstraat": "2026-08-03T12:42:11"
   },
   "fails": 0,
   "down_notified": false
@@ -263,7 +275,19 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/daniel-josephus-jittastraat/room-2397101": "2026-08-01T15:50:30",
    "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2397080": "2026-08-01T15:50:30",
    "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2397214": "2026-08-02T07:56:30",
-   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-doorwerthstraat/room-2397335": "2026-08-02T20:04:46"
+   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-doorwerthstraat/room-2397335": "2026-08-02T20:04:46",
+   "https://kamernet.nl/en/for-rent/room-tilburg/calandhof/room-2397508": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/ringbaan-oost/room-2397481": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/ringbaan-oost/room-2397363": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2397356": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/korvelplein/room-2397345": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2385403": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2385402": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/professor-de-moorplein/room-2379806": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/munttorenstraat/room-2377968": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/westertorenlaan/room-2377691": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-bouvignestraat/room-2377690": "2026-08-03T12:42:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2357519": "2026-08-03T12:42:15"
   },
   "fails": 0,
   "down_notified": false
@@ -307,7 +331,9 @@
    "https://huurportaal.nl/en/listings/dosso-p28ec52": "2026-08-01T08:47:00",
    "https://huurportaal.nl/en/listings/mooie-kamer-te-huur-p699518": "2026-08-01T08:47:00",
    "https://huurportaal.nl/en/listings/woonhuis-p60ad2a": "2026-08-01T20:06:27",
-   "https://huurportaal.nl/en/listings/house-in-13-ruitenveenstraat-5035-dk-tilburg-p051947": "2026-08-01T20:06:27"
+   "https://huurportaal.nl/en/listings/house-in-13-ruitenveenstraat-5035-dk-tilburg-p051947": "2026-08-01T20:06:27",
+   "https://huurportaal.nl/en/listings/apartment-in-418-schubertstraat-5011-cp-tilburg-p5fc682": "2026-08-03T12:43:12",
+   "https://huurportaal.nl/en/listings/apartment-in-298-generaal-smutslaan-5025-ad-tilburg-p91a744": "2026-08-03T12:43:12"
   },
   "fails": 0,
   "down_notified": false
