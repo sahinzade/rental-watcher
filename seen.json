@@ -28,7 +28,17 @@
    "59756": "2026-07-30T18:01:18",
    "59675": "2026-07-30T18:01:18",
    "59760": "2026-07-30T18:01:18",
-   "59699": "2026-07-30T18:01:18"
+   "59699": "2026-07-30T18:01:18",
+   "59323": "2026-08-04T08:08:05",
+   "59324": "2026-08-04T08:08:05",
+   "59352": "2026-08-04T08:08:05",
+   "59382": "2026-08-04T08:08:05",
+   "59421": "2026-08-04T08:08:05",
+   "59568": "2026-08-04T08:08:05",
+   "59623": "2026-08-04T08:08:05",
+   "59690": "2026-08-04T08:08:05",
+   "59744": "2026-08-04T08:08:05",
+   "59404": "2026-08-04T08:08:05"
   },
   "fails": 0,
   "down_notified": false
@@ -108,7 +118,9 @@
    "16833": "2026-08-03T18:59:42",
    "16834": "2026-08-03T18:59:42",
    "16835": "2026-08-03T18:59:42",
-   "16885": "2026-08-03T18:59:42"
+   "16885": "2026-08-03T18:59:42",
+   "16897": "2026-08-04T08:08:21",
+   "16898": "2026-08-04T08:08:21"
   },
   "fails": 0,
   "down_notified": false
@@ -126,12 +138,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 19,
+  "fails": 20,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 19,
+  "fails": 20,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -396,7 +408,10 @@
    "https://huurportaal.nl/en/listings/woonhuis-p60ad2a": "2026-08-01T20:06:27",
    "https://huurportaal.nl/en/listings/house-in-13-ruitenveenstraat-5035-dk-tilburg-p051947": "2026-08-01T20:06:27",
    "https://huurportaal.nl/en/listings/apartment-in-418-schubertstraat-5011-cp-tilburg-p5fc682": "2026-08-03T12:43:12",
-   "https://huurportaal.nl/en/listings/apartment-in-298-generaal-smutslaan-5025-ad-tilburg-p91a744": "2026-08-03T12:43:12"
+   "https://huurportaal.nl/en/listings/apartment-in-298-generaal-smutslaan-5025-ad-tilburg-p91a744": "2026-08-03T12:43:12",
+   "https://huurportaal.nl/en/listings/apartment-in-631-predikherenlaan-5042-cl-tilburg-p66afe1": "2026-08-04T08:11:30",
+   "https://huurportaal.nl/en/listings/studio-te-huur-smidspad-in-tilburg-voor-856-p42bfc3": "2026-08-04T08:11:30",
+   "https://huurportaal.nl/en/listings/apartment-in-819-hart-van-brabantlaan-5038-lm-tilburg-p96595e": "2026-08-04T08:11:30"
   },
   "fails": 0,
   "down_notified": false
