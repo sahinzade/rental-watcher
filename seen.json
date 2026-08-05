@@ -155,12 +155,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 22,
+  "fails": 23,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 22,
+  "fails": 23,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -384,7 +384,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/heuvelstraat/room-2397753": "2026-08-04T16:26:31",
    "https://kamernet.nl/en/for-rent/room-breda/smaragdstraat/room-2396959": "2026-08-04T16:26:31",
    "https://kamernet.nl/en/for-rent/room-etten-leur/speelveld/room-2357469": "2026-08-04T16:26:31",
-   "https://kamernet.nl/en/for-rent/room-tilburg/statenlaan/room-2339942": "2026-08-04T16:26:31"
+   "https://kamernet.nl/en/for-rent/room-tilburg/statenlaan/room-2339942": "2026-08-04T16:26:31",
+   "https://kamernet.nl/en/for-rent/room-breda/otterring/room-2397848": "2026-08-05T06:17:53"
   },
   "fails": 0,
   "down_notified": false
@@ -434,7 +435,10 @@
    "https://huurportaal.nl/en/listings/apartment-in-631-predikherenlaan-5042-cl-tilburg-p66afe1": "2026-08-04T08:11:30",
    "https://huurportaal.nl/en/listings/studio-te-huur-smidspad-in-tilburg-voor-856-p42bfc3": "2026-08-04T08:11:30",
    "https://huurportaal.nl/en/listings/apartment-in-819-hart-van-brabantlaan-5038-lm-tilburg-p96595e": "2026-08-04T08:11:30",
-   "https://huurportaal.nl/en/listings/te-huur-huis-outshoornstraat-13-in-tilburg-p822d07": "2026-08-04T21:01:25"
+   "https://huurportaal.nl/en/listings/te-huur-huis-outshoornstraat-13-in-tilburg-p822d07": "2026-08-04T21:01:25",
+   "https://huurportaal.nl/en/listings/apartment-in-43-wethouderslaan-5021-ak-tilburg-p4fc7f0": "2026-08-05T06:18:33",
+   "https://huurportaal.nl/en/listings/apartment-in-789-hart-van-brabantlaan-5038-ll-tilburg-pe2fc48": "2026-08-05T06:18:33",
+   "https://huurportaal.nl/en/listings/op-zoek-naar-een-prachtige-kamer-in-het-hart-van-t-p3ac85c": "2026-08-05T06:18:33"
   },
   "fails": 0,
   "down_notified": false
