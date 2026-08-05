@@ -59,7 +59,10 @@
    "59765": "2026-08-05T12:28:54",
    "59768": "2026-08-05T12:28:54",
    "59771": "2026-08-05T12:28:54",
-   "59772": "2026-08-05T12:28:54"
+   "59772": "2026-08-05T12:28:54",
+   "59649": "2026-08-05T18:09:33",
+   "59673": "2026-08-05T18:09:33",
+   "59688": "2026-08-05T18:09:33"
   },
   "fails": 0,
   "down_notified": false
@@ -148,7 +151,11 @@
    "15223": "2026-08-05T12:29:06",
    "16787": "2026-08-05T12:29:06",
    "16831": "2026-08-05T12:29:06",
-   "16883": "2026-08-05T12:29:06"
+   "16883": "2026-08-05T12:29:06",
+   "16213": "2026-08-05T18:09:37",
+   "16263": "2026-08-05T18:09:37",
+   "16657": "2026-08-05T18:09:37",
+   "16756": "2026-08-05T18:09:37"
   },
   "fails": 0,
   "down_notified": false
@@ -160,19 +167,20 @@
    "https://magisrealestate.com/for-rent/the-wing/9A": "2026-07-31T12:08:58",
    "https://magisrealestate.com/for-rent/novum/342": "2026-08-03T12:39:44",
    "https://magisrealestate.com/for-rent/novum/320": "2026-08-03T12:39:44",
-   "https://magisrealestate.com/for-rent/the-wing/3F": "2026-08-04T16:24:08"
+   "https://magisrealestate.com/for-rent/the-wing/3F": "2026-08-04T16:24:08",
+   "https://magisrealestate.com/for-rent/zernikestraat/34": "2026-08-05T18:09:44"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 24,
+  "fails": 25,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 24,
+  "fails": 25,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -417,7 +425,9 @@
    "https://kamernet.nl/en/for-rent/room-breda/otterring/room-2397848": "2026-08-05T06:17:53",
    "https://kamernet.nl/en/for-rent/apartment-waalwijk/wilhelminastraat/apartment-2397919": "2026-08-05T12:32:14",
    "https://kamernet.nl/en/for-rent/apartment-waalwijk/wilhelminastraat/apartment-2397918": "2026-08-05T12:32:14",
-   "https://kamernet.nl/en/for-rent/room-etten-leur/kloosterlaan/room-2397884": "2026-08-05T12:32:14"
+   "https://kamernet.nl/en/for-rent/room-etten-leur/kloosterlaan/room-2397884": "2026-08-05T12:32:14",
+   "https://kamernet.nl/en/for-rent/room-breda/oranjeboomstraat/room-2398084": "2026-08-05T18:12:08",
+   "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2398055": "2026-08-05T18:12:08"
   },
   "fails": 0,
   "down_notified": false
@@ -470,7 +480,8 @@
    "https://huurportaal.nl/en/listings/te-huur-huis-outshoornstraat-13-in-tilburg-p822d07": "2026-08-04T21:01:25",
    "https://huurportaal.nl/en/listings/apartment-in-43-wethouderslaan-5021-ak-tilburg-p4fc7f0": "2026-08-05T06:18:33",
    "https://huurportaal.nl/en/listings/apartment-in-789-hart-van-brabantlaan-5038-ll-tilburg-pe2fc48": "2026-08-05T06:18:33",
-   "https://huurportaal.nl/en/listings/op-zoek-naar-een-prachtige-kamer-in-het-hart-van-t-p3ac85c": "2026-08-05T06:18:33"
+   "https://huurportaal.nl/en/listings/op-zoek-naar-een-prachtige-kamer-in-het-hart-van-t-p3ac85c": "2026-08-05T06:18:33",
+   "https://huurportaal.nl/en/listings/mooie-kamers-te-huur-in-tilburg-pfe7a92": "2026-08-05T18:12:49"
   },
   "fails": 0,
   "down_notified": false
