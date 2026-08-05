@@ -51,7 +51,15 @@
    "59764": "2026-08-04T16:23:45",
    "59767": "2026-08-04T16:23:45",
    "59769": "2026-08-04T16:23:45",
-   "59770": "2026-08-04T16:23:45"
+   "59770": "2026-08-04T16:23:45",
+   "59403": "2026-08-05T12:28:54",
+   "59458": "2026-08-05T12:28:54",
+   "59666": "2026-08-05T12:28:54",
+   "59714": "2026-08-05T12:28:54",
+   "59765": "2026-08-05T12:28:54",
+   "59768": "2026-08-05T12:28:54",
+   "59771": "2026-08-05T12:28:54",
+   "59772": "2026-08-05T12:28:54"
   },
   "fails": 0,
   "down_notified": false
@@ -136,7 +144,11 @@
    "16898": "2026-08-04T08:08:21",
    "16825": "2026-08-04T16:24:03",
    "16884": "2026-08-04T16:24:03",
-   "16899": "2026-08-04T16:24:03"
+   "16899": "2026-08-04T16:24:03",
+   "15223": "2026-08-05T12:29:06",
+   "16787": "2026-08-05T12:29:06",
+   "16831": "2026-08-05T12:29:06",
+   "16883": "2026-08-05T12:29:06"
   },
   "fails": 0,
   "down_notified": false
@@ -155,12 +167,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 23,
+  "fails": 24,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 23,
+  "fails": 24,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -308,7 +320,23 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1475696-ina-boudier-bakkerlaan-199-k1726": "2026-08-03T22:39:52",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477325-warande-20-k067": "2026-08-03T22:39:52",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477281-van-lieflandlaan-118-k04": "2026-08-03T22:39:52",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477240-otterstraat-2a-k15": "2026-08-03T22:39:52"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477240-otterstraat-2a-k15": "2026-08-03T22:39:52",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477233-elzas-129-k4": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477361-warande-147-k534": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477271-rivierstraat-100-k2": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477358-ina-boudier-bakkerlaan-181-k1638": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1476114-oudegracht-326-bisa-k21": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477101-hondsrug-823-k6": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477351-opaalweg-218-k8": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477107-talent-square-363": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1476212-vaartscherijnstraat-51-k6": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477393-nobelstraat-14-bis-k12": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1475897-cambridgelaan-267-k2": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477356-pythagoraslaan-115-k7": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477078-leuvenplein-273-k1": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477198-ina-boudier-bakkerlaan-101-k1258": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477355-van-lieflandlaan-10-k24": "2026-08-05T12:31:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1476156-warande-146-k526": "2026-08-05T12:31:09"
   },
   "fails": 0,
   "down_notified": false
@@ -326,7 +354,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d51d9812/veldhovenring": "2026-07-30T18:03:55",
    "https://www.pararius.com/studio-for-rent/tilburg/d8df353e/wittebollestraat": "2026-08-03T12:42:11",
    "https://www.pararius.com/studio-for-rent/tilburg/b69b2059/hasseltstraat": "2026-08-03T12:42:11",
-   "https://www.pararius.com/studio-for-rent/tilburg/b5b64bf7/primus-van-gilspark": "2026-08-03T22:40:32"
+   "https://www.pararius.com/studio-for-rent/tilburg/b5b64bf7/primus-van-gilspark": "2026-08-03T22:40:32",
+   "https://www.pararius.com/studio-for-rent/tilburg/84d73991/buurmalsenlaan": "2026-08-05T12:32:11"
   },
   "fails": 0,
   "down_notified": false
@@ -385,7 +414,10 @@
    "https://kamernet.nl/en/for-rent/room-breda/smaragdstraat/room-2396959": "2026-08-04T16:26:31",
    "https://kamernet.nl/en/for-rent/room-etten-leur/speelveld/room-2357469": "2026-08-04T16:26:31",
    "https://kamernet.nl/en/for-rent/room-tilburg/statenlaan/room-2339942": "2026-08-04T16:26:31",
-   "https://kamernet.nl/en/for-rent/room-breda/otterring/room-2397848": "2026-08-05T06:17:53"
+   "https://kamernet.nl/en/for-rent/room-breda/otterring/room-2397848": "2026-08-05T06:17:53",
+   "https://kamernet.nl/en/for-rent/apartment-waalwijk/wilhelminastraat/apartment-2397919": "2026-08-05T12:32:14",
+   "https://kamernet.nl/en/for-rent/apartment-waalwijk/wilhelminastraat/apartment-2397918": "2026-08-05T12:32:14",
+   "https://kamernet.nl/en/for-rent/room-etten-leur/kloosterlaan/room-2397884": "2026-08-05T12:32:14"
   },
   "fails": 0,
   "down_notified": false
