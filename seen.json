@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 34,
+  "fails": 35,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 34,
+  "fails": 35,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -366,7 +366,22 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477378-plutolaan-329a-104": "2026-08-07T01:46:41",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477379-plutolaan-329a-105": "2026-08-07T01:46:41",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477375-plutolaan-329a-106": "2026-08-07T01:46:41",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477374-plutolaan-329a-107": "2026-08-07T01:46:41"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477374-plutolaan-329a-107": "2026-08-07T01:46:41",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477404-noorderstraat-3-k12": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477397-van-lieflandlaan-52-k24": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477138-pythagoraslaan-105c-k1": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477398-lange-nieuwstraat-6-k31": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477218-cambridgelaan-289-k1": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477396-lauwerecht-52-k21": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477389-wouter-van%20doeverenplein-40-k8": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477391-van-lieflandlaan-76-k21": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477395-pythagoraslaan-115-k2": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477400-salamancapad-77-k02": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477387-pythagoraslaan-107c-k1": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477388-winschoterdiep-46-c92": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477401-wouter-van%20doeverenplein-44-k3": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477336-cambridgelaan-367": "2026-08-07T22:10:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477402-van-lieflandlaan-64-k21": "2026-08-07T22:10:56"
   },
   "fails": 0,
   "down_notified": false
