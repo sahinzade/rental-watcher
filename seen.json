@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 29,
+  "fails": 30,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 29,
+  "fails": 30,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -455,7 +455,11 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/hoefstraat/room-2398218": "2026-08-07T01:47:39",
    "https://kamernet.nl/en/for-rent/room-tilburg/ringbaan-noord/room-2398215": "2026-08-07T01:47:39",
    "https://kamernet.nl/en/for-rent/apartment-eindhoven/henk-van-den-broeklaan/apartment-2398212": "2026-08-07T01:47:39",
-   "https://kamernet.nl/en/for-rent/room-vlijmen/braillelaan/room-2398178": "2026-08-07T01:47:39"
+   "https://kamernet.nl/en/for-rent/room-vlijmen/braillelaan/room-2398178": "2026-08-07T01:47:39",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2398397": "2026-08-07T09:43:02",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2398396": "2026-08-07T09:43:02",
+   "https://kamernet.nl/en/for-rent/room-tilburg/treubstraat/room-2398351": "2026-08-07T09:43:02",
+   "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2398282": "2026-08-07T09:43:02"
   },
   "fails": 0,
   "down_notified": false
@@ -511,7 +515,10 @@
    "https://huurportaal.nl/en/listings/op-zoek-naar-een-prachtige-kamer-in-het-hart-van-t-p3ac85c": "2026-08-05T06:18:33",
    "https://huurportaal.nl/en/listings/mooie-kamers-te-huur-in-tilburg-pfe7a92": "2026-08-05T18:12:49",
    "https://huurportaal.nl/en/listings/te-huur-huis-oude-goirleseweg-in-tilburg-ped0684": "2026-08-07T01:48:23",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-heikestraat-in-tilburg-p7c8342": "2026-08-07T06:05:25"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-heikestraat-in-tilburg-p7c8342": "2026-08-07T06:05:25",
+   "https://huurportaal.nl/en/listings/house-in-15-antillenplein-5046-cd-tilburg-pdbe230": "2026-08-07T09:43:47",
+   "https://huurportaal.nl/en/listings/house-in-8-ottergraaf-5032-ec-tilburg-pfd847a": "2026-08-07T09:43:47",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-28m2-p1447a1": "2026-08-07T09:43:47"
   },
   "fails": 0,
   "down_notified": false
