@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 37,
+  "fails": 38,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 37,
+  "fails": 38,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -536,7 +536,9 @@
    "https://huurportaal.nl/en/listings/house-in-15-antillenplein-5046-cd-tilburg-pdbe230": "2026-08-07T09:43:47",
    "https://huurportaal.nl/en/listings/house-in-8-ottergraaf-5032-ec-tilburg-pfd847a": "2026-08-07T09:43:47",
    "https://huurportaal.nl/en/listings/studio-studio-surface-area-28m2-p1447a1": "2026-08-07T09:43:47",
-   "https://huurportaal.nl/en/listings/apartment-in-38-conradhof-5025-dz-tilburg-p51bcc2": "2026-08-07T23:55:43"
+   "https://huurportaal.nl/en/listings/apartment-in-38-conradhof-5025-dz-tilburg-p51bcc2": "2026-08-07T23:55:43",
+   "https://huurportaal.nl/en/listings/apartment-in-187-rubinsteinstraat-5011-na-tilburg-p98d59d": "2026-08-08T06:29:21",
+   "https://huurportaal.nl/en/listings/woning-te-huur-pc2a8f3": "2026-08-08T06:29:21"
   },
   "fails": 0,
   "down_notified": false
