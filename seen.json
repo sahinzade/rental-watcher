@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 38,
+  "fails": 39,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 38,
+  "fails": 39,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -476,7 +476,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/treubstraat/room-2398351": "2026-08-07T09:43:02",
    "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2398282": "2026-08-07T09:43:02",
    "https://kamernet.nl/en/for-rent/apartment-breda/st-janstraat/apartment-2398462": "2026-08-07T15:16:49",
-   "https://kamernet.nl/en/for-rent/apartment-tilburg/arendlaan/apartment-2398464": "2026-08-07T15:16:49"
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/arendlaan/apartment-2398464": "2026-08-07T15:16:49",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/commissaris-de-quaylaan/room-2398534": "2026-08-08T08:25:19",
+   "https://kamernet.nl/en/for-rent/room-tilburg/stationsstraat/room-2398486": "2026-08-08T08:25:19"
   },
   "fails": 0,
   "down_notified": false
