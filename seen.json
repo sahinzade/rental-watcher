@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 53,
+  "fails": 54,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 53,
+  "fails": 54,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -491,7 +491,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/landheining/room-2398633": "2026-08-08T15:17:15",
    "https://kamernet.nl/en/for-rent/room-tilburg/oude-langstraat/room-2398769": "2026-08-09T08:29:31",
    "https://kamernet.nl/en/for-rent/studio-breda/nieuwe-boschstraat/studio-2398790": "2026-08-09T10:10:46",
-   "https://kamernet.nl/en/for-rent/studio-wagenberg/vogelstraat/studio-2398788": "2026-08-09T10:10:46"
+   "https://kamernet.nl/en/for-rent/studio-wagenberg/vogelstraat/studio-2398788": "2026-08-09T10:10:46",
+   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-doorwerthstraat/room-2398813": "2026-08-09T11:51:47"
   },
   "fails": 0,
   "down_notified": false
