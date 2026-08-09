@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 50,
+  "fails": 51,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 50,
+  "fails": 51,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -552,7 +552,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-187-rubinsteinstraat-5011-na-tilburg-p98d59d": "2026-08-08T06:29:21",
    "https://huurportaal.nl/en/listings/woning-te-huur-pc2a8f3": "2026-08-08T06:29:21",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p94bb84": "2026-08-08T11:46:11",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-schouwburgring-in-tilburg-p52a118": "2026-08-08T19:49:11"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-schouwburgring-in-tilburg-p52a118": "2026-08-08T19:49:11",
+   "https://huurportaal.nl/en/listings/huisgenoot-gezocht-pd5b181": "2026-08-09T06:35:24",
+   "https://huurportaal.nl/en/listings/house-in-204-lange-nieuwstraat-5041-dj-tilburg-pe6b940": "2026-08-09T06:35:24"
   },
   "fails": 0,
   "down_notified": false
