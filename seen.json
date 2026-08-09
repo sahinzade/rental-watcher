@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 60,
+  "fails": 61,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 60,
+  "fails": 61,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -430,7 +430,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/b74ac2ef/korvelseweg": "2026-08-07T01:47:36",
    "https://www.pararius.com/studio-for-rent/tilburg/f7eda4f0/rosmolenplein": "2026-08-07T01:47:36"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -578,7 +578,9 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-schouwburgring-in-tilburg-p52a118": "2026-08-08T19:49:11",
    "https://huurportaal.nl/en/listings/huisgenoot-gezocht-pd5b181": "2026-08-09T06:35:24",
    "https://huurportaal.nl/en/listings/house-in-204-lange-nieuwstraat-5041-dj-tilburg-pe6b940": "2026-08-09T06:35:24",
-   "https://huurportaal.nl/en/listings/apartment-in-324-postelse-hoeflaan-5042-ks-tilburg-pc54e03": "2026-08-09T08:30:11"
+   "https://huurportaal.nl/en/listings/apartment-in-324-postelse-hoeflaan-5042-ks-tilburg-pc54e03": "2026-08-09T08:30:11",
+   "https://huurportaal.nl/en/listings/woning-te-huur-cederstraat-39-5037jb-tilburg-p61a591": "2026-08-09T23:55:59",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p16c724": "2026-08-09T23:55:59"
   },
   "fails": 0,
   "down_notified": false
