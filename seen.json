@@ -173,7 +173,8 @@
    "16915": "2026-08-10T12:36:14",
    "16934": "2026-08-10T12:36:14",
    "16935": "2026-08-10T12:36:14",
-   "16936": "2026-08-10T12:36:14"
+   "16936": "2026-08-10T12:36:14",
+   "16937": "2026-08-10T15:45:07"
   },
   "fails": 0,
   "down_notified": false
@@ -194,12 +195,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 64,
+  "fails": 65,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 64,
+  "fails": 65,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -532,7 +533,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-doorwerthstraat/room-2398813": "2026-08-09T11:51:47",
    "https://kamernet.nl/en/for-rent/room-breda/prins-hendrikstraat/room-2398921": "2026-08-10T10:05:36",
    "https://kamernet.nl/en/for-rent/room-breda/wilhelminasingel/room-2399036": "2026-08-10T12:39:10",
-   "https://kamernet.nl/en/for-rent/apartment-breda/wilhelminasingel/apartment-2398989": "2026-08-10T12:39:10"
+   "https://kamernet.nl/en/for-rent/apartment-breda/wilhelminasingel/apartment-2398989": "2026-08-10T12:39:10",
+   "https://kamernet.nl/en/for-rent/room-breda/prins-hendrikstraat/room-2398863": "2026-08-10T15:47:32"
   },
   "fails": 0,
   "down_notified": false
