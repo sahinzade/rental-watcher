@@ -195,12 +195,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 67,
+  "fails": 68,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 67,
+  "fails": 68,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -424,7 +424,31 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477156-amsterdamsestraatweg-237b-k24": "2026-08-09T22:07:30",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477369-cambridgelaan-573-k22": "2026-08-09T22:07:30",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477446-europaplein-678": "2026-08-09T22:07:30",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477430-ina-boudier-bakkerlaan-85-k1305": "2026-08-09T22:07:30"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477430-ina-boudier-bakkerlaan-85-k1305": "2026-08-09T22:07:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477467-johan-willem%20frisostraat-20-k95": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477458-pythagoraslaan-123a-k4": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477362-bisschopssteeg-605-k1": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477462-talent-square-226": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477459-salamancapad-343": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477453-wouter-van%20doeverenplein-74-k2": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477450-salamancapad-17-k04": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477424-pythagoraslaan-117d-k6": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477422-zevenwouden-260-3-k02": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477199-hondsrug-137-k4": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477461-wouter-van%20doeverenplein-58-k5": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477399-cambridgelaan-497-k31": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477455-bisschopssteeg-619-k2": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477419-talent-square-466": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477265-cambridgelaan-577-k21": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477457-opaalweg-242-k5": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477465-abstederdijk-200-k01": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477449-warande-43-k195": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477451-van-lieflandlaan-38-k21": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477454-leliestraat-214": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477468-opaalweg-254-k3": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477394-warande-179-k690": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477371-talentenplein-158": "2026-08-10T23:12:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477452-salamancapad-17-k02": "2026-08-10T23:12:18"
   },
   "fails": 0,
   "down_notified": false
@@ -447,7 +471,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/b74ac2ef/korvelseweg": "2026-08-07T01:47:36",
    "https://www.pararius.com/studio-for-rent/tilburg/f7eda4f0/rosmolenplein": "2026-08-07T01:47:36",
    "https://www.pararius.com/studio-for-rent/tilburg/c07a967b/korvelseweg": "2026-08-10T10:05:34",
-   "https://www.pararius.com/studio-for-rent/tilburg/fb54a456/ringbaan-oost": "2026-08-10T12:39:07"
+   "https://www.pararius.com/studio-for-rent/tilburg/fb54a456/ringbaan-oost": "2026-08-10T12:39:07",
+   "https://www.pararius.com/studio-for-rent/tilburg/d1d4a731/enschotsestraat": "2026-08-10T23:13:31"
   },
   "fails": 0,
   "down_notified": false
