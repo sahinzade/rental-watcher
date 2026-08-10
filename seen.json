@@ -178,12 +178,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 61,
+  "fails": 62,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 61,
+  "fails": 62,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -580,7 +580,8 @@
    "https://huurportaal.nl/en/listings/house-in-204-lange-nieuwstraat-5041-dj-tilburg-pe6b940": "2026-08-09T06:35:24",
    "https://huurportaal.nl/en/listings/apartment-in-324-postelse-hoeflaan-5042-ks-tilburg-pc54e03": "2026-08-09T08:30:11",
    "https://huurportaal.nl/en/listings/woning-te-huur-cederstraat-39-5037jb-tilburg-p61a591": "2026-08-09T23:55:59",
-   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p16c724": "2026-08-09T23:55:59"
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p16c724": "2026-08-09T23:55:59",
+   "https://huurportaal.nl/en/listings/apartment-in-92-reinevaarstraat-5044-hg-tilburg-p3b84ec": "2026-08-10T05:14:50"
   },
   "fails": 0,
   "down_notified": false
