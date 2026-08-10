@@ -158,7 +158,13 @@
    "16657": "2026-08-05T18:09:37",
    "16756": "2026-08-05T18:09:37",
    "16189": "2026-08-06T08:02:53",
-   "16908": "2026-08-06T08:02:53"
+   "16908": "2026-08-06T08:02:53",
+   "16892": "2026-08-10T10:03:02",
+   "16893": "2026-08-10T10:03:02",
+   "16905": "2026-08-10T10:03:02",
+   "16912": "2026-08-10T10:03:02",
+   "16916": "2026-08-10T10:03:02",
+   "16917": "2026-08-10T10:03:02"
   },
   "fails": 0,
   "down_notified": false
@@ -171,19 +177,20 @@
    "https://magisrealestate.com/for-rent/novum/342": "2026-08-03T12:39:44",
    "https://magisrealestate.com/for-rent/novum/320": "2026-08-03T12:39:44",
    "https://magisrealestate.com/for-rent/the-wing/3F": "2026-08-04T16:24:08",
-   "https://magisrealestate.com/for-rent/zernikestraat/34": "2026-08-05T18:09:44"
+   "https://magisrealestate.com/for-rent/zernikestraat/34": "2026-08-05T18:09:44",
+   "https://magisrealestate.com/for-rent/the-city/The%20Cozy%20Nest": "2026-08-10T10:03:11"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 62,
+  "fails": 63,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 62,
+  "fails": 63,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -428,7 +435,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/b5b64bf7/primus-van-gilspark": "2026-08-03T22:40:32",
    "https://www.pararius.com/studio-for-rent/tilburg/84d73991/buurmalsenlaan": "2026-08-05T12:32:11",
    "https://www.pararius.com/studio-for-rent/tilburg/b74ac2ef/korvelseweg": "2026-08-07T01:47:36",
-   "https://www.pararius.com/studio-for-rent/tilburg/f7eda4f0/rosmolenplein": "2026-08-07T01:47:36"
+   "https://www.pararius.com/studio-for-rent/tilburg/f7eda4f0/rosmolenplein": "2026-08-07T01:47:36",
+   "https://www.pararius.com/studio-for-rent/tilburg/c07a967b/korvelseweg": "2026-08-10T10:05:34"
   },
   "fails": 0,
   "down_notified": false
@@ -511,7 +519,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/oude-langstraat/room-2398769": "2026-08-09T08:29:31",
    "https://kamernet.nl/en/for-rent/studio-breda/nieuwe-boschstraat/studio-2398790": "2026-08-09T10:10:46",
    "https://kamernet.nl/en/for-rent/studio-wagenberg/vogelstraat/studio-2398788": "2026-08-09T10:10:46",
-   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-doorwerthstraat/room-2398813": "2026-08-09T11:51:47"
+   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-doorwerthstraat/room-2398813": "2026-08-09T11:51:47",
+   "https://kamernet.nl/en/for-rent/room-breda/prins-hendrikstraat/room-2398921": "2026-08-10T10:05:36"
   },
   "fails": 0,
   "down_notified": false
@@ -581,7 +590,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-324-postelse-hoeflaan-5042-ks-tilburg-pc54e03": "2026-08-09T08:30:11",
    "https://huurportaal.nl/en/listings/woning-te-huur-cederstraat-39-5037jb-tilburg-p61a591": "2026-08-09T23:55:59",
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p16c724": "2026-08-09T23:55:59",
-   "https://huurportaal.nl/en/listings/apartment-in-92-reinevaarstraat-5044-hg-tilburg-p3b84ec": "2026-08-10T05:14:50"
+   "https://huurportaal.nl/en/listings/apartment-in-92-reinevaarstraat-5044-hg-tilburg-p3b84ec": "2026-08-10T05:14:50",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-veldhovenring-in-tilburg-pb23c0a": "2026-08-10T10:06:16"
   },
   "fails": 0,
   "down_notified": false
