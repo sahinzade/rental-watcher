@@ -164,7 +164,16 @@
    "16905": "2026-08-10T10:03:02",
    "16912": "2026-08-10T10:03:02",
    "16916": "2026-08-10T10:03:02",
-   "16917": "2026-08-10T10:03:02"
+   "16917": "2026-08-10T10:03:02",
+   "16887": "2026-08-10T12:36:14",
+   "16888": "2026-08-10T12:36:14",
+   "16894": "2026-08-10T12:36:14",
+   "16895": "2026-08-10T12:36:14",
+   "16906": "2026-08-10T12:36:14",
+   "16915": "2026-08-10T12:36:14",
+   "16934": "2026-08-10T12:36:14",
+   "16935": "2026-08-10T12:36:14",
+   "16936": "2026-08-10T12:36:14"
   },
   "fails": 0,
   "down_notified": false
@@ -185,12 +194,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 63,
+  "fails": 64,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 63,
+  "fails": 64,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -436,7 +445,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/84d73991/buurmalsenlaan": "2026-08-05T12:32:11",
    "https://www.pararius.com/studio-for-rent/tilburg/b74ac2ef/korvelseweg": "2026-08-07T01:47:36",
    "https://www.pararius.com/studio-for-rent/tilburg/f7eda4f0/rosmolenplein": "2026-08-07T01:47:36",
-   "https://www.pararius.com/studio-for-rent/tilburg/c07a967b/korvelseweg": "2026-08-10T10:05:34"
+   "https://www.pararius.com/studio-for-rent/tilburg/c07a967b/korvelseweg": "2026-08-10T10:05:34",
+   "https://www.pararius.com/studio-for-rent/tilburg/fb54a456/ringbaan-oost": "2026-08-10T12:39:07"
   },
   "fails": 0,
   "down_notified": false
@@ -520,7 +530,9 @@
    "https://kamernet.nl/en/for-rent/studio-breda/nieuwe-boschstraat/studio-2398790": "2026-08-09T10:10:46",
    "https://kamernet.nl/en/for-rent/studio-wagenberg/vogelstraat/studio-2398788": "2026-08-09T10:10:46",
    "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-doorwerthstraat/room-2398813": "2026-08-09T11:51:47",
-   "https://kamernet.nl/en/for-rent/room-breda/prins-hendrikstraat/room-2398921": "2026-08-10T10:05:36"
+   "https://kamernet.nl/en/for-rent/room-breda/prins-hendrikstraat/room-2398921": "2026-08-10T10:05:36",
+   "https://kamernet.nl/en/for-rent/room-breda/wilhelminasingel/room-2399036": "2026-08-10T12:39:10",
+   "https://kamernet.nl/en/for-rent/apartment-breda/wilhelminasingel/apartment-2398989": "2026-08-10T12:39:10"
   },
   "fails": 0,
   "down_notified": false
