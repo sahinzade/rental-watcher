@@ -63,7 +63,8 @@
    "59649": "2026-08-05T18:09:33",
    "59673": "2026-08-05T18:09:33",
    "59688": "2026-08-05T18:09:33",
-   "59636": "2026-08-07T01:44:42"
+   "59636": "2026-08-07T01:44:42",
+   "59783": "2026-08-11T11:09:30"
   },
   "fails": 0,
   "down_notified": false
@@ -195,12 +196,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 70,
+  "fails": 71,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 70,
+  "fails": 71,
   "down_notified": true
  },
  "SSH Short Stay": {
