@@ -202,12 +202,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 76,
+  "fails": 77,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 76,
+  "fails": 77,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -465,7 +465,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477470-prinsendam-438": "2026-08-11T22:29:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477456-trouwhof-24": "2026-08-11T22:29:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477464-cambridgelaan-283-k2": "2026-08-11T22:29:27",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477466-cambridgelaan-247-k4": "2026-08-11T22:29:27"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477466-cambridgelaan-247-k4": "2026-08-11T22:29:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/466-pilotenlaan-85a": "2026-08-12T09:44:20"
   },
   "fails": 0,
   "down_notified": false
@@ -579,7 +580,9 @@
    "https://kamernet.nl/en/for-rent/apartment-breda/wilhelminasingel/apartment-2398989": "2026-08-10T12:39:10",
    "https://kamernet.nl/en/for-rent/room-breda/prins-hendrikstraat/room-2398863": "2026-08-10T15:47:32",
    "https://kamernet.nl/en/for-rent/room-tilburg/beneluxlaan/room-2399295": "2026-08-11T14:47:47",
-   "https://kamernet.nl/en/for-rent/room-tilburg/ringbaan-oost/room-2399259": "2026-08-11T14:47:47"
+   "https://kamernet.nl/en/for-rent/room-tilburg/ringbaan-oost/room-2399259": "2026-08-11T14:47:47",
+   "https://kamernet.nl/en/for-rent/room-breda/magnoliastraat/room-2399407": "2026-08-12T09:45:01",
+   "https://kamernet.nl/en/for-rent/room-tilburg/van-de-coulsterstraat/room-2399409": "2026-08-12T09:45:01"
   },
   "fails": 0,
   "down_notified": false
@@ -655,7 +658,8 @@
    "https://huurportaal.nl/en/listings/studio-te-huur-vendeliersstraat-in-tilburg-voor-1-000-p2e405d": "2026-08-11T18:09:19",
    "https://huurportaal.nl/en/listings/apartment-in-136-borculolaan-5043-zv-tilburg-pfcdf5e": "2026-08-11T18:09:19",
    "https://huurportaal.nl/en/listings/het-muniaat-p9ffaa2": "2026-08-11T22:30:58",
-   "https://huurportaal.nl/en/listings/bosscheweg-kamer-te-huur-p87de9e": "2026-08-12T05:16:38"
+   "https://huurportaal.nl/en/listings/bosscheweg-kamer-te-huur-p87de9e": "2026-08-12T05:16:38",
+   "https://huurportaal.nl/en/listings/koopvaardijstraat-17-21-tilburg-pe7a914": "2026-08-12T09:45:42"
   },
   "fails": 0,
   "down_notified": false
