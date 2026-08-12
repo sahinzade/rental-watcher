@@ -182,7 +182,12 @@
    "16935": "2026-08-10T12:36:14",
    "16936": "2026-08-10T12:36:14",
    "16937": "2026-08-10T15:45:07",
-   "16941": "2026-08-11T14:45:10"
+   "16941": "2026-08-11T14:45:10",
+   "16889": "2026-08-12T15:32:19",
+   "16890": "2026-08-12T15:32:19",
+   "16902": "2026-08-12T15:32:19",
+   "16903": "2026-08-12T15:32:19",
+   "16913": "2026-08-12T15:32:19"
   },
   "fails": 0,
   "down_notified": false
@@ -203,12 +208,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 78,
+  "fails": 79,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 78,
+  "fails": 79,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -467,7 +472,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477456-trouwhof-24": "2026-08-11T22:29:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477464-cambridgelaan-283-k2": "2026-08-11T22:29:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477466-cambridgelaan-247-k4": "2026-08-11T22:29:27",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/external/466-pilotenlaan-85a": "2026-08-12T09:44:20"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/466-pilotenlaan-85a": "2026-08-12T09:44:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477510-wouter-van%20doeverenplein-58-k4": "2026-08-12T15:34:26"
   },
   "fails": 0,
   "down_notified": false
@@ -584,7 +590,10 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/ringbaan-oost/room-2399259": "2026-08-11T14:47:47",
    "https://kamernet.nl/en/for-rent/room-breda/magnoliastraat/room-2399407": "2026-08-12T09:45:01",
    "https://kamernet.nl/en/for-rent/room-tilburg/van-de-coulsterstraat/room-2399409": "2026-08-12T09:45:01",
-   "https://kamernet.nl/en/for-rent/apartment-den-bosch/postelstraat/apartment-2399406": "2026-08-12T12:09:02"
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/postelstraat/apartment-2399406": "2026-08-12T12:09:02",
+   "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2399009": "2026-08-12T15:35:07",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/hasseltstraat/studio-2399485": "2026-08-12T15:35:07",
+   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2399451": "2026-08-12T15:35:07"
   },
   "fails": 0,
   "down_notified": false
@@ -661,7 +670,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-136-borculolaan-5043-zv-tilburg-pfcdf5e": "2026-08-11T18:09:19",
    "https://huurportaal.nl/en/listings/het-muniaat-p9ffaa2": "2026-08-11T22:30:58",
    "https://huurportaal.nl/en/listings/bosscheweg-kamer-te-huur-p87de9e": "2026-08-12T05:16:38",
-   "https://huurportaal.nl/en/listings/koopvaardijstraat-17-21-tilburg-pe7a914": "2026-08-12T09:45:42"
+   "https://huurportaal.nl/en/listings/koopvaardijstraat-17-21-tilburg-pe7a914": "2026-08-12T09:45:42",
+   "https://huurportaal.nl/en/listings/apartment-in-84-juralaan-5022-lh-tilburg-p8f4a51": "2026-08-12T15:35:50",
+   "https://huurportaal.nl/en/listings/apartment-in-216-generaal-smutslaan-5021-xe-tilburg-p10683f": "2026-08-12T15:35:50"
   },
   "fails": 0,
   "down_notified": false
