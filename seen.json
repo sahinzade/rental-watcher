@@ -69,7 +69,8 @@
    "59785": "2026-08-11T14:45:03",
    "59786": "2026-08-11T14:45:03",
    "59787": "2026-08-11T14:45:03",
-   "59789": "2026-08-11T14:45:03"
+   "59789": "2026-08-11T14:45:03",
+   "59791": "2026-08-12T12:06:22"
   },
   "fails": 0,
   "down_notified": false
@@ -202,12 +203,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 77,
+  "fails": 78,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 77,
+  "fails": 78,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -582,7 +583,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/beneluxlaan/room-2399295": "2026-08-11T14:47:47",
    "https://kamernet.nl/en/for-rent/room-tilburg/ringbaan-oost/room-2399259": "2026-08-11T14:47:47",
    "https://kamernet.nl/en/for-rent/room-breda/magnoliastraat/room-2399407": "2026-08-12T09:45:01",
-   "https://kamernet.nl/en/for-rent/room-tilburg/van-de-coulsterstraat/room-2399409": "2026-08-12T09:45:01"
+   "https://kamernet.nl/en/for-rent/room-tilburg/van-de-coulsterstraat/room-2399409": "2026-08-12T09:45:01",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/postelstraat/apartment-2399406": "2026-08-12T12:09:02"
   },
   "fails": 0,
   "down_notified": false
