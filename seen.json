@@ -187,7 +187,9 @@
    "16890": "2026-08-12T15:32:19",
    "16902": "2026-08-12T15:32:19",
    "16903": "2026-08-12T15:32:19",
-   "16913": "2026-08-12T15:32:19"
+   "16913": "2026-08-12T15:32:19",
+   "14954": "2026-08-13T15:34:21",
+   "16967": "2026-08-13T15:34:21"
   },
   "fails": 0,
   "down_notified": false
@@ -208,12 +210,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 85,
+  "fails": 86,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 85,
+  "fails": 86,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -604,7 +606,8 @@
    "https://kamernet.nl/en/for-rent/studio-tilburg/hasseltstraat/studio-2399485": "2026-08-12T15:35:07",
    "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2399451": "2026-08-12T15:35:07",
    "https://kamernet.nl/en/for-rent/room-breda/stationslaan/room-2399606": "2026-08-13T09:46:05",
-   "https://kamernet.nl/en/for-rent/room-breda/vaartbossen/room-2399547": "2026-08-13T09:46:05"
+   "https://kamernet.nl/en/for-rent/room-breda/vaartbossen/room-2399547": "2026-08-13T09:46:05",
+   "https://kamernet.nl/en/for-rent/room-breda/hoge-steenweg/room-2399684": "2026-08-13T15:37:04"
   },
   "fails": 0,
   "down_notified": false
@@ -684,7 +687,8 @@
    "https://huurportaal.nl/en/listings/koopvaardijstraat-17-21-tilburg-pe7a914": "2026-08-12T09:45:42",
    "https://huurportaal.nl/en/listings/apartment-in-84-juralaan-5022-lh-tilburg-p8f4a51": "2026-08-12T15:35:50",
    "https://huurportaal.nl/en/listings/apartment-in-216-generaal-smutslaan-5021-xe-tilburg-p10683f": "2026-08-12T15:35:50",
-   "https://huurportaal.nl/en/listings/lariksplaats-118-tilburg-p8f51b3": "2026-08-13T12:10:39"
+   "https://huurportaal.nl/en/listings/lariksplaats-118-tilburg-p8f51b3": "2026-08-13T12:10:39",
+   "https://huurportaal.nl/en/listings/house-in-34-tourmaletstraat-5022-ph-tilburg-p353deb": "2026-08-13T15:37:45"
   },
   "fails": 0,
   "down_notified": false
