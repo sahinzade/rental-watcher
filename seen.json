@@ -210,12 +210,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 87,
+  "fails": 88,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 87,
+  "fails": 88,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -511,7 +511,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/978bb2cd/hasseltstraat": "2026-08-12T05:15:53",
    "https://www.pararius.com/studio-for-rent/tilburg/ca1b71c0/korvelseweg": "2026-08-13T12:09:59"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -607,7 +607,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2399451": "2026-08-12T15:35:07",
    "https://kamernet.nl/en/for-rent/room-breda/stationslaan/room-2399606": "2026-08-13T09:46:05",
    "https://kamernet.nl/en/for-rent/room-breda/vaartbossen/room-2399547": "2026-08-13T09:46:05",
-   "https://kamernet.nl/en/for-rent/room-breda/hoge-steenweg/room-2399684": "2026-08-13T15:37:04"
+   "https://kamernet.nl/en/for-rent/room-breda/hoge-steenweg/room-2399684": "2026-08-13T15:37:04",
+   "https://kamernet.nl/en/for-rent/room-breda/molenstraat/room-2399747": "2026-08-13T21:32:03"
   },
   "fails": 0,
   "down_notified": false
