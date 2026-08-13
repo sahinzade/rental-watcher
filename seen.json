@@ -208,12 +208,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 83,
+  "fails": 84,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 83,
+  "fails": 84,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -601,7 +601,9 @@
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/postelstraat/apartment-2399406": "2026-08-12T12:09:02",
    "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2399009": "2026-08-12T15:35:07",
    "https://kamernet.nl/en/for-rent/studio-tilburg/hasseltstraat/studio-2399485": "2026-08-12T15:35:07",
-   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2399451": "2026-08-12T15:35:07"
+   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2399451": "2026-08-12T15:35:07",
+   "https://kamernet.nl/en/for-rent/room-breda/stationslaan/room-2399606": "2026-08-13T09:46:05",
+   "https://kamernet.nl/en/for-rent/room-breda/vaartbossen/room-2399547": "2026-08-13T09:46:05"
   },
   "fails": 0,
   "down_notified": false
