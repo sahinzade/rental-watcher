@@ -208,12 +208,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 84,
+  "fails": 85,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 84,
+  "fails": 85,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -506,7 +506,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/c07a967b/korvelseweg": "2026-08-10T10:05:34",
    "https://www.pararius.com/studio-for-rent/tilburg/fb54a456/ringbaan-oost": "2026-08-10T12:39:07",
    "https://www.pararius.com/studio-for-rent/tilburg/d1d4a731/enschotsestraat": "2026-08-10T23:13:31",
-   "https://www.pararius.com/studio-for-rent/tilburg/978bb2cd/hasseltstraat": "2026-08-12T05:15:53"
+   "https://www.pararius.com/studio-for-rent/tilburg/978bb2cd/hasseltstraat": "2026-08-12T05:15:53",
+   "https://www.pararius.com/studio-for-rent/tilburg/ca1b71c0/korvelseweg": "2026-08-13T12:09:59"
   },
   "fails": 0,
   "down_notified": false
@@ -682,7 +683,8 @@
    "https://huurportaal.nl/en/listings/bosscheweg-kamer-te-huur-p87de9e": "2026-08-12T05:16:38",
    "https://huurportaal.nl/en/listings/koopvaardijstraat-17-21-tilburg-pe7a914": "2026-08-12T09:45:42",
    "https://huurportaal.nl/en/listings/apartment-in-84-juralaan-5022-lh-tilburg-p8f4a51": "2026-08-12T15:35:50",
-   "https://huurportaal.nl/en/listings/apartment-in-216-generaal-smutslaan-5021-xe-tilburg-p10683f": "2026-08-12T15:35:50"
+   "https://huurportaal.nl/en/listings/apartment-in-216-generaal-smutslaan-5021-xe-tilburg-p10683f": "2026-08-12T15:35:50",
+   "https://huurportaal.nl/en/listings/lariksplaats-118-tilburg-p8f51b3": "2026-08-13T12:10:39"
   },
   "fails": 0,
   "down_notified": false
