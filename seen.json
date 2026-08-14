@@ -195,7 +195,8 @@
    "16412": "2026-08-14T09:31:16",
    "16413": "2026-08-14T09:31:16",
    "16414": "2026-08-14T09:31:16",
-   "16896": "2026-08-14T09:31:16"
+   "16896": "2026-08-14T09:31:16",
+   "16901": "2026-08-14T12:01:26"
   },
   "fails": 0,
   "down_notified": false
@@ -216,12 +217,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 91,
+  "fails": 92,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 91,
+  "fails": 92,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -624,7 +625,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/hoge-steenweg/room-2399684": "2026-08-13T15:37:04",
    "https://kamernet.nl/en/for-rent/room-breda/molenstraat/room-2399747": "2026-08-13T21:32:03",
    "https://kamernet.nl/en/for-rent/room-vlijmen/braillelaan/room-2399816": "2026-08-14T09:34:05",
-   "https://kamernet.nl/en/for-rent/room-tilburg/schagenstraat/room-2399730": "2026-08-14T09:34:05"
+   "https://kamernet.nl/en/for-rent/room-tilburg/schagenstraat/room-2399730": "2026-08-14T09:34:05",
+   "https://kamernet.nl/en/for-rent/room-breda/clematisstraat/room-2399531": "2026-08-14T12:04:09"
   },
   "fails": 0,
   "down_notified": false
@@ -708,7 +710,8 @@
    "https://huurportaal.nl/en/listings/house-in-34-tourmaletstraat-5022-ph-tilburg-p353deb": "2026-08-13T15:37:45",
    "https://huurportaal.nl/en/listings/kamer-te-huur-p8b31a2": "2026-08-14T05:23:48",
    "https://huurportaal.nl/en/listings/apartment-in-590-bachlaan-5011-bm-tilburg-pdc63ae": "2026-08-14T09:34:46",
-   "https://huurportaal.nl/en/listings/hoefstraat-leuke-kamer-te-huur-op-loopafstand-van-het-centrum-van-tilburg-p48c4d9": "2026-08-14T09:34:46"
+   "https://huurportaal.nl/en/listings/hoefstraat-leuke-kamer-te-huur-op-loopafstand-van-het-centrum-van-tilburg-p48c4d9": "2026-08-14T09:34:46",
+   "https://huurportaal.nl/en/listings/apartment-in-16-professor-rogierhof-5014-nt-tilburg-p7eef02": "2026-08-14T12:04:52"
   },
   "fails": 0,
   "down_notified": false
