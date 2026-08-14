@@ -210,12 +210,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 89,
+  "fails": 90,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 89,
+  "fails": 90,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -697,7 +697,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-84-juralaan-5022-lh-tilburg-p8f4a51": "2026-08-12T15:35:50",
    "https://huurportaal.nl/en/listings/apartment-in-216-generaal-smutslaan-5021-xe-tilburg-p10683f": "2026-08-12T15:35:50",
    "https://huurportaal.nl/en/listings/lariksplaats-118-tilburg-p8f51b3": "2026-08-13T12:10:39",
-   "https://huurportaal.nl/en/listings/house-in-34-tourmaletstraat-5022-ph-tilburg-p353deb": "2026-08-13T15:37:45"
+   "https://huurportaal.nl/en/listings/house-in-34-tourmaletstraat-5022-ph-tilburg-p353deb": "2026-08-13T15:37:45",
+   "https://huurportaal.nl/en/listings/kamer-te-huur-p8b31a2": "2026-08-14T05:23:48"
   },
   "fails": 0,
   "down_notified": false
