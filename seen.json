@@ -189,7 +189,13 @@
    "16903": "2026-08-12T15:32:19",
    "16913": "2026-08-12T15:32:19",
    "14954": "2026-08-13T15:34:21",
-   "16967": "2026-08-13T15:34:21"
+   "16967": "2026-08-13T15:34:21",
+   "14838": "2026-08-14T09:31:16",
+   "16411": "2026-08-14T09:31:16",
+   "16412": "2026-08-14T09:31:16",
+   "16413": "2026-08-14T09:31:16",
+   "16414": "2026-08-14T09:31:16",
+   "16896": "2026-08-14T09:31:16"
   },
   "fails": 0,
   "down_notified": false
@@ -210,12 +216,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 90,
+  "fails": 91,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 90,
+  "fails": 91,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -616,7 +622,9 @@
    "https://kamernet.nl/en/for-rent/room-breda/stationslaan/room-2399606": "2026-08-13T09:46:05",
    "https://kamernet.nl/en/for-rent/room-breda/vaartbossen/room-2399547": "2026-08-13T09:46:05",
    "https://kamernet.nl/en/for-rent/room-breda/hoge-steenweg/room-2399684": "2026-08-13T15:37:04",
-   "https://kamernet.nl/en/for-rent/room-breda/molenstraat/room-2399747": "2026-08-13T21:32:03"
+   "https://kamernet.nl/en/for-rent/room-breda/molenstraat/room-2399747": "2026-08-13T21:32:03",
+   "https://kamernet.nl/en/for-rent/room-vlijmen/braillelaan/room-2399816": "2026-08-14T09:34:05",
+   "https://kamernet.nl/en/for-rent/room-tilburg/schagenstraat/room-2399730": "2026-08-14T09:34:05"
   },
   "fails": 0,
   "down_notified": false
@@ -698,7 +706,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-216-generaal-smutslaan-5021-xe-tilburg-p10683f": "2026-08-12T15:35:50",
    "https://huurportaal.nl/en/listings/lariksplaats-118-tilburg-p8f51b3": "2026-08-13T12:10:39",
    "https://huurportaal.nl/en/listings/house-in-34-tourmaletstraat-5022-ph-tilburg-p353deb": "2026-08-13T15:37:45",
-   "https://huurportaal.nl/en/listings/kamer-te-huur-p8b31a2": "2026-08-14T05:23:48"
+   "https://huurportaal.nl/en/listings/kamer-te-huur-p8b31a2": "2026-08-14T05:23:48",
+   "https://huurportaal.nl/en/listings/apartment-in-590-bachlaan-5011-bm-tilburg-pdc63ae": "2026-08-14T09:34:46",
+   "https://huurportaal.nl/en/listings/hoefstraat-leuke-kamer-te-huur-op-loopafstand-van-het-centrum-van-tilburg-p48c4d9": "2026-08-14T09:34:46"
   },
   "fails": 0,
   "down_notified": false
