@@ -213,17 +213,17 @@
    "https://magisrealestate.com/for-rent/zernikestraat/34": "2026-08-05T18:09:44",
    "https://magisrealestate.com/for-rent/the-city/The%20Cozy%20Nest": "2026-08-10T10:03:11"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 97,
+  "fails": 98,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 97,
+  "fails": 98,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -499,7 +499,12 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477494-bisschopssteeg-619-k5": "2026-08-13T23:29:41",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477498-warande-130-k470": "2026-08-13T23:29:41",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477489-bisschopssteeg-27-k5": "2026-08-13T23:29:41",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477500-gerbrandypad-155": "2026-08-13T23:29:41"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477500-gerbrandypad-155": "2026-08-13T23:29:41",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477502-lunenstraat-26-b": "2026-08-14T22:57:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477514-ina-boudier-bakkerlaan-41-3-k380": "2026-08-14T22:57:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477506-prins-hendriklaan-91-k13": "2026-08-14T22:57:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477503-pythagoraslaan-111-k10": "2026-08-14T22:57:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477515-cambridgelaan-741-k2": "2026-08-14T22:57:24"
   },
   "fails": 0,
   "down_notified": false
