@@ -196,7 +196,8 @@
    "16413": "2026-08-14T09:31:16",
    "16414": "2026-08-14T09:31:16",
    "16896": "2026-08-14T09:31:16",
-   "16901": "2026-08-14T12:01:26"
+   "16901": "2026-08-14T12:01:26",
+   "16985": "2026-08-14T15:10:14"
   },
   "fails": 0,
   "down_notified": false
@@ -217,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 92,
+  "fails": 93,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 92,
+  "fails": 93,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -626,7 +627,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/molenstraat/room-2399747": "2026-08-13T21:32:03",
    "https://kamernet.nl/en/for-rent/room-vlijmen/braillelaan/room-2399816": "2026-08-14T09:34:05",
    "https://kamernet.nl/en/for-rent/room-tilburg/schagenstraat/room-2399730": "2026-08-14T09:34:05",
-   "https://kamernet.nl/en/for-rent/room-breda/clematisstraat/room-2399531": "2026-08-14T12:04:09"
+   "https://kamernet.nl/en/for-rent/room-breda/clematisstraat/room-2399531": "2026-08-14T12:04:09",
+   "https://kamernet.nl/en/for-rent/room-breda/eikstraat/room-2399908": "2026-08-14T15:12:56"
   },
   "fails": 0,
   "down_notified": false
