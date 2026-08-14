@@ -218,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 93,
+  "fails": 94,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 93,
+  "fails": 94,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -713,7 +713,8 @@
    "https://huurportaal.nl/en/listings/kamer-te-huur-p8b31a2": "2026-08-14T05:23:48",
    "https://huurportaal.nl/en/listings/apartment-in-590-bachlaan-5011-bm-tilburg-pdc63ae": "2026-08-14T09:34:46",
    "https://huurportaal.nl/en/listings/hoefstraat-leuke-kamer-te-huur-op-loopafstand-van-het-centrum-van-tilburg-p48c4d9": "2026-08-14T09:34:46",
-   "https://huurportaal.nl/en/listings/apartment-in-16-professor-rogierhof-5014-nt-tilburg-p7eef02": "2026-08-14T12:04:52"
+   "https://huurportaal.nl/en/listings/apartment-in-16-professor-rogierhof-5014-nt-tilburg-p7eef02": "2026-08-14T12:04:52",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-bredaseweg-62-4-in-tilburg-p39e062": "2026-08-14T18:13:38"
   },
   "fails": 0,
   "down_notified": false
