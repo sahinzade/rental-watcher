@@ -218,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 103,
+  "fails": 104,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 103,
+  "fails": 104,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -720,7 +720,13 @@
    "https://huurportaal.nl/en/listings/apartment-in-590-bachlaan-5011-bm-tilburg-pdc63ae": "2026-08-14T09:34:46",
    "https://huurportaal.nl/en/listings/hoefstraat-leuke-kamer-te-huur-op-loopafstand-van-het-centrum-van-tilburg-p48c4d9": "2026-08-14T09:34:46",
    "https://huurportaal.nl/en/listings/apartment-in-16-professor-rogierhof-5014-nt-tilburg-p7eef02": "2026-08-14T12:04:52",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-bredaseweg-62-4-in-tilburg-p39e062": "2026-08-14T18:13:38"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-bredaseweg-62-4-in-tilburg-p39e062": "2026-08-14T18:13:38",
+   "https://huurportaal.nl/en/listings/apartment-in-345-griegstraat-5011-hj-tilburg-p0b179b": "2026-08-15T08:04:44",
+   "https://huurportaal.nl/en/listings/enschotsestraat-mooie-gerenoveerde-studio-aan-de-enschotsestraat-paf2983": "2026-08-15T08:04:44",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-veldhovenring-in-tilburg-pd12740": "2026-08-15T08:04:44",
+   "https://huurportaal.nl/en/listings/te-huur-kamer-gasthuisring-in-tilburg-p1a2505": "2026-08-15T08:04:44",
+   "https://huurportaal.nl/en/listings/mooie-kamer-in-gezellig-studentenhuis-aan-de-state-p176d45": "2026-08-15T08:04:44",
+   "https://huurportaal.nl/en/listings/lariksplaats-122-tilburg-p9db9dd": "2026-08-15T08:04:44"
   },
   "fails": 0,
   "down_notified": false
