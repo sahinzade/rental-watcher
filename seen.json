@@ -218,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 124,
+  "fails": 125,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 124,
+  "fails": 125,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -741,7 +741,8 @@
    "https://huurportaal.nl/en/listings/lariksplaats-122-tilburg-p9db9dd": "2026-08-15T08:04:44",
    "https://huurportaal.nl/en/listings/hasseltstraat-nieuwbouwstudio-te-huur-met-mogelijkheid-huurtoeslag-pe38d57": "2026-08-15T10:53:55",
    "https://huurportaal.nl/en/listings/te-huur-appartement-willem-de-rijkestraat-in-tilburg-pe919ae": "2026-08-15T10:53:55",
-   "https://huurportaal.nl/en/listings/apartment-in-75-paduastraat-5014-px-tilburg-pc0c029": "2026-08-15T13:48:04"
+   "https://huurportaal.nl/en/listings/apartment-in-75-paduastraat-5014-px-tilburg-pc0c029": "2026-08-15T13:48:04",
+   "https://huurportaal.nl/en/listings/studentenkamer-woning-voor-3-studente-p3fb7ab": "2026-08-16T05:04:55"
   },
   "fails": 0,
   "down_notified": false
