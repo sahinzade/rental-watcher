@@ -218,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 145,
+  "fails": 146,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 145,
+  "fails": 146,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -766,7 +766,11 @@
    "https://huurportaal.nl/en/listings/apartment-in-133-hopliedenkade-5017-en-tilburg-pe4900f": "2026-08-16T20:57:31",
    "https://huurportaal.nl/en/listings/house-in-94-nieuwstraat-5021-wv-tilburg-p4a241e": "2026-08-16T22:54:05",
    "https://huurportaal.nl/en/listings/apartment-in-29-kazernehof-5017-ev-tilburg-p2736db": "2026-08-16T22:54:05",
-   "https://huurportaal.nl/en/listings/apartment-in-101-bachlaan-5011-ba-tilburg-p0ac5ad": "2026-08-16T22:54:05"
+   "https://huurportaal.nl/en/listings/apartment-in-101-bachlaan-5011-ba-tilburg-p0ac5ad": "2026-08-16T22:54:05",
+   "https://huurportaal.nl/en/listings/apartment-in-48-ignatiusstraat-5042-ht-tilburg-pb531ee": "2026-08-16T23:43:41",
+   "https://huurportaal.nl/en/listings/apartment-in-69-lavendelweg-5044-ab-tilburg-pa6d6c4": "2026-08-16T23:43:41",
+   "https://huurportaal.nl/en/listings/apartment-in-230-reinevaarstraat-5044-hj-tilburg-pcac392": "2026-08-16T23:43:41",
+   "https://huurportaal.nl/en/listings/woning-te-huur-p020210": "2026-08-16T23:43:41"
   },
   "fails": 0,
   "down_notified": false
