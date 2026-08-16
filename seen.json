@@ -218,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 132,
+  "fails": 133,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 132,
+  "fails": 133,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -647,7 +647,8 @@
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/oude-engelenseweg/apartment-2399955": "2026-08-15T07:22:14",
    "https://kamernet.nl/en/for-rent/room-den-bosch/vierde-donk/room-2400078": "2026-08-15T13:47:25",
    "https://kamernet.nl/en/for-rent/room-breda/hooilaan/room-2400114": "2026-08-15T17:00:47",
-   "https://kamernet.nl/en/for-rent/room-tilburg/sint-annastraat/room-2400094": "2026-08-16T13:24:29"
+   "https://kamernet.nl/en/for-rent/room-tilburg/sint-annastraat/room-2400094": "2026-08-16T13:24:29",
+   "https://kamernet.nl/en/for-rent/room-prinsenbeek/haverdijk/room-2400228": "2026-08-16T14:06:00"
   },
   "fails": 0,
   "down_notified": false
