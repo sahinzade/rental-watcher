@@ -218,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 131,
+  "fails": 132,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 131,
+  "fails": 132,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -646,7 +646,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/eikstraat/room-2399908": "2026-08-14T15:12:56",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/oude-engelenseweg/apartment-2399955": "2026-08-15T07:22:14",
    "https://kamernet.nl/en/for-rent/room-den-bosch/vierde-donk/room-2400078": "2026-08-15T13:47:25",
-   "https://kamernet.nl/en/for-rent/room-breda/hooilaan/room-2400114": "2026-08-15T17:00:47"
+   "https://kamernet.nl/en/for-rent/room-breda/hooilaan/room-2400114": "2026-08-15T17:00:47",
+   "https://kamernet.nl/en/for-rent/room-tilburg/sint-annastraat/room-2400094": "2026-08-16T13:24:29"
   },
   "fails": 0,
   "down_notified": false
@@ -742,7 +743,8 @@
    "https://huurportaal.nl/en/listings/hasseltstraat-nieuwbouwstudio-te-huur-met-mogelijkheid-huurtoeslag-pe38d57": "2026-08-15T10:53:55",
    "https://huurportaal.nl/en/listings/te-huur-appartement-willem-de-rijkestraat-in-tilburg-pe919ae": "2026-08-15T10:53:55",
    "https://huurportaal.nl/en/listings/apartment-in-75-paduastraat-5014-px-tilburg-pc0c029": "2026-08-15T13:48:04",
-   "https://huurportaal.nl/en/listings/studentenkamer-woning-voor-3-studente-p3fb7ab": "2026-08-16T05:04:55"
+   "https://huurportaal.nl/en/listings/studentenkamer-woning-voor-3-studente-p3fb7ab": "2026-08-16T05:04:55",
+   "https://huurportaal.nl/en/listings/house-for-rent-in-lourdesstraat-3-03-5017ah-tilburg-hoevenseweg-tilburg-pdb68a4": "2026-08-16T13:25:10"
   },
   "fails": 0,
   "down_notified": false
