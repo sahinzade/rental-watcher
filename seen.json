@@ -198,7 +198,11 @@
    "16896": "2026-08-14T09:31:16",
    "16901": "2026-08-14T12:01:26",
    "16985": "2026-08-14T15:10:14",
-   "16793": "2026-08-17T11:02:57"
+   "16793": "2026-08-17T11:02:57",
+   "15156": "2026-08-17T14:57:38",
+   "16891": "2026-08-17T14:57:38",
+   "16904": "2026-08-17T14:57:38",
+   "16911": "2026-08-17T14:57:38"
   },
   "fails": 0,
   "down_notified": false
@@ -219,12 +223,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 154,
+  "fails": 155,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 154,
+  "fails": 155,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -666,7 +670,9 @@
    "https://kamernet.nl/en/for-rent/room-breda/hooilaan/room-2400114": "2026-08-15T17:00:47",
    "https://kamernet.nl/en/for-rent/room-tilburg/sint-annastraat/room-2400094": "2026-08-16T13:24:29",
    "https://kamernet.nl/en/for-rent/room-prinsenbeek/haverdijk/room-2400228": "2026-08-16T14:06:00",
-   "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2400391": "2026-08-17T11:59:16"
+   "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2400391": "2026-08-17T11:59:16",
+   "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2400462": "2026-08-17T15:00:23",
+   "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2400438": "2026-08-17T15:00:23"
   },
   "fails": 0,
   "down_notified": false
