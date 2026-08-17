@@ -197,7 +197,8 @@
    "16414": "2026-08-14T09:31:16",
    "16896": "2026-08-14T09:31:16",
    "16901": "2026-08-14T12:01:26",
-   "16985": "2026-08-14T15:10:14"
+   "16985": "2026-08-14T15:10:14",
+   "16793": "2026-08-17T11:02:57"
   },
   "fails": 0,
   "down_notified": false
@@ -218,12 +219,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 151,
+  "fails": 152,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 151,
+  "fails": 152,
   "down_notified": true
  },
  "SSH Short Stay": {
