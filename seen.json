@@ -223,12 +223,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 162,
+  "fails": 163,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 162,
+  "fails": 163,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -556,7 +556,13 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477553-leuvenplein-291": "2026-08-17T22:58:12",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477219-stelplaats-30": "2026-08-17T22:58:12",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477560-cambridgelaan-271-k1": "2026-08-17T22:58:12",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477508-bisschopssteeg-41-k6": "2026-08-17T22:58:12"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477508-bisschopssteeg-41-k6": "2026-08-17T22:58:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477283-cambridgelaan-791-k4": "2026-08-17T23:51:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477559-van-lieflandlaan-14-k21": "2026-08-17T23:51:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477569-bisschopssteeg-619-k1": "2026-08-17T23:51:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477555-frits-coerslaan-34-k01": "2026-08-17T23:51:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477554-warande-202-k788": "2026-08-17T23:51:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477544-van-lieflandlaan-12-k02": "2026-08-17T23:51:24"
   },
   "fails": 0,
   "down_notified": false
