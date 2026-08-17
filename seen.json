@@ -218,12 +218,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 150,
+  "fails": 151,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 150,
+  "fails": 151,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -558,7 +558,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/978bb2cd/hasseltstraat": "2026-08-12T05:15:53",
    "https://www.pararius.com/studio-for-rent/tilburg/ca1b71c0/korvelseweg": "2026-08-13T12:09:59"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
