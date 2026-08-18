@@ -223,12 +223,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 164,
+  "fails": 165,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 164,
+  "fails": 165,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -806,7 +806,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-69-lavendelweg-5044-ab-tilburg-pa6d6c4": "2026-08-16T23:43:41",
    "https://huurportaal.nl/en/listings/apartment-in-230-reinevaarstraat-5044-hj-tilburg-pcac392": "2026-08-16T23:43:41",
    "https://huurportaal.nl/en/listings/woning-te-huur-p020210": "2026-08-16T23:43:41",
-   "https://huurportaal.nl/en/listings/house-in-7-van-heemskerckstraat-5021-rc-tilburg-pdb4f03": "2026-08-17T22:59:58"
+   "https://huurportaal.nl/en/listings/house-in-7-van-heemskerckstraat-5021-rc-tilburg-pdb4f03": "2026-08-17T22:59:58",
+   "https://huurportaal.nl/en/listings/hasseltstraat-nieuwbouwstudio-te-huur-pe38d57": "2026-08-18T05:06:11",
+   "https://huurportaal.nl/en/listings/nieuwbouwstudio-te-huur-met-mogelijkheid-huurtoesl-p547431": "2026-08-18T05:06:11"
   },
   "fails": 0,
   "down_notified": false
