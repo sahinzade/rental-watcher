@@ -221,7 +221,14 @@
    "16964": "2026-08-18T09:53:44",
    "16972": "2026-08-18T09:53:44",
    "16976": "2026-08-18T09:53:44",
-   "16977": "2026-08-18T09:53:44"
+   "16977": "2026-08-18T09:53:44",
+   "16951": "2026-08-18T11:00:06",
+   "16958": "2026-08-18T11:00:06",
+   "16968": "2026-08-18T11:00:06",
+   "16975": "2026-08-18T11:00:06",
+   "16978": "2026-08-18T11:00:06",
+   "16983": "2026-08-18T11:00:06",
+   "17009": "2026-08-18T11:00:06"
   },
   "fails": 0,
   "down_notified": false
@@ -242,12 +249,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 168,
+  "fails": 169,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 168,
+  "fails": 169,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -720,7 +727,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2400462": "2026-08-17T15:00:23",
    "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2400438": "2026-08-17T15:00:23",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2400619": "2026-08-18T09:56:35",
-   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2400529": "2026-08-18T09:56:35"
+   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2400529": "2026-08-18T09:56:35",
+   "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-1688280": "2026-08-18T11:02:53"
   },
   "fails": 0,
   "down_notified": false
