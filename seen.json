@@ -232,7 +232,11 @@
    "17009": "2026-08-18T11:00:06",
    "16973": "2026-08-18T11:57:19",
    "17007": "2026-08-18T11:57:19",
-   "17008": "2026-08-18T11:57:19"
+   "17008": "2026-08-18T11:57:19",
+   "16374": "2026-08-18T14:06:06",
+   "16376": "2026-08-18T14:06:06",
+   "16426": "2026-08-18T14:06:06",
+   "17011": "2026-08-18T14:06:06"
   },
   "fails": 0,
   "down_notified": false
@@ -254,12 +258,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 170,
+  "fails": 171,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 170,
+  "fails": 171,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -594,7 +598,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477555-frits-coerslaan-34-k01": "2026-08-17T23:51:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477554-warande-202-k788": "2026-08-17T23:51:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477544-van-lieflandlaan-12-k02": "2026-08-17T23:51:24",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477604-antaresstraat-21-9": "2026-08-18T11:59:09"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477604-antaresstraat-21-9": "2026-08-18T11:59:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477479-van-lieflandlaan-86-k21": "2026-08-18T14:08:09"
   },
   "fails": 0,
   "down_notified": false
@@ -734,7 +739,10 @@
    "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2400438": "2026-08-17T15:00:23",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2400619": "2026-08-18T09:56:35",
    "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2400529": "2026-08-18T09:56:35",
-   "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-1688280": "2026-08-18T11:02:53"
+   "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-1688280": "2026-08-18T11:02:53",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2400695": "2026-08-18T14:08:51",
+   "https://kamernet.nl/en/for-rent/room-tilburg/paterstraat/room-2400707": "2026-08-18T14:08:51",
+   "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2400701": "2026-08-18T14:08:51"
   },
   "fails": 0,
   "down_notified": false
