@@ -70,7 +70,13 @@
    "59786": "2026-08-11T14:45:03",
    "59787": "2026-08-11T14:45:03",
    "59789": "2026-08-11T14:45:03",
-   "59791": "2026-08-12T12:06:22"
+   "59791": "2026-08-12T12:06:22",
+   "59258": "2026-08-18T09:53:35",
+   "59366": "2026-08-18T09:53:35",
+   "59442": "2026-08-18T09:53:35",
+   "59630": "2026-08-18T09:53:35",
+   "59671": "2026-08-18T09:53:35",
+   "59795": "2026-08-18T09:53:35"
   },
   "fails": 0,
   "down_notified": false
@@ -203,7 +209,19 @@
    "16891": "2026-08-17T14:57:38",
    "16904": "2026-08-17T14:57:38",
    "16911": "2026-08-17T14:57:38",
-   "16954": "2026-08-18T08:03:32"
+   "16954": "2026-08-18T08:03:32",
+   "16424": "2026-08-18T09:53:44",
+   "16629": "2026-08-18T09:53:44",
+   "16744": "2026-08-18T09:53:44",
+   "16942": "2026-08-18T09:53:44",
+   "16944": "2026-08-18T09:53:44",
+   "16956": "2026-08-18T09:53:44",
+   "16960": "2026-08-18T09:53:44",
+   "16962": "2026-08-18T09:53:44",
+   "16964": "2026-08-18T09:53:44",
+   "16972": "2026-08-18T09:53:44",
+   "16976": "2026-08-18T09:53:44",
+   "16977": "2026-08-18T09:53:44"
   },
   "fails": 0,
   "down_notified": false
@@ -224,12 +242,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 167,
+  "fails": 168,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 167,
+  "fails": 168,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -700,7 +718,9 @@
    "https://kamernet.nl/en/for-rent/room-prinsenbeek/haverdijk/room-2400228": "2026-08-16T14:06:00",
    "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2400391": "2026-08-17T11:59:16",
    "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2400462": "2026-08-17T15:00:23",
-   "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2400438": "2026-08-17T15:00:23"
+   "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2400438": "2026-08-17T15:00:23",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2400619": "2026-08-18T09:56:35",
+   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2400529": "2026-08-18T09:56:35"
   },
   "fails": 0,
   "down_notified": false
