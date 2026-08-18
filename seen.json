@@ -261,12 +261,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 178,
+  "fails": 179,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 178,
+  "fails": 179,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -602,7 +602,15 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477554-warande-202-k788": "2026-08-17T23:51:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477544-van-lieflandlaan-12-k02": "2026-08-17T23:51:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477604-antaresstraat-21-9": "2026-08-18T11:59:09",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477479-van-lieflandlaan-86-k21": "2026-08-18T14:08:09"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477479-van-lieflandlaan-86-k21": "2026-08-18T14:08:09",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477572-europaplein-41": "2026-08-18T22:57:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477573-bisschopssteeg-657-k2": "2026-08-18T22:57:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477575-prinsendam-106-k1": "2026-08-18T22:57:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477619-cambridgelaan-1419": "2026-08-18T22:57:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477496-bisschopssteeg-639-k1": "2026-08-18T22:57:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477574-warande-18-k049": "2026-08-18T22:57:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477571-wouter-van%20doeverenplein-8-k3": "2026-08-18T22:57:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477290-cambridgelaan-787-k3": "2026-08-18T22:57:28"
   },
   "fails": 0,
   "down_notified": false
@@ -628,7 +636,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/fb54a456/ringbaan-oost": "2026-08-10T12:39:07",
    "https://www.pararius.com/studio-for-rent/tilburg/d1d4a731/enschotsestraat": "2026-08-10T23:13:31",
    "https://www.pararius.com/studio-for-rent/tilburg/978bb2cd/hasseltstraat": "2026-08-12T05:15:53",
-   "https://www.pararius.com/studio-for-rent/tilburg/ca1b71c0/korvelseweg": "2026-08-13T12:09:59"
+   "https://www.pararius.com/studio-for-rent/tilburg/ca1b71c0/korvelseweg": "2026-08-13T12:09:59",
+   "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21"
   },
   "fails": 0,
   "down_notified": false
