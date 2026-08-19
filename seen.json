@@ -77,7 +77,8 @@
    "59630": "2026-08-18T09:53:35",
    "59671": "2026-08-18T09:53:35",
    "59795": "2026-08-18T09:53:35",
-   "59818": "2026-08-18T11:57:18"
+   "59818": "2026-08-18T11:57:18",
+   "59819": "2026-08-19T14:07:08"
   },
   "fails": 0,
   "down_notified": false
@@ -239,7 +240,9 @@
    "17011": "2026-08-18T14:06:06",
    "16947": "2026-08-18T15:50:46",
    "16963": "2026-08-18T15:50:46",
-   "16984": "2026-08-18T15:50:46"
+   "16984": "2026-08-18T15:50:46",
+   "16746": "2026-08-19T14:07:10",
+   "16965": "2026-08-19T14:07:10"
   },
   "fails": 0,
   "down_notified": false
@@ -261,12 +264,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 183,
+  "fails": 184,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 183,
+  "fails": 184,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -757,7 +760,8 @@
    "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2400701": "2026-08-18T14:08:51",
    "https://kamernet.nl/en/for-rent/room-tilburg/eduard-meijerslaan/room-2400895": "2026-08-19T09:56:33",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2400887": "2026-08-19T09:56:33",
-   "https://kamernet.nl/en/for-rent/room-tilburg/kaapkoloniestraat/room-2400844": "2026-08-19T09:56:33"
+   "https://kamernet.nl/en/for-rent/room-tilburg/kaapkoloniestraat/room-2400844": "2026-08-19T09:56:33",
+   "https://kamernet.nl/en/for-rent/room-tilburg/de-regenboogstraat/room-2400963": "2026-08-19T14:09:48"
   },
   "fails": 0,
   "down_notified": false
