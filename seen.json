@@ -261,12 +261,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 182,
+  "fails": 183,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 182,
+  "fails": 183,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -754,7 +754,10 @@
    "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-1688280": "2026-08-18T11:02:53",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2400695": "2026-08-18T14:08:51",
    "https://kamernet.nl/en/for-rent/room-tilburg/paterstraat/room-2400707": "2026-08-18T14:08:51",
-   "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2400701": "2026-08-18T14:08:51"
+   "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2400701": "2026-08-18T14:08:51",
+   "https://kamernet.nl/en/for-rent/room-tilburg/eduard-meijerslaan/room-2400895": "2026-08-19T09:56:33",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2400887": "2026-08-19T09:56:33",
+   "https://kamernet.nl/en/for-rent/room-tilburg/kaapkoloniestraat/room-2400844": "2026-08-19T09:56:33"
   },
   "fails": 0,
   "down_notified": false
@@ -865,7 +868,8 @@
    "https://huurportaal.nl/en/listings/hasseltstraat-nieuwbouwstudio-te-huur-pe38d57": "2026-08-18T05:06:11",
    "https://huurportaal.nl/en/listings/nieuwbouwstudio-te-huur-met-mogelijkheid-huurtoesl-p547431": "2026-08-18T05:06:11",
    "https://huurportaal.nl/en/listings/woning-te-huur-pdb68a4": "2026-08-18T08:06:51",
-   "https://huurportaal.nl/en/listings/apartment-for-rent-in-tilburg-p03365e": "2026-08-18T08:06:51"
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-tilburg-p03365e": "2026-08-18T08:06:51",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-europalaan-375-in-tilburg-pf83684": "2026-08-19T09:57:16"
   },
   "fails": 0,
   "down_notified": false
