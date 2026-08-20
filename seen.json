@@ -255,7 +255,8 @@
    "17026": "2026-08-20T09:56:26",
    "17033": "2026-08-20T09:56:26",
    "17034": "2026-08-20T09:56:26",
-   "17035": "2026-08-20T09:56:26"
+   "17035": "2026-08-20T09:56:26",
+   "16429": "2026-08-20T14:19:28"
   },
   "fails": 0,
   "down_notified": false
@@ -277,12 +278,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 197,
+  "fails": 198,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 197,
+  "fails": 198,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -788,7 +789,16 @@
    "https://kamernet.nl/en/for-rent/studio-tilburg/korvelplein/studio-2401002": "2026-08-20T08:10:47",
    "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2401104": "2026-08-20T09:59:25",
    "https://kamernet.nl/en/for-rent/room-tilburg/korvelplein/room-2246746": "2026-08-20T09:59:25",
-   "https://kamernet.nl/en/for-rent/apartment-eindhoven/henk-van-den-broeklaan/apartment-2401131": "2026-08-20T12:04:11"
+   "https://kamernet.nl/en/for-rent/apartment-eindhoven/henk-van-den-broeklaan/apartment-2401131": "2026-08-20T12:04:11",
+   "https://kamernet.nl/en/for-rent/apartment-breda/st-janstraat/apartment-2401193": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/studio-breda/ridderstraat/studio-2401192": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/room-breda/nieuwe-haagdijk/room-2401183": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2401182": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/apartment-breda/nieuwe-haagdijk/apartment-2401181": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/studio-breda/korte-brugstraat/studio-2401177": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/studio-breda/karrestraat/studio-2401176": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401171": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401170": "2026-08-20T14:22:09"
   },
   "fails": 0,
   "down_notified": false
@@ -902,7 +912,8 @@
    "https://huurportaal.nl/en/listings/apartment-for-rent-in-tilburg-p03365e": "2026-08-18T08:06:51",
    "https://huurportaal.nl/en/listings/te-huur-appartement-europalaan-375-in-tilburg-pf83684": "2026-08-19T09:57:16",
    "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-voorzieningen-p0fb387": "2026-08-19T23:52:57",
-   "https://huurportaal.nl/en/listings/insulindeplein-ruime-studentenkamer-te-huur-pd9d77c": "2026-08-20T05:09:55"
+   "https://huurportaal.nl/en/listings/insulindeplein-ruime-studentenkamer-te-huur-pd9d77c": "2026-08-20T05:09:55",
+   "https://huurportaal.nl/en/listings/mooie-kamer-beschikbaar-p2d64cf": "2026-08-20T14:23:04"
   },
   "fails": 0,
   "down_notified": false
