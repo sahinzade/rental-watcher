@@ -278,12 +278,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 198,
+  "fails": 199,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 198,
+  "fails": 199,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -635,7 +635,10 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477564-ina-boudier-bakkerlaan-149-k1470": "2026-08-19T22:58:17",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477585-burgemeester-fockema%20andreaeplein-330a": "2026-08-19T22:58:17",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477537-willem-schuylenburglaan-38-k02": "2026-08-19T22:58:17",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477578-cambridgelaan-191-k6": "2026-08-19T22:58:17"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477578-cambridgelaan-191-k6": "2026-08-19T22:58:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477428-plutolaan-329a-109": "2026-08-20T16:02:06",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477429-plutolaan-329a-110": "2026-08-20T16:02:06",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477427-plutolaan-329a-111": "2026-08-20T16:02:06"
   },
   "fails": 0,
   "down_notified": false
@@ -798,7 +801,8 @@
    "https://kamernet.nl/en/for-rent/studio-breda/korte-brugstraat/studio-2401177": "2026-08-20T14:22:09",
    "https://kamernet.nl/en/for-rent/studio-breda/karrestraat/studio-2401176": "2026-08-20T14:22:09",
    "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401171": "2026-08-20T14:22:09",
-   "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401170": "2026-08-20T14:22:09"
+   "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401170": "2026-08-20T14:22:09",
+   "https://kamernet.nl/en/for-rent/apartment-breda/haagdijk/apartment-2401203": "2026-08-20T16:02:50"
   },
   "fails": 0,
   "down_notified": false
