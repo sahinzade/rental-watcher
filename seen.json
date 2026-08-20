@@ -277,12 +277,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 196,
+  "fails": 197,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 196,
+  "fails": 197,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -787,7 +787,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/mathenessestraat/room-2400806": "2026-08-20T08:10:47",
    "https://kamernet.nl/en/for-rent/studio-tilburg/korvelplein/studio-2401002": "2026-08-20T08:10:47",
    "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2401104": "2026-08-20T09:59:25",
-   "https://kamernet.nl/en/for-rent/room-tilburg/korvelplein/room-2246746": "2026-08-20T09:59:25"
+   "https://kamernet.nl/en/for-rent/room-tilburg/korvelplein/room-2246746": "2026-08-20T09:59:25",
+   "https://kamernet.nl/en/for-rent/apartment-eindhoven/henk-van-den-broeklaan/apartment-2401131": "2026-08-20T12:04:11"
   },
   "fails": 0,
   "down_notified": false
