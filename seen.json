@@ -278,12 +278,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 205,
+  "fails": 206,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 205,
+  "fails": 206,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -928,7 +928,8 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-europalaan-375-in-tilburg-pf83684": "2026-08-19T09:57:16",
    "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-voorzieningen-p0fb387": "2026-08-19T23:52:57",
    "https://huurportaal.nl/en/listings/insulindeplein-ruime-studentenkamer-te-huur-pd9d77c": "2026-08-20T05:09:55",
-   "https://huurportaal.nl/en/listings/mooie-kamer-beschikbaar-p2d64cf": "2026-08-20T14:23:04"
+   "https://huurportaal.nl/en/listings/mooie-kamer-beschikbaar-p2d64cf": "2026-08-20T14:23:04",
+   "https://huurportaal.nl/en/listings/apartment-in-535-kapelmeesterlaan-5049-ng-tilburg-pccd750": "2026-08-21T03:34:56"
   },
   "fails": 0,
   "down_notified": false
