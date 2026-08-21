@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 213,
+  "fails": 214,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 213,
+  "fails": 214,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -825,7 +825,8 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/anna-paulownahof/apartment-2401374": "2026-08-21T11:01:28",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/luijbenstraat/apartment-2401379": "2026-08-21T11:01:28",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/groeseindstraat/apartment-2401453": "2026-08-21T14:09:26",
-   "https://kamernet.nl/en/for-rent/room-tilburg/paterstraat/room-2401454": "2026-08-21T14:09:26"
+   "https://kamernet.nl/en/for-rent/room-tilburg/paterstraat/room-2401454": "2026-08-21T14:09:26",
+   "https://kamernet.nl/en/for-rent/room-vught/wj-van-ghentstraat/room-2401502": "2026-08-21T17:17:34"
   },
   "fails": 0,
   "down_notified": false
@@ -943,8 +944,8 @@
    "https://huurportaal.nl/en/listings/mooie-kamer-beschikbaar-p2d64cf": "2026-08-20T14:23:04",
    "https://huurportaal.nl/en/listings/apartment-in-535-kapelmeesterlaan-5049-ng-tilburg-pccd750": "2026-08-21T03:34:56"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "SSH Booking (short stay)": {
   "seen": {},
