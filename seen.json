@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 209,
+  "fails": 210,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 209,
+  "fails": 210,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -821,7 +821,9 @@
    "https://kamernet.nl/en/for-rent/room-breda/smaragdstraat/room-2401329": "2026-08-21T07:34:55",
    "https://kamernet.nl/en/for-rent/room-tilburg/luchthavenlaan/room-2401276": "2026-08-21T07:34:55",
    "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2401358": "2026-08-21T09:24:03",
-   "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2401353": "2026-08-21T09:24:03"
+   "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2401353": "2026-08-21T09:24:03",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/anna-paulownahof/apartment-2401374": "2026-08-21T11:01:28",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/luijbenstraat/apartment-2401379": "2026-08-21T11:01:28"
   },
   "fails": 0,
   "down_notified": false
