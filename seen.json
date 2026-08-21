@@ -256,7 +256,10 @@
    "17033": "2026-08-20T09:56:26",
    "17034": "2026-08-20T09:56:26",
    "17035": "2026-08-20T09:56:26",
-   "16429": "2026-08-20T14:19:28"
+   "16429": "2026-08-20T14:19:28",
+   "17037": "2026-08-21T09:21:18",
+   "17038": "2026-08-21T09:21:18",
+   "17039": "2026-08-21T09:21:18"
   },
   "fails": 0,
   "down_notified": false
@@ -278,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 208,
+  "fails": 209,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 208,
+  "fails": 209,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -649,7 +652,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477596-talentenplein-368": "2026-08-20T23:03:02",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477605-salamancapad-381-k11": "2026-08-20T23:03:02",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477600-wouter-van%20doeverenplein-18-k5": "2026-08-20T23:03:02",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477599-salamancapad-161": "2026-08-20T23:03:02"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477599-salamancapad-161": "2026-08-20T23:03:02",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477612-elzas-41": "2026-08-21T09:23:22"
   },
   "fails": 0,
   "down_notified": false
@@ -815,7 +819,9 @@
    "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401170": "2026-08-20T14:22:09",
    "https://kamernet.nl/en/for-rent/apartment-breda/haagdijk/apartment-2401203": "2026-08-20T16:02:50",
    "https://kamernet.nl/en/for-rent/room-breda/smaragdstraat/room-2401329": "2026-08-21T07:34:55",
-   "https://kamernet.nl/en/for-rent/room-tilburg/luchthavenlaan/room-2401276": "2026-08-21T07:34:55"
+   "https://kamernet.nl/en/for-rent/room-tilburg/luchthavenlaan/room-2401276": "2026-08-21T07:34:55",
+   "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2401358": "2026-08-21T09:24:03",
+   "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2401353": "2026-08-21T09:24:03"
   },
   "fails": 0,
   "down_notified": false
