@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 218,
+  "fails": 219,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 218,
+  "fails": 219,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -653,7 +653,20 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477605-salamancapad-381-k11": "2026-08-20T23:03:02",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477600-wouter-van%20doeverenplein-18-k5": "2026-08-20T23:03:02",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477599-salamancapad-161": "2026-08-20T23:03:02",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477612-elzas-41": "2026-08-21T09:23:22"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477612-elzas-41": "2026-08-21T09:23:22",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477626-opaalweg-200-k2": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477629-pythagoraslaan-111b-k5": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477633-warande-70-k272": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477617-albertine-agnesplein-2--26": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477511-salamancapad-403-k02": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477292-talent-square-108": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477627-winschoterdiep-46-c36": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477615-wouter-van%20doeverenplein-68-k1": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477613-opaalweg-204-k3": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477618-struisenburgdwarsstraat-236": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477563-oudwijkerlaan-28-k02": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477606-salamancapad-209-k02": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477630-talentenplein-350": "2026-08-21T22:57:30"
   },
   "fails": 0,
   "down_notified": false
