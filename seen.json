@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 219,
+  "fails": 220,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 219,
+  "fails": 220,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -693,7 +693,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d1d4a731/enschotsestraat": "2026-08-10T23:13:31",
    "https://www.pararius.com/studio-for-rent/tilburg/978bb2cd/hasseltstraat": "2026-08-12T05:15:53",
    "https://www.pararius.com/studio-for-rent/tilburg/ca1b71c0/korvelseweg": "2026-08-13T12:09:59",
-   "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21"
+   "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21",
+   "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06"
   },
   "fails": 0,
   "down_notified": false
