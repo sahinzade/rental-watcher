@@ -278,12 +278,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 207,
+  "fails": 208,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 207,
+  "fails": 208,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -813,7 +813,9 @@
    "https://kamernet.nl/en/for-rent/studio-breda/karrestraat/studio-2401176": "2026-08-20T14:22:09",
    "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401171": "2026-08-20T14:22:09",
    "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2401170": "2026-08-20T14:22:09",
-   "https://kamernet.nl/en/for-rent/apartment-breda/haagdijk/apartment-2401203": "2026-08-20T16:02:50"
+   "https://kamernet.nl/en/for-rent/apartment-breda/haagdijk/apartment-2401203": "2026-08-20T16:02:50",
+   "https://kamernet.nl/en/for-rent/room-breda/smaragdstraat/room-2401329": "2026-08-21T07:34:55",
+   "https://kamernet.nl/en/for-rent/room-tilburg/luchthavenlaan/room-2401276": "2026-08-21T07:34:55"
   },
   "fails": 0,
   "down_notified": false
