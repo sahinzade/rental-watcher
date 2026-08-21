@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 212,
+  "fails": 213,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 212,
+  "fails": 213,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -943,7 +943,7 @@
    "https://huurportaal.nl/en/listings/mooie-kamer-beschikbaar-p2d64cf": "2026-08-20T14:23:04",
    "https://huurportaal.nl/en/listings/apartment-in-535-kapelmeesterlaan-5049-ng-tilburg-pccd750": "2026-08-21T03:34:56"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "SSH Booking (short stay)": {
