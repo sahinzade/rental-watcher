@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 228,
+  "fails": 229,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 228,
+  "fails": 229,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -962,7 +962,8 @@
    "https://huurportaal.nl/en/listings/house-in-13-baflostraat-5043-bj-tilburg-pa8aabb": "2026-08-22T07:49:19",
    "https://huurportaal.nl/en/listings/leuke-kamer-te-huur-dicht-bij-het-centrum-p55079f": "2026-08-22T07:49:19",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p2e4d1a": "2026-08-22T07:49:19",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-hoefstraat-in-tilburg-pc9c5f1": "2026-08-22T07:49:19"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-hoefstraat-in-tilburg-pc9c5f1": "2026-08-22T07:49:19",
+   "https://huurportaal.nl/en/listings/anna-paulownahof-217-tilburg-p2e6ef1": "2026-08-22T13:25:38"
   },
   "fails": 0,
   "down_notified": false
