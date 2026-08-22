@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 223,
+  "fails": 224,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 223,
+  "fails": 224,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -957,7 +957,12 @@
    "https://huurportaal.nl/en/listings/insulindeplein-ruime-studentenkamer-te-huur-pd9d77c": "2026-08-20T05:09:55",
    "https://huurportaal.nl/en/listings/mooie-kamer-beschikbaar-p2d64cf": "2026-08-20T14:23:04",
    "https://huurportaal.nl/en/listings/apartment-in-535-kapelmeesterlaan-5049-ng-tilburg-pccd750": "2026-08-21T03:34:56",
-   "https://huurportaal.nl/en/listings/mvgm-te-huur-lombardijenlaan-84-tilburg-pf29b6a": "2026-08-21T19:56:08"
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-lombardijenlaan-84-tilburg-pf29b6a": "2026-08-21T19:56:08",
+   "https://huurportaal.nl/en/listings/apartment-in-48-barend-busnacstraat-5042-gr-tilburg-pff5427": "2026-08-22T07:49:19",
+   "https://huurportaal.nl/en/listings/house-in-13-baflostraat-5043-bj-tilburg-pa8aabb": "2026-08-22T07:49:19",
+   "https://huurportaal.nl/en/listings/leuke-kamer-te-huur-dicht-bij-het-centrum-p55079f": "2026-08-22T07:49:19",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p2e4d1a": "2026-08-22T07:49:19",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-hoefstraat-in-tilburg-pc9c5f1": "2026-08-22T07:49:19"
   },
   "fails": 0,
   "down_notified": false
