@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 238,
+  "fails": 239,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 238,
+  "fails": 239,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -666,7 +666,13 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477618-struisenburgdwarsstraat-236": "2026-08-21T22:57:30",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477563-oudwijkerlaan-28-k02": "2026-08-21T22:57:30",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477606-salamancapad-209-k02": "2026-08-21T22:57:30",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477630-talentenplein-350": "2026-08-21T22:57:30"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477630-talentenplein-350": "2026-08-21T22:57:30",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477639-talent-square-104": "2026-08-22T22:46:33",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477647-burgemeester-fockema%20andreaeplein-298": "2026-08-22T22:46:33",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477641-talentenplein-108": "2026-08-22T22:46:33",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477634-bisschopssteeg-619-k4": "2026-08-22T22:46:33",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477646-frederik-hendrikstraat-47-k21": "2026-08-22T22:46:33",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477095-ina-boudier-bakkerlaan-21-3-k174": "2026-08-22T22:46:33"
   },
   "fails": 0,
   "down_notified": false
