@@ -80,7 +80,7 @@
    "59818": "2026-08-18T11:57:18",
    "59819": "2026-08-19T14:07:08"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Plaza (newnewnew.space)": {
@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 253,
+  "fails": 254,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 253,
+  "fails": 254,
   "down_notified": true
  },
  "SSH Short Stay": {
