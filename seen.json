@@ -281,12 +281,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 250,
+  "fails": 251,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 250,
+  "fails": 251,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -849,7 +849,8 @@
    "https://kamernet.nl/en/for-rent/room-vught/wj-van-ghentstraat/room-2401502": "2026-08-21T17:17:34",
    "https://kamernet.nl/en/for-rent/room-tilburg/sweelincklaan/room-2401586": "2026-08-22T14:03:58",
    "https://kamernet.nl/en/for-rent/room-breda/nieuweweg/room-2401651": "2026-08-22T19:04:37",
-   "https://kamernet.nl/en/for-rent/apartment-drunen/contrefort/apartment-2401725": "2026-08-23T10:58:01"
+   "https://kamernet.nl/en/for-rent/apartment-drunen/contrefort/apartment-2401725": "2026-08-23T10:58:01",
+   "https://kamernet.nl/en/for-rent/room-tilburg/frederikstraat/room-2401690": "2026-08-23T15:01:09"
   },
   "fails": 0,
   "down_notified": false
