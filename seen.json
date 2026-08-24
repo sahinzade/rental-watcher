@@ -315,12 +315,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 269,
+  "fails": 270,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 269,
+  "fails": 270,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1043,7 +1043,8 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-hoefstraat-in-tilburg-pc9c5f1": "2026-08-22T07:49:19",
    "https://huurportaal.nl/en/listings/anna-paulownahof-217-tilburg-p2e6ef1": "2026-08-22T13:25:38",
    "https://huurportaal.nl/en/listings/house-in-1-schotelplein-5014-re-tilburg-pbd16af": "2026-08-23T13:26:11",
-   "https://huurportaal.nl/en/listings/gezellige-ruime-kamer-met-wastafel-p7e0449": "2026-08-24T14:27:38"
+   "https://huurportaal.nl/en/listings/gezellige-ruime-kamer-met-wastafel-p7e0449": "2026-08-24T14:27:38",
+   "https://huurportaal.nl/en/listings/te-huur-huis-oude-goirleseweg-in-tilburg-p407695": "2026-08-24T21:03:03"
   },
   "fails": 0,
   "down_notified": false
