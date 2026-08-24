@@ -80,7 +80,7 @@
    "59818": "2026-08-18T11:57:18",
    "59819": "2026-08-19T14:07:08"
   },
-  "fails": 11,
+  "fails": 12,
   "down_notified": true
  },
  "Plaza (newnewnew.space)": {
@@ -272,7 +272,8 @@
    "16533": "2026-08-24T10:24:06",
    "16946": "2026-08-24T10:24:06",
    "17030": "2026-08-24T10:24:06",
-   "17049": "2026-08-24T10:24:06"
+   "17049": "2026-08-24T10:24:06",
+   "17019": "2026-08-24T11:49:18"
   },
   "fails": 0,
   "down_notified": false
@@ -294,12 +295,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 264,
+  "fails": 265,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 264,
+  "fails": 265,
   "down_notified": true
  },
  "SSH Short Stay": {
