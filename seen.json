@@ -78,10 +78,12 @@
    "59671": "2026-08-18T09:53:35",
    "59795": "2026-08-18T09:53:35",
    "59818": "2026-08-18T11:57:18",
-   "59819": "2026-08-19T14:07:08"
+   "59819": "2026-08-19T14:07:08",
+   "59826": "2026-08-24T14:23:46",
+   "59825": "2026-08-24T14:23:46"
   },
-  "fails": 12,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Plaza (newnewnew.space)": {
   "seen": {
@@ -273,7 +275,25 @@
    "16946": "2026-08-24T10:24:06",
    "17030": "2026-08-24T10:24:06",
    "17049": "2026-08-24T10:24:06",
-   "17019": "2026-08-24T11:49:18"
+   "17019": "2026-08-24T11:49:18",
+   "16496": "2026-08-24T14:23:50",
+   "16497": "2026-08-24T14:23:50",
+   "16498": "2026-08-24T14:23:50",
+   "16966": "2026-08-24T14:23:50",
+   "17012": "2026-08-24T14:23:50",
+   "17018": "2026-08-24T14:23:50",
+   "17021": "2026-08-24T14:23:50",
+   "17022": "2026-08-24T14:23:50",
+   "17023": "2026-08-24T14:23:50",
+   "17024": "2026-08-24T14:23:50",
+   "17031": "2026-08-24T14:23:50",
+   "17032": "2026-08-24T14:23:50",
+   "17060": "2026-08-24T14:23:50",
+   "17061": "2026-08-24T14:23:50",
+   "17062": "2026-08-24T14:23:50",
+   "17063": "2026-08-24T14:23:50",
+   "17064": "2026-08-24T14:23:50",
+   "17065": "2026-08-24T14:23:50"
   },
   "fails": 0,
   "down_notified": false
@@ -295,12 +315,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 265,
+  "fails": 266,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 265,
+  "fails": 266,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -741,7 +761,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21",
    "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -893,7 +913,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2401761": "2026-08-23T15:53:00",
    "https://kamernet.nl/en/for-rent/room-oosterhout/bosstraat/room-2401641": "2026-08-23T16:58:44",
    "https://kamernet.nl/en/for-rent/room-tilburg/korvelplein/room-2401864": "2026-08-24T08:29:39",
-   "https://kamernet.nl/en/for-rent/room-tilburg/laarstraat/room-2401888": "2026-08-24T10:26:54"
+   "https://kamernet.nl/en/for-rent/room-tilburg/laarstraat/room-2401888": "2026-08-24T10:26:54",
+   "https://kamernet.nl/en/for-rent/room-tilburg/stedekestraat/room-2401958": "2026-08-24T14:26:57",
+   "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2401943": "2026-08-24T14:26:57"
   },
   "fails": 0,
   "down_notified": false
@@ -1017,7 +1039,8 @@
    "https://huurportaal.nl/en/listings/appartement-te-huur-p2e4d1a": "2026-08-22T07:49:19",
    "https://huurportaal.nl/en/listings/te-huur-appartement-hoefstraat-in-tilburg-pc9c5f1": "2026-08-22T07:49:19",
    "https://huurportaal.nl/en/listings/anna-paulownahof-217-tilburg-p2e6ef1": "2026-08-22T13:25:38",
-   "https://huurportaal.nl/en/listings/house-in-1-schotelplein-5014-re-tilburg-pbd16af": "2026-08-23T13:26:11"
+   "https://huurportaal.nl/en/listings/house-in-1-schotelplein-5014-re-tilburg-pbd16af": "2026-08-23T13:26:11",
+   "https://huurportaal.nl/en/listings/gezellige-ruime-kamer-met-wastafel-p7e0449": "2026-08-24T14:27:38"
   },
   "fails": 0,
   "down_notified": false
