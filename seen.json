@@ -315,12 +315,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 267,
+  "fails": 268,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 267,
+  "fails": 268,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -917,7 +917,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/stedekestraat/room-2401958": "2026-08-24T14:26:57",
    "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2401943": "2026-08-24T14:26:57",
    "https://kamernet.nl/en/for-rent/room-boxtel/corellistraat/room-2357809": "2026-08-24T16:09:55",
-   "https://kamernet.nl/en/for-rent/room-teteringen/oosterhoutseweg/room-2400715": "2026-08-24T16:09:55"
+   "https://kamernet.nl/en/for-rent/room-teteringen/oosterhoutseweg/room-2400715": "2026-08-24T16:09:55",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/burchtenlaan/room-2402003": "2026-08-24T17:53:57"
   },
   "fails": 0,
   "down_notified": false
