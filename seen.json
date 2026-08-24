@@ -315,12 +315,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 266,
+  "fails": 267,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 266,
+  "fails": 267,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -761,7 +761,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21",
    "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -915,7 +915,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/korvelplein/room-2401864": "2026-08-24T08:29:39",
    "https://kamernet.nl/en/for-rent/room-tilburg/laarstraat/room-2401888": "2026-08-24T10:26:54",
    "https://kamernet.nl/en/for-rent/room-tilburg/stedekestraat/room-2401958": "2026-08-24T14:26:57",
-   "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2401943": "2026-08-24T14:26:57"
+   "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2401943": "2026-08-24T14:26:57",
+   "https://kamernet.nl/en/for-rent/room-boxtel/corellistraat/room-2357809": "2026-08-24T16:09:55",
+   "https://kamernet.nl/en/for-rent/room-teteringen/oosterhoutseweg/room-2400715": "2026-08-24T16:09:55"
   },
   "fails": 0,
   "down_notified": false
