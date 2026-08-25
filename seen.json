@@ -323,12 +323,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 283,
+  "fails": 284,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 283,
+  "fails": 284,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1077,7 +1077,8 @@
    "https://huurportaal.nl/en/listings/rustige-kamer-aan-het-korvelplein-p92c084": "2026-08-24T23:02:35",
    "https://huurportaal.nl/en/listings/apartment-in-418-schubertstraat-5011-cp-tilburg-p1fd513": "2026-08-24T23:02:35",
    "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-voorzieningen-pe6c815": "2026-08-25T05:11:56",
-   "https://huurportaal.nl/en/listings/mooie-studio-op-begane-grond-p9a924c": "2026-08-25T17:53:27"
+   "https://huurportaal.nl/en/listings/mooie-studio-op-begane-grond-p9a924c": "2026-08-25T17:53:27",
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-ruinerwoldstraat-28-tilburg-p2dd098": "2026-08-25T20:54:34"
   },
   "fails": 0,
   "down_notified": false
