@@ -293,7 +293,8 @@
    "17062": "2026-08-24T14:23:50",
    "17063": "2026-08-24T14:23:50",
    "17064": "2026-08-24T14:23:50",
-   "17065": "2026-08-24T14:23:50"
+   "17065": "2026-08-24T14:23:50",
+   "17059": "2026-08-25T11:13:50"
   },
   "fails": 0,
   "down_notified": false
@@ -308,19 +309,23 @@
    "https://magisrealestate.com/for-rent/the-wing/3F": "2026-08-04T16:24:08",
    "https://magisrealestate.com/for-rent/zernikestraat/34": "2026-08-05T18:09:44",
    "https://magisrealestate.com/for-rent/the-city/The%20Cozy%20Nest": "2026-08-10T10:03:11",
-   "https://magisrealestate.com/for-rent/the-city/Shared%20Living%20Hub": "2026-08-18T11:57:24"
+   "https://magisrealestate.com/for-rent/the-city/Shared%20Living%20Hub": "2026-08-18T11:57:24",
+   "https://magisrealestate.com/for-rent/aalsterweg/24-24": "2026-08-25T11:13:53",
+   "https://magisrealestate.com/for-rent/boschdijk/28J": "2026-08-25T11:13:53",
+   "https://magisrealestate.com/for-rent/boschdijk/34D": "2026-08-25T11:13:53",
+   "https://magisrealestate.com/for-rent/boschdijk/38C": "2026-08-25T11:13:53"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 278,
+  "fails": 279,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 278,
+  "fails": 279,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -778,7 +783,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21",
    "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -937,7 +942,8 @@
    "https://kamernet.nl/en/for-rent/room-teteringen/oosterhoutseweg/room-2400715": "2026-08-24T16:09:55",
    "https://kamernet.nl/en/for-rent/room-den-bosch/burchtenlaan/room-2402003": "2026-08-24T17:53:57",
    "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2402109": "2026-08-25T10:06:23",
-   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2402093": "2026-08-25T10:06:23"
+   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2402093": "2026-08-25T10:06:23",
+   "https://kamernet.nl/en/for-rent/room-best/gebroeders-de-koninglaan/room-2402151": "2026-08-25T11:16:28"
   },
   "fails": 0,
   "down_notified": false
