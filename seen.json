@@ -323,12 +323,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 280,
+  "fails": 281,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 280,
+  "fails": 281,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -946,7 +946,8 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/burchtenlaan/room-2402003": "2026-08-24T17:53:57",
    "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2402109": "2026-08-25T10:06:23",
    "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2402093": "2026-08-25T10:06:23",
-   "https://kamernet.nl/en/for-rent/room-best/gebroeders-de-koninglaan/room-2402151": "2026-08-25T11:16:28"
+   "https://kamernet.nl/en/for-rent/room-best/gebroeders-de-koninglaan/room-2402151": "2026-08-25T11:16:28",
+   "https://kamernet.nl/en/for-rent/room-tilburg/gasthuisring/room-2402231": "2026-08-25T16:20:15"
   },
   "fails": 0,
   "down_notified": false
