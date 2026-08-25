@@ -294,7 +294,9 @@
    "17063": "2026-08-24T14:23:50",
    "17064": "2026-08-24T14:23:50",
    "17065": "2026-08-24T14:23:50",
-   "17059": "2026-08-25T11:13:50"
+   "17059": "2026-08-25T11:13:50",
+   "17079": "2026-08-25T14:10:09",
+   "17080": "2026-08-25T14:10:09"
   },
   "fails": 0,
   "down_notified": false
@@ -313,19 +315,20 @@
    "https://magisrealestate.com/for-rent/aalsterweg/24-24": "2026-08-25T11:13:53",
    "https://magisrealestate.com/for-rent/boschdijk/28J": "2026-08-25T11:13:53",
    "https://magisrealestate.com/for-rent/boschdijk/34D": "2026-08-25T11:13:53",
-   "https://magisrealestate.com/for-rent/boschdijk/38C": "2026-08-25T11:13:53"
+   "https://magisrealestate.com/for-rent/boschdijk/38C": "2026-08-25T11:13:53",
+   "https://magisrealestate.com/for-rent/zernikestraat/26": "2026-08-25T14:10:12"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 279,
+  "fails": 280,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 279,
+  "fails": 280,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -783,7 +786,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21",
    "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
