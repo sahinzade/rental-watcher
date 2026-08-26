@@ -323,12 +323,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 289,
+  "fails": 290,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 289,
+  "fails": 290,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -767,7 +767,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477530-opsterland-164-k01": "2026-08-25T23:02:51",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477693-bisschopssteeg-677-k1": "2026-08-25T23:02:51",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477694-bisschopssteeg-65-k4": "2026-08-25T23:02:51",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477690-cambridgelaan-283-k4": "2026-08-25T23:02:51"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477690-cambridgelaan-283-k4": "2026-08-25T23:02:51",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477550-talent-square-290": "2026-08-26T08:03:05"
   },
   "fails": 0,
   "down_notified": false
