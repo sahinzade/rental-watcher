@@ -325,12 +325,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 292,
+  "fails": 293,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 292,
+  "fails": 293,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -798,7 +798,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/978bb2cd/hasseltstraat": "2026-08-12T05:15:53",
    "https://www.pararius.com/studio-for-rent/tilburg/ca1b71c0/korvelseweg": "2026-08-13T12:09:59",
    "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21",
-   "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06"
+   "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06",
+   "https://www.pararius.com/studio-for-rent/tilburg/21e0519a/wittebollestraat": "2026-08-26T14:27:31"
   },
   "fails": 0,
   "down_notified": false
@@ -964,7 +965,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/gasthuisring/room-2402231": "2026-08-25T16:20:15",
    "https://kamernet.nl/en/for-rent/room-tilburg/johannes-van-zantenstraat/room-2402348": "2026-08-26T10:11:03",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/merelstraat/apartment-2402357": "2026-08-26T10:11:03",
-   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2402327": "2026-08-26T10:11:03"
+   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2402327": "2026-08-26T10:11:03",
+   "https://kamernet.nl/en/for-rent/room-tilburg/merelstraat/room-2402417": "2026-08-26T14:27:33"
   },
   "fails": 0,
   "down_notified": false
