@@ -85,7 +85,8 @@
    "59843": "2026-08-28T00:52:13",
    "59844": "2026-08-28T00:52:13",
    "59845": "2026-08-28T00:52:13",
-   "59846": "2026-08-28T00:52:13"
+   "59846": "2026-08-28T00:52:13",
+   "59824": "2026-08-28T21:52:31"
   },
   "fails": 0,
   "down_notified": false
@@ -323,19 +324,21 @@
    "https://magisrealestate.com/for-rent/boschdijk/28J": "2026-08-25T11:13:53",
    "https://magisrealestate.com/for-rent/boschdijk/34D": "2026-08-25T11:13:53",
    "https://magisrealestate.com/for-rent/boschdijk/38C": "2026-08-25T11:13:53",
-   "https://magisrealestate.com/for-rent/zernikestraat/26": "2026-08-25T14:10:12"
+   "https://magisrealestate.com/for-rent/zernikestraat/26": "2026-08-25T14:10:12",
+   "https://magisrealestate.com/for-rent/novum/2%20F717": "2026-08-28T21:52:34",
+   "https://magisrealestate.com/for-rent/novum/2%20F329": "2026-08-28T21:52:34"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 294,
+  "fails": 295,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 294,
+  "fails": 295,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -790,7 +793,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477702-warande-178-k684": "2026-08-28T00:54:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477708-cambridgelaan-555-k11": "2026-08-28T00:54:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477701-bisschopssteeg-435": "2026-08-28T00:54:20",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477637-brigittenstraat-4-k11": "2026-08-28T00:54:20"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477637-brigittenstraat-4-k11": "2026-08-28T00:54:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477643-schoolstraat-34-k03": "2026-08-28T21:54:22"
   },
   "fails": 0,
   "down_notified": false
@@ -990,7 +994,12 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/merelstraat/room-2402417": "2026-08-26T14:27:33",
    "https://kamernet.nl/en/for-rent/room-tilburg/delflandstraat/room-2402660": "2026-08-28T00:55:25",
    "https://kamernet.nl/en/for-rent/room-breda/magnoliastraat/room-2402615": "2026-08-28T00:55:25",
-   "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2402610": "2026-08-28T00:55:25"
+   "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2402610": "2026-08-28T00:55:25",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/van-tuldenstraat/room-2402907": "2026-08-28T21:55:03",
+   "https://kamernet.nl/en/for-rent/apartment-schijndel/lambertushof/apartment-2402803": "2026-08-28T21:55:03",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/oude-dijk/studio-2402714": "2026-08-28T21:55:03",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2402708": "2026-08-28T21:55:03",
+   "https://kamernet.nl/en/for-rent/room-vlijmen/braillelaan/room-2402760": "2026-08-28T21:55:03"
   },
   "fails": 0,
   "down_notified": false
@@ -1131,7 +1140,11 @@
    "https://huurportaal.nl/en/listings/woning-te-huur-p3b438d": "2026-08-28T00:56:11",
    "https://huurportaal.nl/en/listings/apartment-in-183-limanstraat-5017-bj-tilburg-p714316": "2026-08-28T00:56:11",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p3b1619": "2026-08-28T00:56:11",
-   "https://huurportaal.nl/en/listings/knusse-luxe-kamer-in-centrum-van-tilburg-p62a90a": "2026-08-28T00:56:11"
+   "https://huurportaal.nl/en/listings/knusse-luxe-kamer-in-centrum-van-tilburg-p62a90a": "2026-08-28T00:56:11",
+   "https://huurportaal.nl/en/listings/studio-met-eigen-badkamer-en-eigen-keuken-p66f640": "2026-08-28T21:55:49",
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-hoogtestraat-26-tilburg-pc2b49b": "2026-08-28T21:55:49",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-van-alphenstraat-19-4-in-tilburg-pc6b89b": "2026-08-28T21:55:49",
+   "https://huurportaal.nl/en/listings/te-huur-kamer-gasthuisring-in-tilburg-p7dba83": "2026-08-28T21:55:49"
   },
   "fails": 0,
   "down_notified": false
