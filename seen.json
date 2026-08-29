@@ -333,12 +333,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 300,
+  "fails": 301,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 300,
+  "fails": 301,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -805,7 +805,18 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477733-europaplein-288": "2026-08-29T03:30:03",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477736-ina-boudier-bakkerlaan-133-k1426": "2026-08-29T03:30:03",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477723-amsterdamsestraatweg-19-k2.16": "2026-08-29T03:30:03",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477727-ina-boudier-bakkerlaan-89-4-k484": "2026-08-29T03:30:03"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477727-ina-boudier-bakkerlaan-89-4-k484": "2026-08-29T03:30:03",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477748-cambridgelaan-193-k1": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477743-cambridgelaan-271-k4": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477740-bisschopssteeg-559-k5": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477547-ina-boudier-bakkerlaan-229-k1878": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477741-opaalweg-256-k6": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477750-ina-boudier-bakkerlaan-211-k1785": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477739-gansstraat-157a-k14": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477638-cambridgelaan-751-k4": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477747-wouter-van%20doeverenplein-8-k8": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477728-talentenplein-376": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477742-cambridgelaan-191-k5": "2026-08-29T23:17:12"
   },
   "fails": 0,
   "down_notified": false
