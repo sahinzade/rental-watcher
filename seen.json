@@ -333,12 +333,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 306,
+  "fails": 307,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 306,
+  "fails": 307,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -816,7 +816,20 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477638-cambridgelaan-751-k4": "2026-08-29T23:17:12",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477747-wouter-van%20doeverenplein-8-k8": "2026-08-29T23:17:12",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477728-talentenplein-376": "2026-08-29T23:17:12",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477742-cambridgelaan-191-k5": "2026-08-29T23:17:12"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477742-cambridgelaan-191-k5": "2026-08-29T23:17:12",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477734-van-lieflandlaan-74-k2": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477761-rivierstraat-224-k2": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477758-salamancapad-349-k01": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477757-talent-square-166": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477762-ina-boudier-bakkerlaan-109-4-k882": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477521-warande-9-k017": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477712-burgemeester-fockema%20andreaeplein-82": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477760-van-der%20laenstraat-127-k01": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477558-plutolaan-329a-120": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477756-ina-boudier-bakkerlaan-21-1-k132": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477729-pythagoraslaan-107-k6": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477764-talent-square-222": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477682-gerbrandypad-95": "2026-08-30T22:02:46"
   },
   "fails": 0,
   "down_notified": false
