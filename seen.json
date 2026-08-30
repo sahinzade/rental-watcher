@@ -333,12 +333,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 304,
+  "fails": 305,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 304,
+  "fails": 305,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1025,7 +1025,9 @@
    "https://kamernet.nl/en/for-rent/room-breda/mathenessestraat/room-2403089": "2026-08-29T18:30:16",
    "https://kamernet.nl/en/for-rent/room-raamsdonksveer/hertogshoef/room-2401467": "2026-08-30T12:21:15",
    "https://kamernet.nl/en/for-rent/room-den-bosch/pieter-breughelstraat/room-2402280": "2026-08-30T12:21:15",
-   "https://kamernet.nl/en/for-rent/studio-den-bosch/emmaplein/studio-2403141": "2026-08-30T12:21:15"
+   "https://kamernet.nl/en/for-rent/studio-den-bosch/emmaplein/studio-2403141": "2026-08-30T12:21:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/havendijk/room-2403144": "2026-08-30T16:50:34",
+   "https://kamernet.nl/en/for-rent/room-raamsdonksveer/hertogshoef/room-2401470": "2026-08-30T16:50:34"
   },
   "fails": 0,
   "down_notified": false
