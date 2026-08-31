@@ -86,7 +86,11 @@
    "59844": "2026-08-28T00:52:13",
    "59845": "2026-08-28T00:52:13",
    "59846": "2026-08-28T00:52:13",
-   "59824": "2026-08-28T21:52:31"
+   "59824": "2026-08-28T21:52:31",
+   "59850": "2026-08-31T19:36:01",
+   "59849": "2026-08-31T19:36:01",
+   "59848": "2026-08-31T19:36:01",
+   "59834": "2026-08-31T19:36:01"
   },
   "fails": 0,
   "down_notified": false
@@ -311,7 +315,19 @@
    "16998": "2026-08-31T13:30:38",
    "17088": "2026-08-31T13:30:38",
    "17107": "2026-08-31T13:30:38",
-   "17121": "2026-08-31T13:30:38"
+   "17121": "2026-08-31T13:30:38",
+   "16208": "2026-08-31T19:36:08",
+   "16601": "2026-08-31T19:36:08",
+   "16697": "2026-08-31T19:36:08",
+   "17013": "2026-08-31T19:36:08",
+   "17015": "2026-08-31T19:36:08",
+   "17067": "2026-08-31T19:36:08",
+   "17081": "2026-08-31T19:36:08",
+   "17083": "2026-08-31T19:36:08",
+   "17090": "2026-08-31T19:36:08",
+   "17096": "2026-08-31T19:36:08",
+   "17098": "2026-08-31T19:36:08",
+   "17117": "2026-08-31T19:36:08"
   },
   "fails": 0,
   "down_notified": false
@@ -342,12 +358,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 310,
+  "fails": 311,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 310,
+  "fails": 311,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -838,7 +854,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477756-ina-boudier-bakkerlaan-21-1-k132": "2026-08-30T22:02:46",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477729-pythagoraslaan-107-k6": "2026-08-30T22:02:46",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477764-talent-square-222": "2026-08-30T22:02:46",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477682-gerbrandypad-95": "2026-08-30T22:02:46"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477682-gerbrandypad-95": "2026-08-30T22:02:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477738-lange-jufferstraat-34": "2026-08-31T19:38:14"
   },
   "fails": 0,
   "down_notified": false
@@ -1049,7 +1066,9 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/pieter-breughelstraat/room-2402280": "2026-08-30T12:21:15",
    "https://kamernet.nl/en/for-rent/studio-den-bosch/emmaplein/studio-2403141": "2026-08-30T12:21:15",
    "https://kamernet.nl/en/for-rent/room-tilburg/havendijk/room-2403144": "2026-08-30T16:50:34",
-   "https://kamernet.nl/en/for-rent/room-raamsdonksveer/hertogshoef/room-2401470": "2026-08-30T16:50:34"
+   "https://kamernet.nl/en/for-rent/room-raamsdonksveer/hertogshoef/room-2401470": "2026-08-30T16:50:34",
+   "https://kamernet.nl/en/for-rent/room-breda/beukstraat/room-2085463": "2026-08-31T19:38:56",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/girostraat/apartment-2403421": "2026-08-31T19:38:56"
   },
   "fails": 0,
   "down_notified": false
@@ -1207,7 +1226,8 @@
    "https://huurportaal.nl/en/listings/leuke-kamer-te-huur-in-de-wijk-groenewoud-indeling-p360d75": "2026-08-31T06:03:27",
    "https://huurportaal.nl/en/listings/appartement-te-huur-pd55cc8": "2026-08-31T06:03:27",
    "https://huurportaal.nl/en/listings/house-for-rent-in-broekhovenseweg-49-5021-lb-tilburg-voltterrein-p3b438d": "2026-08-31T13:34:00",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-pc83b13": "2026-08-31T13:34:00"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pc83b13": "2026-08-31T13:34:00",
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-frederikstraat-174-5038-az-tilburg-binnenstad-oost-p3b1619": "2026-08-31T19:39:38"
   },
   "fails": 0,
   "down_notified": false
