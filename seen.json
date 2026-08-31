@@ -358,12 +358,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 311,
+  "fails": 312,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 311,
+  "fails": 312,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -855,7 +855,30 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477729-pythagoraslaan-107-k6": "2026-08-30T22:02:46",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477764-talent-square-222": "2026-08-30T22:02:46",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477682-gerbrandypad-95": "2026-08-30T22:02:46",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477738-lange-jufferstraat-34": "2026-08-31T19:38:14"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477738-lange-jufferstraat-34": "2026-08-31T19:38:14",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477177-bisschopssteeg-679-k5": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477776-ina-boudier-bakkerlaan-61-k1129": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477778-albertine-agnesplein-2--4": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477770-koningsweg-108-k23": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477779-ina-boudier-bakkerlaan-219-k1821": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477780-warande-55-k219": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477768-vilniusdijk-130": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477753-cambridgelaan-289-k4": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477787-europaplein-92": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477769-wouter-van%20doeverenplein-74-k5": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477765-hondsrug-193-k5": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477786-struisenburgdwarsstraat-110": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477777-talent-square-492": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477784-salamancapad-385-k32": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477788-hugo-de%20grootstraat-32-bis-k11": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477775-rijnlaan-131-k305": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477774-rijnlaan-131-k115": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477716-bisschopssteeg-643-k3": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477773-van-lieflandlaan-50-k12": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477791-leuvenplein-74-k3": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477782-van-lieflandlaan-30-k21": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477719-opaalweg-216-k2": "2026-08-31T23:23:05",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477635-pythagoraslaan-107k-k6": "2026-08-31T23:23:05"
   },
   "fails": 0,
   "down_notified": false
