@@ -304,7 +304,14 @@
    "17079": "2026-08-25T14:10:09",
    "17080": "2026-08-25T14:10:09",
    "15136": "2026-08-26T10:08:20",
-   "17057": "2026-08-26T10:08:20"
+   "17057": "2026-08-26T10:08:20",
+   "16618": "2026-08-31T13:30:38",
+   "16623": "2026-08-31T13:30:38",
+   "16632": "2026-08-31T13:30:38",
+   "16998": "2026-08-31T13:30:38",
+   "17088": "2026-08-31T13:30:38",
+   "17107": "2026-08-31T13:30:38",
+   "17121": "2026-08-31T13:30:38"
   },
   "fails": 0,
   "down_notified": false
@@ -326,19 +333,21 @@
    "https://magisrealestate.com/for-rent/boschdijk/38C": "2026-08-25T11:13:53",
    "https://magisrealestate.com/for-rent/zernikestraat/26": "2026-08-25T14:10:12",
    "https://magisrealestate.com/for-rent/novum/2%20F717": "2026-08-28T21:52:34",
-   "https://magisrealestate.com/for-rent/novum/2%20F329": "2026-08-28T21:52:34"
+   "https://magisrealestate.com/for-rent/novum/2%20F329": "2026-08-28T21:52:34",
+   "https://magisrealestate.com/for-rent/novum/334": "2026-08-31T13:30:50",
+   "https://magisrealestate.com/for-rent/novum/338": "2026-08-31T13:30:50"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 309,
+  "fails": 310,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 309,
+  "fails": 310,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1196,7 +1205,9 @@
    "https://huurportaal.nl/en/listings/kamer-beschikbaar-voor-9-maanden-p85c9bb": "2026-08-31T06:03:27",
    "https://huurportaal.nl/en/listings/house-in-5-van-heemskerckstraat-5021-rc-tilburg-p902a64": "2026-08-31T06:03:27",
    "https://huurportaal.nl/en/listings/leuke-kamer-te-huur-in-de-wijk-groenewoud-indeling-p360d75": "2026-08-31T06:03:27",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-pd55cc8": "2026-08-31T06:03:27"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pd55cc8": "2026-08-31T06:03:27",
+   "https://huurportaal.nl/en/listings/house-for-rent-in-broekhovenseweg-49-5021-lb-tilburg-voltterrein-p3b438d": "2026-08-31T13:34:00",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pc83b13": "2026-08-31T13:34:00"
   },
   "fails": 0,
   "down_notified": false
