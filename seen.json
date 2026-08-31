@@ -333,12 +333,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 308,
+  "fails": 309,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 308,
+  "fails": 309,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1192,7 +1192,11 @@
    "https://huurportaal.nl/en/listings/house-in-43-bolswardstraat-5043-bl-tilburg-p6fc6df": "2026-08-29T03:31:40",
    "https://huurportaal.nl/en/listings/havendijk-12-36-tilburg-p2d5c98": "2026-08-29T03:31:40",
    "https://huurportaal.nl/en/listings/apartment-in-251-kruidenlaan-5044-cg-tilburg-pdb6a53": "2026-08-29T18:30:56",
-   "https://huurportaal.nl/en/listings/de-ring-p348588": "2026-08-30T06:51:04"
+   "https://huurportaal.nl/en/listings/de-ring-p348588": "2026-08-30T06:51:04",
+   "https://huurportaal.nl/en/listings/kamer-beschikbaar-voor-9-maanden-p85c9bb": "2026-08-31T06:03:27",
+   "https://huurportaal.nl/en/listings/house-in-5-van-heemskerckstraat-5021-rc-tilburg-p902a64": "2026-08-31T06:03:27",
+   "https://huurportaal.nl/en/listings/leuke-kamer-te-huur-in-de-wijk-groenewoud-indeling-p360d75": "2026-08-31T06:03:27",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pd55cc8": "2026-08-31T06:03:27"
   },
   "fails": 0,
   "down_notified": false
