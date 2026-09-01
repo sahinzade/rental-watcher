@@ -362,12 +362,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 315,
+  "fails": 316,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 315,
+  "fails": 316,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1099,7 +1099,8 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/girostraat/apartment-2403421": "2026-08-31T19:38:56",
    "https://kamernet.nl/en/for-rent/room-den-bosch/aert-van-nesstraat/room-2403628": "2026-09-01T12:42:44",
    "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2403602": "2026-09-01T12:42:44",
-   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2403564": "2026-09-01T12:42:44"
+   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2403564": "2026-09-01T12:42:44",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/hertogstraat/room-2403661": "2026-09-01T16:57:48"
   },
   "fails": 0,
   "down_notified": false
