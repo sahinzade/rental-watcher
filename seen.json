@@ -90,7 +90,8 @@
    "59850": "2026-08-31T19:36:01",
    "59849": "2026-08-31T19:36:01",
    "59848": "2026-08-31T19:36:01",
-   "59834": "2026-08-31T19:36:01"
+   "59834": "2026-08-31T19:36:01",
+   "59861": "2026-09-01T19:44:09"
   },
   "fails": 0,
   "down_notified": false
@@ -362,12 +363,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 316,
+  "fails": 317,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 316,
+  "fails": 317,
   "down_notified": true
  },
  "SSH Short Stay": {
