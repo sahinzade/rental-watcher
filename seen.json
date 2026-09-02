@@ -371,12 +371,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 322,
+  "fails": 323,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 322,
+  "fails": 323,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -901,7 +901,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477803-winschoterdiep-46-d112": "2026-09-01T22:08:32",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477876-gerbrandypad-182": "2026-09-02T08:57:51",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1473563-gerbrandypad-108": "2026-09-02T13:15:18",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477594-enny-vredelaan-107-k8": "2026-09-02T13:15:18"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477594-enny-vredelaan-107-k8": "2026-09-02T13:15:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/468-vechtstraat-147b": "2026-09-02T17:13:54"
   },
   "fails": 0,
   "down_notified": false
@@ -1124,7 +1125,9 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/commissaris-de-quaylaan/room-2403887": "2026-09-02T13:16:01",
    "https://kamernet.nl/en/for-rent/studio-tilburg/tuinstraat/studio-2403879": "2026-09-02T13:16:01",
    "https://kamernet.nl/en/for-rent/room-tilburg/klaverstraat/room-2403862": "2026-09-02T13:16:01",
-   "https://kamernet.nl/en/for-rent/studio-den-bosch/postelstraat/studio-2403853": "2026-09-02T13:16:01"
+   "https://kamernet.nl/en/for-rent/studio-den-bosch/postelstraat/studio-2403853": "2026-09-02T13:16:01",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/aert-van-nesstraat/room-2403943": "2026-09-02T17:14:36",
+   "https://kamernet.nl/en/for-rent/room-tilburg/dwingeloostraat/room-2403929": "2026-09-02T17:14:36"
   },
   "fails": 0,
   "down_notified": false
@@ -1134,7 +1137,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Huurportaal (Tilburg)": {
