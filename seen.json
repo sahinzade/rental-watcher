@@ -363,12 +363,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 318,
+  "fails": 319,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 318,
+  "fails": 319,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -920,7 +920,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/9c4be02b/insulindeplein": "2026-08-18T22:58:21",
    "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06",
    "https://www.pararius.com/studio-for-rent/tilburg/21e0519a/wittebollestraat": "2026-08-26T14:27:31",
-   "https://www.pararius.com/studio-for-rent/tilburg/79c18a50/rosmolenplein": "2026-08-28T00:55:23"
+   "https://www.pararius.com/studio-for-rent/tilburg/79c18a50/rosmolenplein": "2026-08-28T00:55:23",
+   "https://www.pararius.com/studio-for-rent/tilburg/f5b689cd/herstalsestraat": "2026-09-02T00:08:52"
   },
   "fails": 0,
   "down_notified": false
@@ -1109,7 +1110,7 @@
    "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2403564": "2026-09-01T12:42:44",
    "https://kamernet.nl/en/for-rent/room-den-bosch/hertogstraat/room-2403661": "2026-09-01T16:57:48"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Funda (Tilburg, furnished, <1500)": {
