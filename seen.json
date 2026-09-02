@@ -91,7 +91,10 @@
    "59849": "2026-08-31T19:36:01",
    "59848": "2026-08-31T19:36:01",
    "59834": "2026-08-31T19:36:01",
-   "59861": "2026-09-01T19:44:09"
+   "59861": "2026-09-01T19:44:09",
+   "59852": "2026-09-02T08:55:59",
+   "59838": "2026-09-02T08:55:59",
+   "59827": "2026-09-02T08:55:59"
   },
   "fails": 0,
   "down_notified": false
@@ -330,7 +333,9 @@
    "17098": "2026-08-31T19:36:08",
    "17117": "2026-08-31T19:36:08",
    "17138": "2026-09-01T12:40:08",
-   "17139": "2026-09-01T12:40:08"
+   "17139": "2026-09-01T12:40:08",
+   "17097": "2026-09-02T08:56:04",
+   "17141": "2026-09-02T08:56:04"
   },
   "fails": 0,
   "down_notified": false
@@ -363,12 +368,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 320,
+  "fails": 321,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 320,
+  "fails": 321,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -890,7 +895,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477794-ina-boudier-bakkerlaan-47-k1069": "2026-09-01T22:08:32",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477799-struisenburgdwarsstraat-20c-k3-": "2026-09-01T22:08:32",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477795-de-ruyterstraat-25-b": "2026-09-01T22:08:32",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477803-winschoterdiep-46-d112": "2026-09-01T22:08:32"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477803-winschoterdiep-46-d112": "2026-09-01T22:08:32",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477876-gerbrandypad-182": "2026-09-02T08:57:51"
   },
   "fails": 0,
   "down_notified": false
@@ -1267,7 +1273,12 @@
    "https://huurportaal.nl/en/listings/appartement-te-huur-pd55cc8": "2026-08-31T06:03:27",
    "https://huurportaal.nl/en/listings/house-for-rent-in-broekhovenseweg-49-5021-lb-tilburg-voltterrein-p3b438d": "2026-08-31T13:34:00",
    "https://huurportaal.nl/en/listings/appartement-te-huur-pc83b13": "2026-08-31T13:34:00",
-   "https://huurportaal.nl/en/listings/apartment-for-rent-in-frederikstraat-174-5038-az-tilburg-binnenstad-oost-p3b1619": "2026-08-31T19:39:38"
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-frederikstraat-174-5038-az-tilburg-binnenstad-oost-p3b1619": "2026-08-31T19:39:38",
+   "https://huurportaal.nl/en/listings/apartment-in-200-edisonlaan-5021-mh-tilburg-pb0c56d": "2026-09-02T08:59:10",
+   "https://huurportaal.nl/en/listings/apartment-in-7-bergeijkstraat-5043-bd-tilburg-p25fa8f": "2026-09-02T08:59:10",
+   "https://huurportaal.nl/en/listings/ruime-studio-in-tilburg-centrum-pcf71d7": "2026-09-02T08:59:10",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pdc50f8": "2026-09-02T08:59:10",
+   "https://huurportaal.nl/en/listings/apartment-in-207-kruidenlaan-5044-ce-tilburg-p9a38d2": "2026-09-02T08:59:10"
   },
   "fails": 0,
   "down_notified": false
