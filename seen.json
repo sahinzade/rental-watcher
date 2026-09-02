@@ -94,7 +94,9 @@
    "59861": "2026-09-01T19:44:09",
    "59852": "2026-09-02T08:55:59",
    "59838": "2026-09-02T08:55:59",
-   "59827": "2026-09-02T08:55:59"
+   "59827": "2026-09-02T08:55:59",
+   "59862": "2026-09-02T13:13:27",
+   "59864": "2026-09-02T13:13:27"
   },
   "fails": 0,
   "down_notified": false
@@ -335,7 +337,8 @@
    "17138": "2026-09-01T12:40:08",
    "17139": "2026-09-01T12:40:08",
    "17097": "2026-09-02T08:56:04",
-   "17141": "2026-09-02T08:56:04"
+   "17141": "2026-09-02T08:56:04",
+   "16613": "2026-09-02T13:13:32"
   },
   "fails": 0,
   "down_notified": false
@@ -368,12 +371,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 321,
+  "fails": 322,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 321,
+  "fails": 322,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -896,7 +899,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477799-struisenburgdwarsstraat-20c-k3-": "2026-09-01T22:08:32",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477795-de-ruyterstraat-25-b": "2026-09-01T22:08:32",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477803-winschoterdiep-46-d112": "2026-09-01T22:08:32",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477876-gerbrandypad-182": "2026-09-02T08:57:51"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477876-gerbrandypad-182": "2026-09-02T08:57:51",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1473563-gerbrandypad-108": "2026-09-02T13:15:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477594-enny-vredelaan-107-k8": "2026-09-02T13:15:18"
   },
   "fails": 0,
   "down_notified": false
@@ -1114,7 +1119,12 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/aert-van-nesstraat/room-2403628": "2026-09-01T12:42:44",
    "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2403602": "2026-09-01T12:42:44",
    "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2403564": "2026-09-01T12:42:44",
-   "https://kamernet.nl/en/for-rent/room-den-bosch/hertogstraat/room-2403661": "2026-09-01T16:57:48"
+   "https://kamernet.nl/en/for-rent/room-den-bosch/hertogstraat/room-2403661": "2026-09-01T16:57:48",
+   "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2403890": "2026-09-02T13:16:01",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/commissaris-de-quaylaan/room-2403887": "2026-09-02T13:16:01",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/tuinstraat/studio-2403879": "2026-09-02T13:16:01",
+   "https://kamernet.nl/en/for-rent/room-tilburg/klaverstraat/room-2403862": "2026-09-02T13:16:01",
+   "https://kamernet.nl/en/for-rent/studio-den-bosch/postelstraat/studio-2403853": "2026-09-02T13:16:01"
   },
   "fails": 0,
   "down_notified": false
