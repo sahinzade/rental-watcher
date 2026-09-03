@@ -339,7 +339,11 @@
    "17097": "2026-09-02T08:56:04",
    "17141": "2026-09-02T08:56:04",
    "16613": "2026-09-02T13:13:32",
-   "16604": "2026-09-03T09:01:21"
+   "16604": "2026-09-03T09:01:21",
+   "16624": "2026-09-03T13:31:51",
+   "16625": "2026-09-03T13:31:51",
+   "16626": "2026-09-03T13:31:51",
+   "16633": "2026-09-03T13:31:51"
   },
   "fails": 0,
   "down_notified": false
@@ -372,12 +376,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 328,
+  "fails": 329,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 328,
+  "fails": 329,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1191,7 +1195,10 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/dwingeloostraat/room-2403929": "2026-09-02T17:14:36",
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2404061": "2026-09-03T09:03:50",
    "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2404055": "2026-09-03T09:03:50",
-   "https://kamernet.nl/en/for-rent/room-breda/mathenessestraat/room-2403088": "2026-09-03T09:03:50"
+   "https://kamernet.nl/en/for-rent/room-breda/mathenessestraat/room-2403088": "2026-09-03T09:03:50",
+   "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2404126": "2026-09-03T13:34:24",
+   "https://kamernet.nl/en/for-rent/room-tilburg/haydnstraat/room-2404093": "2026-09-03T13:34:24",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2404072": "2026-09-03T13:34:24"
   },
   "fails": 0,
   "down_notified": false
@@ -1201,7 +1208,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 6,
+  "fails": 7,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
