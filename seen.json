@@ -96,7 +96,8 @@
    "59838": "2026-09-02T08:55:59",
    "59827": "2026-09-02T08:55:59",
    "59862": "2026-09-02T13:13:27",
-   "59864": "2026-09-02T13:13:27"
+   "59864": "2026-09-02T13:13:27",
+   "59871": "2026-09-03T17:10:53"
   },
   "fails": 0,
   "down_notified": false
@@ -376,12 +377,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 329,
+  "fails": 330,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 329,
+  "fails": 330,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1198,7 +1199,9 @@
    "https://kamernet.nl/en/for-rent/room-breda/mathenessestraat/room-2403088": "2026-09-03T09:03:50",
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2404126": "2026-09-03T13:34:24",
    "https://kamernet.nl/en/for-rent/room-tilburg/haydnstraat/room-2404093": "2026-09-03T13:34:24",
-   "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2404072": "2026-09-03T13:34:24"
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2404072": "2026-09-03T13:34:24",
+   "https://kamernet.nl/en/for-rent/room-tilburg/broekhovenseweg/room-2404166": "2026-09-03T17:13:23",
+   "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2341843": "2026-09-03T17:13:23"
   },
   "fails": 0,
   "down_notified": false
@@ -1208,7 +1211,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 7,
+  "fails": 8,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1365,7 +1368,10 @@
    "https://huurportaal.nl/en/listings/apartment-in-207-kruidenlaan-5044-ce-tilburg-p9a38d2": "2026-09-02T08:59:10",
    "https://huurportaal.nl/en/listings/veldhovenring-tilburg-pdbdb27": "2026-09-02T22:05:15",
    "https://huurportaal.nl/en/listings/woning-te-huur-pb789de": "2026-09-02T22:05:15",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-p1a9171": "2026-09-03T09:04:32"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p1a9171": "2026-09-03T09:04:32",
+   "https://huurportaal.nl/en/listings/house-for-rent-in-gondelstraat-5-5017-ck-tilburg-hoogvenne-oost-pb789de": "2026-09-03T17:14:06",
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-havendijk-12-36-5017-am-tilburg-hoevenseweg-pdc50f8": "2026-09-03T17:14:06",
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-emmapassage-9-12-5038-xa-tilburg-binnenstad-oost-p1a9171": "2026-09-03T17:14:06"
   },
   "fails": 0,
   "down_notified": false
