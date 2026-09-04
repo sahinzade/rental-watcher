@@ -377,12 +377,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 334,
+  "fails": 335,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 334,
+  "fails": 335,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1219,7 +1219,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 12,
+  "fails": 13,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1381,7 +1381,9 @@
    "https://huurportaal.nl/en/listings/apartment-for-rent-in-havendijk-12-36-5017-am-tilburg-hoevenseweg-pdc50f8": "2026-09-03T17:14:06",
    "https://huurportaal.nl/en/listings/apartment-for-rent-in-emmapassage-9-12-5038-xa-tilburg-binnenstad-oost-p1a9171": "2026-09-03T17:14:06",
    "https://huurportaal.nl/en/listings/apartment-in-158-koolhovenlaan-5036-ts-tilburg-p93464c": "2026-09-04T04:31:13",
-   "https://huurportaal.nl/en/listings/apartment-for-rent-in-stappegoorweg-42-04-5022-dl-tilburg-stappegoor-noord-pd55cc8": "2026-09-04T04:31:13"
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-stappegoorweg-42-04-5022-dl-tilburg-stappegoor-noord-pd55cc8": "2026-09-04T04:31:13",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-kapelhof-in-tilburg-p8cfd10": "2026-09-04T09:03:09",
+   "https://huurportaal.nl/en/listings/studentenkamer-aan-de-minister-van-sonstraat-te-huur-in-tilburg-p8c0172": "2026-09-04T09:03:09"
   },
   "fails": 0,
   "down_notified": false
