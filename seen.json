@@ -97,7 +97,10 @@
    "59827": "2026-09-02T08:55:59",
    "59862": "2026-09-02T13:13:27",
    "59864": "2026-09-02T13:13:27",
-   "59871": "2026-09-03T17:10:53"
+   "59871": "2026-09-03T17:10:53",
+   "59872": "2026-09-04T13:23:15",
+   "59363": "2026-09-04T13:23:15",
+   "59571": "2026-09-04T13:23:15"
   },
   "fails": 0,
   "down_notified": false
@@ -344,7 +347,8 @@
    "16624": "2026-09-03T13:31:51",
    "16625": "2026-09-03T13:31:51",
    "16626": "2026-09-03T13:31:51",
-   "16633": "2026-09-03T13:31:51"
+   "16633": "2026-09-03T13:31:51",
+   "16606": "2026-09-04T13:23:19"
   },
   "fails": 0,
   "down_notified": false
@@ -370,19 +374,20 @@
    "https://magisrealestate.com/for-rent/novum/334": "2026-08-31T13:30:50",
    "https://magisrealestate.com/for-rent/novum/338": "2026-08-31T13:30:50",
    "https://magisrealestate.com/for-rent/novum/2%20F729": "2026-09-01T12:40:12",
-   "https://magisrealestate.com/for-rent/the-wing/7L": "2026-09-01T12:40:12"
+   "https://magisrealestate.com/for-rent/the-wing/7L": "2026-09-01T12:40:12",
+   "https://magisrealestate.com/for-rent/mister-x/7.75": "2026-09-04T13:23:21"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 335,
+  "fails": 336,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 335,
+  "fails": 336,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1007,7 +1012,9 @@
    "https://www.pararius.com/studio-for-rent/tilburg/2cdf6fce/groeseindstraat": "2026-08-21T23:55:06",
    "https://www.pararius.com/studio-for-rent/tilburg/21e0519a/wittebollestraat": "2026-08-26T14:27:31",
    "https://www.pararius.com/studio-for-rent/tilburg/79c18a50/rosmolenplein": "2026-08-28T00:55:23",
-   "https://www.pararius.com/studio-for-rent/tilburg/f5b689cd/herstalsestraat": "2026-09-02T00:08:52"
+   "https://www.pararius.com/studio-for-rent/tilburg/f5b689cd/herstalsestraat": "2026-09-02T00:08:52",
+   "https://www.pararius.com/studio-for-rent/tilburg/6f485d5f/koestraat": "2026-09-04T13:25:45",
+   "https://www.pararius.com/studio-for-rent/tilburg/4f0c06be/wittebollestraat": "2026-09-04T13:25:45"
   },
   "fails": 0,
   "down_notified": false
@@ -1209,7 +1216,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/haydnstraat/room-2404093": "2026-09-03T13:34:24",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2404072": "2026-09-03T13:34:24",
    "https://kamernet.nl/en/for-rent/room-tilburg/broekhovenseweg/room-2404166": "2026-09-03T17:13:23",
-   "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2341843": "2026-09-03T17:13:23"
+   "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2341843": "2026-09-03T17:13:23",
+   "https://kamernet.nl/en/for-rent/room-tilburg/europalaan/room-2404360": "2026-09-04T13:25:48",
+   "https://kamernet.nl/en/for-rent/studio-breda/hooilaan/studio-2404324": "2026-09-04T13:25:48"
   },
   "fails": 0,
   "down_notified": false
@@ -1219,7 +1228,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 13,
+  "fails": 14,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
