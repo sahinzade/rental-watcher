@@ -377,12 +377,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 332,
+  "fails": 333,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 332,
+  "fails": 333,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -968,7 +968,15 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477781-leuvenplein-19": "2026-09-02T22:03:56",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477854-talent-square-126": "2026-09-02T22:03:56",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477628-talentenplein-127": "2026-09-02T22:03:56",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477894-lange-nieuwstraat-6-k32": "2026-09-03T09:03:08"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477894-lange-nieuwstraat-6-k32": "2026-09-03T09:03:08",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477868-wouter-van%20doeverenplein-38-k4": "2026-09-04T00:11:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477867-bretagne-51-k3": "2026-09-04T00:11:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477871-salamancapad-317-k01": "2026-09-04T00:11:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477862-justus-van%20effenstraat-21-bis-k12": "2026-09-04T00:11:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477870-talentenplein-246": "2026-09-04T00:11:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477848-johan-de%20wittstraat-4-k23": "2026-09-04T00:11:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477859-alexander-numankade-3p-k1": "2026-09-04T00:11:01",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477869-cambridgelaan-221-k1": "2026-09-04T00:11:01"
   },
   "fails": 0,
   "down_notified": false
@@ -1211,7 +1219,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 10,
+  "fails": 11,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
