@@ -375,19 +375,20 @@
    "https://magisrealestate.com/for-rent/novum/338": "2026-08-31T13:30:50",
    "https://magisrealestate.com/for-rent/novum/2%20F729": "2026-09-01T12:40:12",
    "https://magisrealestate.com/for-rent/the-wing/7L": "2026-09-01T12:40:12",
-   "https://magisrealestate.com/for-rent/mister-x/7.75": "2026-09-04T13:23:21"
+   "https://magisrealestate.com/for-rent/mister-x/7.75": "2026-09-04T13:23:21",
+   "https://magisrealestate.com/for-rent/the-rumour/14.29": "2026-09-04T16:56:32"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 336,
+  "fails": 337,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 336,
+  "fails": 337,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1218,7 +1219,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/broekhovenseweg/room-2404166": "2026-09-03T17:13:23",
    "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2341843": "2026-09-03T17:13:23",
    "https://kamernet.nl/en/for-rent/room-tilburg/europalaan/room-2404360": "2026-09-04T13:25:48",
-   "https://kamernet.nl/en/for-rent/studio-breda/hooilaan/studio-2404324": "2026-09-04T13:25:48"
+   "https://kamernet.nl/en/for-rent/studio-breda/hooilaan/studio-2404324": "2026-09-04T13:25:48",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/smidspad/apartment-2404401": "2026-09-04T16:58:56",
+   "https://kamernet.nl/en/for-rent/room-breda/lange-brugstraat/room-2404379": "2026-09-04T16:58:56"
   },
   "fails": 0,
   "down_notified": false
@@ -1228,7 +1231,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 14,
+  "fails": 15,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
