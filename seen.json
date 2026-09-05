@@ -383,12 +383,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 342,
+  "fails": 343,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 342,
+  "fails": 343,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1232,7 +1232,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/europalaan/room-2404360": "2026-09-04T13:25:48",
    "https://kamernet.nl/en/for-rent/studio-breda/hooilaan/studio-2404324": "2026-09-04T13:25:48",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/smidspad/apartment-2404401": "2026-09-04T16:58:56",
-   "https://kamernet.nl/en/for-rent/room-breda/lange-brugstraat/room-2404379": "2026-09-04T16:58:56"
+   "https://kamernet.nl/en/for-rent/room-breda/lange-brugstraat/room-2404379": "2026-09-04T16:58:56",
+   "https://kamernet.nl/en/for-rent/room-tilburg/don-sartostraat/room-2404456": "2026-09-05T09:25:20"
   },
   "fails": 0,
   "down_notified": false
@@ -1242,7 +1243,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 20,
+  "fails": 21,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1411,7 +1412,9 @@
    "https://huurportaal.nl/en/listings/apartment-for-rent-in-stappegoorweg-42-07-5022-dl-tilburg-stappegoor-noord-p5834de": "2026-09-04T19:21:30",
    "https://huurportaal.nl/en/listings/te-huur-ruim-2-kamer-appartement-in-het-centrum-p291b82": "2026-09-04T19:21:30",
    "https://huurportaal.nl/en/listings/house-in-9-de-ruijterstraat-5021-va-tilburg-p1095b4": "2026-09-04T21:37:25",
-   "https://huurportaal.nl/en/listings/apartment-in-265-hoffmannlaan-5011-wd-tilburg-pa5dc74": "2026-09-04T21:37:25"
+   "https://huurportaal.nl/en/listings/apartment-in-265-hoffmannlaan-5011-wd-tilburg-pa5dc74": "2026-09-04T21:37:25",
+   "https://huurportaal.nl/en/listings/apartment-in-89-smijersstraat-5012-cc-tilburg-p76778e": "2026-09-05T09:26:00",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p5834de": "2026-09-05T09:26:00"
   },
   "fails": 0,
   "down_notified": false
