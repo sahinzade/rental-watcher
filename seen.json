@@ -383,12 +383,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 344,
+  "fails": 345,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 344,
+  "fails": 345,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1234,7 +1234,9 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/smidspad/apartment-2404401": "2026-09-04T16:58:56",
    "https://kamernet.nl/en/for-rent/room-breda/lange-brugstraat/room-2404379": "2026-09-04T16:58:56",
    "https://kamernet.nl/en/for-rent/room-tilburg/don-sartostraat/room-2404456": "2026-09-05T09:25:20",
-   "https://kamernet.nl/en/for-rent/apartment-waalwijk/wilhelminastraat/apartment-2404506": "2026-09-05T12:57:28"
+   "https://kamernet.nl/en/for-rent/apartment-waalwijk/wilhelminastraat/apartment-2404506": "2026-09-05T12:57:28",
+   "https://kamernet.nl/en/for-rent/studio-chaam/kerkdreef/studio-2404499": "2026-09-05T15:48:33",
+   "https://kamernet.nl/en/for-rent/room-tilburg/koestraat/room-2404565": "2026-09-05T15:48:33"
   },
   "fails": 0,
   "down_notified": false
@@ -1244,7 +1246,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 22,
+  "fails": 23,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
