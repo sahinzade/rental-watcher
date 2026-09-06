@@ -383,12 +383,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 356,
+  "fails": 357,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 356,
+  "fails": 357,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1003,7 +1003,20 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477908-struisenburgdwarsstraat-322--1": "2026-09-05T23:21:14",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477896-willem-schuylenburglaan-57-k01": "2026-09-05T23:21:14",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477910-hofstraat-1-bis-k21": "2026-09-05T23:21:14",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477902-van-lieflandlaan-52-k11": "2026-09-05T23:21:14"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477902-van-lieflandlaan-52-k11": "2026-09-05T23:21:14",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477916-struisenburgdwarsstraat-240": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477918-europaplein-1002": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477800-bisschopssteeg-387": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477907-talent-square-360": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477807-bisschopssteeg-611": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477912-van-lieflandlaan-60-k23": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477901-ina-boudier-bakkerlaan-65-4-k597": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477823-gerbrandypad-148": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477766-europaplein-374": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477864-bisschopssteeg-207": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477911-talentenplein-413": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477512-stelplaats-414": "2026-09-06T22:27:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477917-schepenmakerssteeg-4-k23": "2026-09-06T22:27:56"
   },
   "fails": 0,
   "down_notified": false
@@ -1257,7 +1270,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 34,
+  "fails": 35,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
