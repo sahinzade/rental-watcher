@@ -383,12 +383,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 351,
+  "fails": 352,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 351,
+  "fails": 352,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1256,7 +1256,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 29,
+  "fails": 30,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1427,7 +1427,9 @@
    "https://huurportaal.nl/en/listings/house-in-9-de-ruijterstraat-5021-va-tilburg-p1095b4": "2026-09-04T21:37:25",
    "https://huurportaal.nl/en/listings/apartment-in-265-hoffmannlaan-5011-wd-tilburg-pa5dc74": "2026-09-04T21:37:25",
    "https://huurportaal.nl/en/listings/apartment-in-89-smijersstraat-5012-cc-tilburg-p76778e": "2026-09-05T09:26:00",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-p5834de": "2026-09-05T09:26:00"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p5834de": "2026-09-05T09:26:00",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p66c6fd": "2026-09-06T10:16:23",
+   "https://huurportaal.nl/en/listings/poststraat-12-p5ffa0f": "2026-09-06T10:16:23"
   },
   "fails": 0,
   "down_notified": false
