@@ -348,7 +348,14 @@
    "16625": "2026-09-03T13:31:51",
    "16626": "2026-09-03T13:31:51",
    "16633": "2026-09-03T13:31:51",
-   "16606": "2026-09-04T13:23:19"
+   "16606": "2026-09-04T13:23:19",
+   "14734": "2026-09-07T09:47:10",
+   "14812": "2026-09-07T09:47:10",
+   "14923": "2026-09-07T09:47:10",
+   "16698": "2026-09-07T09:47:10",
+   "16699": "2026-09-07T09:47:10",
+   "16700": "2026-09-07T09:47:10",
+   "17148": "2026-09-07T09:47:10"
   },
   "fails": 0,
   "down_notified": false
@@ -383,12 +390,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 359,
+  "fails": 360,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 359,
+  "fails": 360,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1270,7 +1277,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 37,
+  "fails": 38,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1444,7 +1451,8 @@
    "https://huurportaal.nl/en/listings/appartement-te-huur-p5834de": "2026-09-05T09:26:00",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p66c6fd": "2026-09-06T10:16:23",
    "https://huurportaal.nl/en/listings/poststraat-12-p5ffa0f": "2026-09-06T10:16:23",
-   "https://huurportaal.nl/en/listings/studio-in-het-centrum-van-tilburg-pfe4c9a": "2026-09-07T04:53:13"
+   "https://huurportaal.nl/en/listings/studio-in-het-centrum-van-tilburg-pfe4c9a": "2026-09-07T04:53:13",
+   "https://huurportaal.nl/en/listings/1-bedroom-appartement-surface-area-55m2-p67b3f0": "2026-09-07T09:50:21"
   },
   "fails": 0,
   "down_notified": false
