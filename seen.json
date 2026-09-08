@@ -103,7 +103,8 @@
    "59571": "2026-09-04T13:23:15",
    "59874": "2026-09-07T15:18:59",
    "59876": "2026-09-08T13:37:28",
-   "59877": "2026-09-08T13:37:28"
+   "59877": "2026-09-08T13:37:28",
+   "59873": "2026-09-08T17:29:09"
   },
   "fails": 0,
   "down_notified": false
@@ -430,12 +431,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 367,
+  "fails": 368,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 367,
+  "fails": 368,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1333,7 +1334,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2405150": "2026-09-08T13:40:04",
    "https://kamernet.nl/en/for-rent/apartment-breda/achter-de-lange-stallen/apartment-2405149": "2026-09-08T13:40:04",
    "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2405151": "2026-09-08T13:40:04",
-   "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2405105": "2026-09-08T13:40:04"
+   "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2405105": "2026-09-08T13:40:04",
+   "https://kamernet.nl/en/for-rent/apartment-raamsdonksveer/grote-kerkstraat/apartment-2405144": "2026-09-08T17:31:38"
   },
   "fails": 0,
   "down_notified": false
@@ -1343,7 +1345,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 45,
+  "fails": 46,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1519,7 +1521,11 @@
    "https://huurportaal.nl/en/listings/poststraat-12-p5ffa0f": "2026-09-06T10:16:23",
    "https://huurportaal.nl/en/listings/studio-in-het-centrum-van-tilburg-pfe4c9a": "2026-09-07T04:53:13",
    "https://huurportaal.nl/en/listings/1-bedroom-appartement-surface-area-55m2-p67b3f0": "2026-09-07T09:50:21",
-   "https://huurportaal.nl/en/listings/kamer-westpoint-tower-p1f934a": "2026-09-08T09:13:59"
+   "https://huurportaal.nl/en/listings/kamer-westpoint-tower-p1f934a": "2026-09-08T09:13:59",
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-galjoenstraat-1-08-5017-cl-tilburg-hoogvenne-oost-p2368cc": "2026-09-08T17:32:17",
+   "https://huurportaal.nl/en/listings/house-in-13-seringenhof-5014-gz-tilburg-p86f24e": "2026-09-08T17:32:17",
+   "https://huurportaal.nl/en/listings/house-in-7-diederikdreef-5046-gt-tilburg-pad0972": "2026-09-08T17:32:17",
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-karrestraat-41-tilburg-p458fb1": "2026-09-08T17:32:17"
   },
   "fails": 0,
   "down_notified": false
