@@ -431,12 +431,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 369,
+  "fails": 370,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 369,
+  "fails": 370,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1082,7 +1082,19 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477755-leuvenplein-307": "2026-09-07T22:06:23",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477524-europaplein-683": "2026-09-07T22:06:23",
    "https://www.sshxl.nl/en/rental-offer/long-stay/external/470-verhoefbelt-41c": "2026-09-08T13:39:21",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/external/469-verhoefbelt-33a": "2026-09-08T13:39:21"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/469-verhoefbelt-33a": "2026-09-08T13:39:21",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477932-cambridgelaan-819-k5": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477941-opaalweg-246-k2": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477938-burgemeester-fockema%20andreaeplein-227": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477927-cambridgelaan-223-k1": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477937-warande-191-k747": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477931-rivierstraat-198": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477809-ina-boudier-bakkerlaan-201-k1736": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477936-willem-de%20zwijgerstraat-8-k23": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477933-cambridgelaan-223-k7": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477939-rivierstraat-150": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477841-enny-vredelaan-107-k4": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477942-van-lieflandlaan-64-k11": "2026-09-08T22:40:35"
   },
   "fails": 0,
   "down_notified": false
@@ -1115,7 +1127,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/79c18a50/rosmolenplein": "2026-08-28T00:55:23",
    "https://www.pararius.com/studio-for-rent/tilburg/f5b689cd/herstalsestraat": "2026-09-02T00:08:52",
    "https://www.pararius.com/studio-for-rent/tilburg/6f485d5f/koestraat": "2026-09-04T13:25:45",
-   "https://www.pararius.com/studio-for-rent/tilburg/4f0c06be/wittebollestraat": "2026-09-04T13:25:45"
+   "https://www.pararius.com/studio-for-rent/tilburg/4f0c06be/wittebollestraat": "2026-09-04T13:25:45",
+   "https://www.pararius.com/studio-for-rent/tilburg/48ed3470/korvelseweg": "2026-09-08T22:41:30"
   },
   "fails": 0,
   "down_notified": false
@@ -1345,7 +1358,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 47,
+  "fails": 48,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
