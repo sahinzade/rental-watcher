@@ -106,7 +106,9 @@
    "59877": "2026-09-08T13:37:28",
    "59873": "2026-09-08T17:29:09",
    "59882": "2026-09-09T14:08:33",
-   "59884": "2026-09-09T14:08:33"
+   "59884": "2026-09-09T14:08:33",
+   "59883": "2026-09-09T20:04:03",
+   "59887": "2026-09-09T20:04:03"
   },
   "fails": 0,
   "down_notified": false
@@ -434,12 +436,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 374,
+  "fails": 375,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 374,
+  "fails": 375,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1098,7 +1100,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477939-rivierstraat-150": "2026-09-08T22:40:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477841-enny-vredelaan-107-k4": "2026-09-08T22:40:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477942-van-lieflandlaan-64-k11": "2026-09-08T22:40:35",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477978-esdoornstraat-14-k24": "2026-09-09T14:10:23"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477978-esdoornstraat-14-k24": "2026-09-09T14:10:23",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/471-verhoefbelt-31a": "2026-09-09T20:05:50"
   },
   "fails": 0,
   "down_notified": false
@@ -1357,7 +1360,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/bredaseweg/room-2405350": "2026-09-09T14:11:04",
    "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2405327": "2026-09-09T14:11:04",
    "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2405297": "2026-09-09T14:11:04",
-   "https://kamernet.nl/en/for-rent/room-prinsenbeek/zanddreef/room-2405283": "2026-09-09T14:11:04"
+   "https://kamernet.nl/en/for-rent/room-prinsenbeek/zanddreef/room-2405283": "2026-09-09T14:11:04",
+   "https://kamernet.nl/en/for-rent/room-waalwijk/pastoor-van-kesselhof/room-2405388": "2026-09-09T20:06:31"
   },
   "fails": 0,
   "down_notified": false
@@ -1367,7 +1371,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 52,
+  "fails": 53,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1549,7 +1553,9 @@
    "https://huurportaal.nl/en/listings/house-in-7-diederikdreef-5046-gt-tilburg-pad0972": "2026-09-08T17:32:17",
    "https://huurportaal.nl/en/listings/mvgm-te-huur-karrestraat-41-tilburg-p458fb1": "2026-09-08T17:32:17",
    "https://huurportaal.nl/en/listings/kamer-beschikbaar-veldhovenring-p564e62": "2026-09-09T09:54:28",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-wilhelminapark-in-tilburg-peccb60": "2026-09-09T09:54:28"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-wilhelminapark-in-tilburg-peccb60": "2026-09-09T09:54:28",
+   "https://huurportaal.nl/en/listings/bernard-leenestraat-99-5026-ca-tilburg-p3c3cd4": "2026-09-09T20:07:11",
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-hillegomlaan-96-tilburg-p6d97fa": "2026-09-09T20:07:11"
   },
   "fails": 0,
   "down_notified": false
