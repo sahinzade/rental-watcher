@@ -104,7 +104,9 @@
    "59874": "2026-09-07T15:18:59",
    "59876": "2026-09-08T13:37:28",
    "59877": "2026-09-08T13:37:28",
-   "59873": "2026-09-08T17:29:09"
+   "59873": "2026-09-08T17:29:09",
+   "59882": "2026-09-09T14:08:33",
+   "59884": "2026-09-09T14:08:33"
   },
   "fails": 0,
   "down_notified": false
@@ -432,12 +434,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 373,
+  "fails": 374,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 373,
+  "fails": 374,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1095,7 +1097,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477933-cambridgelaan-223-k7": "2026-09-08T22:40:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477939-rivierstraat-150": "2026-09-08T22:40:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477841-enny-vredelaan-107-k4": "2026-09-08T22:40:35",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477942-van-lieflandlaan-64-k11": "2026-09-08T22:40:35"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477942-van-lieflandlaan-64-k11": "2026-09-08T22:40:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477978-esdoornstraat-14-k24": "2026-09-09T14:10:23"
   },
   "fails": 0,
   "down_notified": false
@@ -1349,7 +1352,12 @@
    "https://kamernet.nl/en/for-rent/apartment-breda/achter-de-lange-stallen/apartment-2405149": "2026-09-08T13:40:04",
    "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2405151": "2026-09-08T13:40:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2405105": "2026-09-08T13:40:04",
-   "https://kamernet.nl/en/for-rent/apartment-raamsdonksveer/grote-kerkstraat/apartment-2405144": "2026-09-08T17:31:38"
+   "https://kamernet.nl/en/for-rent/apartment-raamsdonksveer/grote-kerkstraat/apartment-2405144": "2026-09-08T17:31:38",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/korvelseweg/studio-2405367": "2026-09-09T14:11:04",
+   "https://kamernet.nl/en/for-rent/room-tilburg/bredaseweg/room-2405350": "2026-09-09T14:11:04",
+   "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2405327": "2026-09-09T14:11:04",
+   "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2405297": "2026-09-09T14:11:04",
+   "https://kamernet.nl/en/for-rent/room-prinsenbeek/zanddreef/room-2405283": "2026-09-09T14:11:04"
   },
   "fails": 0,
   "down_notified": false
@@ -1359,7 +1367,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 51,
+  "fails": 52,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
