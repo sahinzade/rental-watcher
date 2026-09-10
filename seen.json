@@ -436,12 +436,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 376,
+  "fails": 377,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 376,
+  "fails": 377,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1101,7 +1101,14 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477841-enny-vredelaan-107-k4": "2026-09-08T22:40:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477942-van-lieflandlaan-64-k11": "2026-09-08T22:40:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477978-esdoornstraat-14-k24": "2026-09-09T14:10:23",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/external/471-verhoefbelt-31a": "2026-09-09T20:05:50"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/471-verhoefbelt-31a": "2026-09-09T20:05:50",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477952-opaalweg-226-k2": "2026-09-10T00:32:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477958-ina-boudier-bakkerlaan-143-k912": "2026-09-10T00:32:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477951-rivierstraat-78-k1": "2026-09-10T00:32:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477957-gisbert-bromlaan-36-k11": "2026-09-10T00:32:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477947-ina-boudier-bakkerlaan-205-k1756": "2026-09-10T00:32:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477950-alexander-numankade-21-k32": "2026-09-10T00:32:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477946-wouter-van%20doeverenplein-70-k6": "2026-09-10T00:32:34"
   },
   "fails": 0,
   "down_notified": false
@@ -1371,7 +1378,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 54,
+  "fails": 55,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
