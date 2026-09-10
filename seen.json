@@ -114,7 +114,10 @@
    "59896": "2026-09-10T13:53:42",
    "59898": "2026-09-10T13:53:42",
    "59886": "2026-09-10T13:53:42",
-   "59899": "2026-09-10T13:53:42"
+   "59899": "2026-09-10T13:53:42",
+   "59900": "2026-09-10T17:28:32",
+   "59901": "2026-09-10T17:28:32",
+   "59888": "2026-09-10T17:28:32"
   },
   "fails": 0,
   "down_notified": false
@@ -454,12 +457,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 380,
+  "fails": 381,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 380,
+  "fails": 381,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1398,7 +1401,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 58,
+  "fails": 59,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
