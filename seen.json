@@ -110,7 +110,11 @@
    "59883": "2026-09-09T20:04:03",
    "59887": "2026-09-09T20:04:03",
    "59889": "2026-09-10T09:49:07",
-   "59892": "2026-09-10T09:49:07"
+   "59892": "2026-09-10T09:49:07",
+   "59896": "2026-09-10T13:53:42",
+   "59898": "2026-09-10T13:53:42",
+   "59886": "2026-09-10T13:53:42",
+   "59899": "2026-09-10T13:53:42"
   },
   "fails": 0,
   "down_notified": false
@@ -404,7 +408,9 @@
    "17152": "2026-09-10T09:49:11",
    "17157": "2026-09-10T09:49:11",
    "17197": "2026-09-10T09:49:11",
-   "17198": "2026-09-10T09:49:11"
+   "17198": "2026-09-10T09:49:11",
+   "17200": "2026-09-10T13:53:48",
+   "17202": "2026-09-10T13:53:48"
   },
   "fails": 0,
   "down_notified": false
@@ -438,19 +444,22 @@
    "https://magisrealestate.com/for-rent/novum/112": "2026-09-08T09:10:43",
    "https://magisrealestate.com/for-rent/the-general/34E": "2026-09-08T09:10:43",
    "https://magisrealestate.com/for-rent/novum/2%20F706": "2026-09-08T09:10:43",
-   "https://magisrealestate.com/for-rent/novum/2%20F327": "2026-09-09T09:51:21"
+   "https://magisrealestate.com/for-rent/novum/2%20F327": "2026-09-09T09:51:21",
+   "https://magisrealestate.com/for-rent/the-garden/Type%20A": "2026-09-10T13:53:52",
+   "https://magisrealestate.com/for-rent/the-garden/Type%20B": "2026-09-10T13:53:52",
+   "https://magisrealestate.com/for-rent/mister-x/9.77": "2026-09-10T13:53:52"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 379,
+  "fails": 380,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 379,
+  "fails": 380,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1377,9 +1386,11 @@
    "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2405327": "2026-09-09T14:11:04",
    "https://kamernet.nl/en/for-rent/apartment-breda/valkenstraat/apartment-2405297": "2026-09-09T14:11:04",
    "https://kamernet.nl/en/for-rent/room-prinsenbeek/zanddreef/room-2405283": "2026-09-09T14:11:04",
-   "https://kamernet.nl/en/for-rent/room-waalwijk/pastoor-van-kesselhof/room-2405388": "2026-09-09T20:06:31"
+   "https://kamernet.nl/en/for-rent/room-waalwijk/pastoor-van-kesselhof/room-2405388": "2026-09-09T20:06:31",
+   "https://kamernet.nl/en/for-rent/room-tilburg/tollensstraat/room-2405549": "2026-09-10T13:56:25",
+   "https://kamernet.nl/en/for-rent/room-tilburg/kastanjestraat/room-2404798": "2026-09-10T13:56:25"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Funda (Tilburg, furnished, <1500)": {
@@ -1387,7 +1398,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 57,
+  "fails": 58,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
