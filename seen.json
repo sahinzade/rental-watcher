@@ -450,19 +450,20 @@
    "https://magisrealestate.com/for-rent/novum/2%20F327": "2026-09-09T09:51:21",
    "https://magisrealestate.com/for-rent/the-garden/Type%20A": "2026-09-10T13:53:52",
    "https://magisrealestate.com/for-rent/the-garden/Type%20B": "2026-09-10T13:53:52",
-   "https://magisrealestate.com/for-rent/mister-x/9.77": "2026-09-10T13:53:52"
+   "https://magisrealestate.com/for-rent/mister-x/9.77": "2026-09-10T13:53:52",
+   "https://magisrealestate.com/for-rent/mister-x/9.91": "2026-09-11T09:20:42"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 385,
+  "fails": 386,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 385,
+  "fails": 386,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1142,7 +1143,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477974-van-lieflandlaan-58-k03": "2026-09-10T22:24:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477967-mgr-van%20de%20weteringstr-85-k07": "2026-09-10T22:24:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477959-leuvenplein-262": "2026-09-10T22:24:24",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1477929-antaresstraat-37-1-k5": "2026-09-10T22:24:24"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477929-antaresstraat-37-1-k5": "2026-09-10T22:24:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477965-burgemeester-fockema%20andreaeplein-408-k3": "2026-09-11T09:22:29",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478012-salamancapad-203": "2026-09-11T09:22:29"
   },
   "fails": 0,
   "down_notified": false
@@ -1414,7 +1417,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 63,
+  "fails": 64,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1598,7 +1601,8 @@
    "https://huurportaal.nl/en/listings/kamer-beschikbaar-veldhovenring-p564e62": "2026-09-09T09:54:28",
    "https://huurportaal.nl/en/listings/te-huur-appartement-wilhelminapark-in-tilburg-peccb60": "2026-09-09T09:54:28",
    "https://huurportaal.nl/en/listings/bernard-leenestraat-99-5026-ca-tilburg-p3c3cd4": "2026-09-09T20:07:11",
-   "https://huurportaal.nl/en/listings/mvgm-te-huur-hillegomlaan-96-tilburg-p6d97fa": "2026-09-09T20:07:11"
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-hillegomlaan-96-tilburg-p6d97fa": "2026-09-09T20:07:11",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p2368cc": "2026-09-11T09:23:51"
   },
   "fails": 0,
   "down_notified": false
