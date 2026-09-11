@@ -458,12 +458,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 388,
+  "fails": 389,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 388,
+  "fails": 389,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1417,7 +1417,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 66,
+  "fails": 67,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1602,7 +1602,13 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-wilhelminapark-in-tilburg-peccb60": "2026-09-09T09:54:28",
    "https://huurportaal.nl/en/listings/bernard-leenestraat-99-5026-ca-tilburg-p3c3cd4": "2026-09-09T20:07:11",
    "https://huurportaal.nl/en/listings/mvgm-te-huur-hillegomlaan-96-tilburg-p6d97fa": "2026-09-09T20:07:11",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-p2368cc": "2026-09-11T09:23:51"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p2368cc": "2026-09-11T09:23:51",
+   "https://huurportaal.nl/en/listings/apartment-in-496-ringbaan-zuid-5026-pa-tilburg-p3df908": "2026-09-11T19:50:25",
+   "https://huurportaal.nl/en/listings/semi-studio-te-huur-in-tilburg-pbb5f62": "2026-09-11T19:50:25",
+   "https://huurportaal.nl/en/listings/kamer-te-huur-ns-plein-tilburg-pc4e769": "2026-09-11T19:50:25",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-westerpark-156-3-in-tilburg-p06550b": "2026-09-11T19:50:25",
+   "https://huurportaal.nl/en/listings/small-room-with-bed-in-shared-house-in-tilbur-3663c7": "2026-09-11T19:50:25",
+   "https://huurportaal.nl/en/listings/koestraat-leuke-kamer-te-huur-dichtbij-centrum-p4676e1": "2026-09-11T19:50:25"
   },
   "fails": 0,
   "down_notified": false
