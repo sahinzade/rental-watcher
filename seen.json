@@ -458,12 +458,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 395,
+  "fails": 396,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 395,
+  "fails": 396,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1430,7 +1430,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 73,
+  "fails": 74,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1621,7 +1621,8 @@
    "https://huurportaal.nl/en/listings/kamer-te-huur-ns-plein-tilburg-pc4e769": "2026-09-11T19:50:25",
    "https://huurportaal.nl/en/listings/te-huur-appartement-westerpark-156-3-in-tilburg-p06550b": "2026-09-11T19:50:25",
    "https://huurportaal.nl/en/listings/small-room-with-bed-in-shared-house-in-tilbur-3663c7": "2026-09-11T19:50:25",
-   "https://huurportaal.nl/en/listings/koestraat-leuke-kamer-te-huur-dichtbij-centrum-p4676e1": "2026-09-11T19:50:25"
+   "https://huurportaal.nl/en/listings/koestraat-leuke-kamer-te-huur-dichtbij-centrum-p4676e1": "2026-09-11T19:50:25",
+   "https://huurportaal.nl/en/listings/nette-studio-met-aparte-slaapkamer-aan-het-westerpark-in-tilburg-p19091e": "2026-09-12T17:55:26"
   },
   "fails": 0,
   "down_notified": false
