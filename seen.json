@@ -458,12 +458,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 394,
+  "fails": 395,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 394,
+  "fails": 395,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1419,7 +1419,8 @@
    "https://kamernet.nl/en/for-rent/room-prinsenbeek/zanddreef/room-2405283": "2026-09-09T14:11:04",
    "https://kamernet.nl/en/for-rent/room-waalwijk/pastoor-van-kesselhof/room-2405388": "2026-09-09T20:06:31",
    "https://kamernet.nl/en/for-rent/room-tilburg/tollensstraat/room-2405549": "2026-09-10T13:56:25",
-   "https://kamernet.nl/en/for-rent/room-tilburg/kastanjestraat/room-2404798": "2026-09-10T13:56:25"
+   "https://kamernet.nl/en/for-rent/room-tilburg/kastanjestraat/room-2404798": "2026-09-10T13:56:25",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/kalverstraat/room-2405767": "2026-09-12T15:45:18"
   },
   "fails": 0,
   "down_notified": false
@@ -1429,7 +1430,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 72,
+  "fails": 73,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
