@@ -458,12 +458,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 390,
+  "fails": 391,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 390,
+  "fails": 391,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1429,7 +1429,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 68,
+  "fails": 69,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
