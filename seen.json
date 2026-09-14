@@ -419,7 +419,12 @@
    "16748": "2026-09-14T13:24:34",
    "17029": "2026-09-14T13:24:34",
    "17186": "2026-09-14T13:24:34",
-   "17223": "2026-09-14T13:24:34"
+   "17223": "2026-09-14T13:24:34",
+   "15162": "2026-09-14T18:48:04",
+   "16619": "2026-09-14T18:48:04",
+   "16792": "2026-09-14T18:48:04",
+   "17127": "2026-09-14T18:48:04",
+   "17227": "2026-09-14T18:48:04"
   },
   "fails": 0,
   "down_notified": false
@@ -464,12 +469,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 409,
+  "fails": 410,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 409,
+  "fails": 410,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1465,7 +1470,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 87,
+  "fails": 88,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1660,7 +1665,8 @@
    "https://huurportaal.nl/en/listings/nette-studio-met-aparte-slaapkamer-aan-het-westerpark-in-tilburg-p19091e": "2026-09-12T17:55:26",
    "https://huurportaal.nl/en/listings/gemeubileerde-studentenkamer-te-huur-tilburg-centrum-5d857d": "2026-09-13T09:47:20",
    "https://huurportaal.nl/en/listings/te-huur-appartement-veldhovenring-in-tilburg-pff3025": "2026-09-13T23:31:59",
-   "https://huurportaal.nl/en/listings/korvelseweg-semi-studio-te-huur-in-tilburg-p0a767b": "2026-09-13T23:31:59"
+   "https://huurportaal.nl/en/listings/korvelseweg-semi-studio-te-huur-in-tilburg-p0a767b": "2026-09-13T23:31:59",
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-nistelrodestraat-59-tilburg-pbe6ff2": "2026-09-14T18:51:16"
   },
   "fails": 0,
   "down_notified": false
