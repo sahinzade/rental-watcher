@@ -471,7 +471,14 @@
    "17246": "2026-09-17T16:54:26",
    "17247": "2026-09-17T16:54:26",
    "17248": "2026-09-17T16:54:26",
-   "17250": "2026-09-17T16:54:26"
+   "17250": "2026-09-17T16:54:26",
+   "17150": "2026-09-18T09:53:16",
+   "17187": "2026-09-18T09:53:16",
+   "17188": "2026-09-18T09:53:16",
+   "17194": "2026-09-18T09:53:16",
+   "17196": "2026-09-18T09:53:16",
+   "17242": "2026-09-18T09:53:16",
+   "17253": "2026-09-18T09:53:16"
   },
   "fails": 0,
   "down_notified": false
@@ -517,12 +524,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 432,
+  "fails": 433,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 432,
+  "fails": 433,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1322,7 +1329,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/58406c40/smidspad": "2026-09-16T13:49:32",
    "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1569,7 +1576,9 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/wilhelminapark/apartment-2406767": "2026-09-17T16:57:41",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2406764": "2026-09-17T16:57:41",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2406763": "2026-09-17T16:57:41",
-   "https://kamernet.nl/en/for-rent/room-tilburg/nachtegaalstraat/room-2406703": "2026-09-17T16:57:41"
+   "https://kamernet.nl/en/for-rent/room-tilburg/nachtegaalstraat/room-2406703": "2026-09-17T16:57:41",
+   "https://kamernet.nl/en/for-rent/apartment-breda/akkerstraat/apartment-2406875": "2026-09-18T09:56:01",
+   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2406855": "2026-09-18T09:56:01"
   },
   "fails": 0,
   "down_notified": false
@@ -1579,7 +1588,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 110,
+  "fails": 111,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1778,7 +1787,9 @@
    "https://huurportaal.nl/en/listings/mvgm-te-huur-nistelrodestraat-59-tilburg-pbe6ff2": "2026-09-14T18:51:16",
    "https://huurportaal.nl/en/listings/house-in-16-sint-pieterstraat-5014-sc-tilburg-p30463c": "2026-09-17T12:05:11",
    "https://huurportaal.nl/en/listings/apartment-in-30-paduastraat-5014-ll-tilburg-p1352df": "2026-09-17T12:05:11",
-   "https://huurportaal.nl/en/listings/room-to-rent-819bc3": "2026-09-18T05:22:20"
+   "https://huurportaal.nl/en/listings/room-to-rent-819bc3": "2026-09-18T05:22:20",
+   "https://huurportaal.nl/en/listings/frederikstraat-158-tilburg-pbcbb27": "2026-09-18T09:56:41",
+   "https://huurportaal.nl/en/listings/apartment-at-spoorlaan-noord-brabant-tilburg-5017-jz-pa55f78": "2026-09-18T09:56:41"
   },
   "fails": 0,
   "down_notified": false
