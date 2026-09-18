@@ -138,7 +138,10 @@
    "59929": "2026-09-17T16:54:17",
    "59930": "2026-09-17T16:54:17",
    "59931": "2026-09-17T16:54:17",
-   "59932": "2026-09-17T16:54:17"
+   "59932": "2026-09-17T16:54:17",
+   "59933": "2026-09-18T14:04:43",
+   "59927": "2026-09-18T14:04:43",
+   "59925": "2026-09-18T14:04:43"
   },
   "fails": 0,
   "down_notified": false
@@ -478,7 +481,9 @@
    "17194": "2026-09-18T09:53:16",
    "17196": "2026-09-18T09:53:16",
    "17242": "2026-09-18T09:53:16",
-   "17253": "2026-09-18T09:53:16"
+   "17253": "2026-09-18T09:53:16",
+   "17254": "2026-09-18T14:04:48",
+   "17255": "2026-09-18T14:04:48"
   },
   "fails": 0,
   "down_notified": false
@@ -524,12 +529,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 433,
+  "fails": 434,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 433,
+  "fails": 434,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1578,7 +1583,8 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2406763": "2026-09-17T16:57:41",
    "https://kamernet.nl/en/for-rent/room-tilburg/nachtegaalstraat/room-2406703": "2026-09-17T16:57:41",
    "https://kamernet.nl/en/for-rent/apartment-breda/akkerstraat/apartment-2406875": "2026-09-18T09:56:01",
-   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2406855": "2026-09-18T09:56:01"
+   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2406855": "2026-09-18T09:56:01",
+   "https://kamernet.nl/en/for-rent/room-tilburg/paterstraat/room-2406926": "2026-09-18T14:07:26"
   },
   "fails": 0,
   "down_notified": false
@@ -1588,7 +1594,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 111,
+  "fails": 112,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
