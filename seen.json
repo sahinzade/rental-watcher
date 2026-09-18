@@ -517,12 +517,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 431,
+  "fails": 432,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 431,
+  "fails": 432,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1322,7 +1322,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/58406c40/smidspad": "2026-09-16T13:49:32",
    "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1579,7 +1579,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 109,
+  "fails": 110,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1777,7 +1777,8 @@
    "https://huurportaal.nl/en/listings/korvelseweg-semi-studio-te-huur-in-tilburg-p0a767b": "2026-09-13T23:31:59",
    "https://huurportaal.nl/en/listings/mvgm-te-huur-nistelrodestraat-59-tilburg-pbe6ff2": "2026-09-14T18:51:16",
    "https://huurportaal.nl/en/listings/house-in-16-sint-pieterstraat-5014-sc-tilburg-p30463c": "2026-09-17T12:05:11",
-   "https://huurportaal.nl/en/listings/apartment-in-30-paduastraat-5014-ll-tilburg-p1352df": "2026-09-17T12:05:11"
+   "https://huurportaal.nl/en/listings/apartment-in-30-paduastraat-5014-ll-tilburg-p1352df": "2026-09-17T12:05:11",
+   "https://huurportaal.nl/en/listings/room-to-rent-819bc3": "2026-09-18T05:22:20"
   },
   "fails": 0,
   "down_notified": false
