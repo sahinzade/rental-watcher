@@ -529,12 +529,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 443,
+  "fails": 444,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 443,
+  "fails": 444,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1348,7 +1348,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/58406c40/smidspad": "2026-09-16T13:49:32",
    "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1600,7 +1600,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2406855": "2026-09-18T09:56:01",
    "https://kamernet.nl/en/for-rent/room-tilburg/paterstraat/room-2406926": "2026-09-18T14:07:26",
    "https://kamernet.nl/en/for-rent/room-breda/haagweg/room-2407029": "2026-09-19T09:12:51",
-   "https://kamernet.nl/en/for-rent/room-breda/mathenessestraat/room-2407009": "2026-09-19T09:12:51"
+   "https://kamernet.nl/en/for-rent/room-breda/mathenessestraat/room-2407009": "2026-09-19T09:12:51",
+   "https://kamernet.nl/en/for-rent/room-berkel-enschot/craenweide/room-2407134": "2026-09-19T21:08:05"
   },
   "fails": 0,
   "down_notified": false
@@ -1610,7 +1611,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 121,
+  "fails": 122,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1814,7 +1815,10 @@
    "https://huurportaal.nl/en/listings/apartment-at-spoorlaan-noord-brabant-tilburg-5017-jz-pa55f78": "2026-09-18T09:56:41",
    "https://huurportaal.nl/en/listings/house-for-rent-in-lange-nieuwstaat-221-5041dd-tilburg-pb72aba": "2026-09-18T22:26:10",
    "https://huurportaal.nl/en/listings/apartment-in-448-clarissenhof-5041-rx-tilburg-p5f59c7": "2026-09-19T00:32:15",
-   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p1c00be": "2026-09-19T00:32:15"
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p1c00be": "2026-09-19T00:32:15",
+   "https://huurportaal.nl/en/listings/house-in-138-valkenswaardstraat-5036-sp-tilburg-pf4607b": "2026-09-19T21:08:46",
+   "https://huurportaal.nl/en/listings/apartment-in-591-schouwburgring-5038-tx-tilburg-p095fe6": "2026-09-19T21:08:46",
+   "https://huurportaal.nl/en/listings/apartment-in-382-dokter-bloemenlaan-5022-kw-tilburg-p6d9922": "2026-09-19T21:08:46"
   },
   "fails": 0,
   "down_notified": false
