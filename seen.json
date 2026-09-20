@@ -529,12 +529,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 449,
+  "fails": 450,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 449,
+  "fails": 450,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1369,7 +1369,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/58406c40/smidspad": "2026-09-16T13:49:32",
    "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1644,7 +1644,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 127,
+  "fails": 128,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1851,7 +1851,8 @@
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p1c00be": "2026-09-19T00:32:15",
    "https://huurportaal.nl/en/listings/house-in-138-valkenswaardstraat-5036-sp-tilburg-pf4607b": "2026-09-19T21:08:46",
    "https://huurportaal.nl/en/listings/apartment-in-591-schouwburgring-5038-tx-tilburg-p095fe6": "2026-09-19T21:08:46",
-   "https://huurportaal.nl/en/listings/apartment-in-382-dokter-bloemenlaan-5022-kw-tilburg-p6d9922": "2026-09-19T21:08:46"
+   "https://huurportaal.nl/en/listings/apartment-in-382-dokter-bloemenlaan-5022-kw-tilburg-p6d9922": "2026-09-19T21:08:46",
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-hillegomlaan-68-tilburg-pfbe0ba": "2026-09-20T17:30:13"
   },
   "fails": 0,
   "down_notified": false
