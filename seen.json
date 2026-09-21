@@ -152,7 +152,8 @@
    "59856": "2026-09-21T14:05:03",
    "59869": "2026-09-21T14:05:03",
    "59921": "2026-09-21T14:05:03",
-   "59718": "2026-09-21T14:05:03"
+   "59718": "2026-09-21T14:05:03",
+   "59941": "2026-09-21T19:21:15"
   },
   "fails": 0,
   "down_notified": false
@@ -545,12 +546,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 456,
+  "fails": 457,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 456,
+  "fails": 457,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1408,7 +1409,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/58406c40/smidspad": "2026-09-16T13:49:32",
    "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1685,7 +1686,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 134,
+  "fails": 135,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1895,7 +1896,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-382-dokter-bloemenlaan-5022-kw-tilburg-p6d9922": "2026-09-19T21:08:46",
    "https://huurportaal.nl/en/listings/mvgm-te-huur-hillegomlaan-68-tilburg-pfbe0ba": "2026-09-20T17:30:13",
    "https://huurportaal.nl/en/listings/apartment-in-1036-hart-van-brabantlaan-5038-jj-tilburg-p36e360": "2026-09-20T21:52:52",
-   "https://huurportaal.nl/en/listings/house-for-rent-in-renesselaan-127-5035-bc-tilburg-stadsrand-dalem-noord-p960f14": "2026-09-21T14:08:46"
+   "https://huurportaal.nl/en/listings/house-for-rent-in-renesselaan-127-5035-bc-tilburg-stadsrand-dalem-noord-p960f14": "2026-09-21T14:08:46",
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-frederikstraat-158-5038-az-tilburg-binnenstad-oost-p2ab024": "2026-09-21T19:24:36"
   },
   "fails": 0,
   "down_notified": false
