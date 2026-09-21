@@ -141,7 +141,18 @@
    "59932": "2026-09-17T16:54:17",
    "59933": "2026-09-18T14:04:43",
    "59927": "2026-09-18T14:04:43",
-   "59925": "2026-09-18T14:04:43"
+   "59925": "2026-09-18T14:04:43",
+   "59937": "2026-09-21T14:05:03",
+   "59920": "2026-09-21T14:05:03",
+   "59924": "2026-09-21T14:05:03",
+   "59923": "2026-09-21T14:05:03",
+   "59939": "2026-09-21T14:05:03",
+   "59866": "2026-09-21T14:05:03",
+   "59851": "2026-09-21T14:05:03",
+   "59856": "2026-09-21T14:05:03",
+   "59869": "2026-09-21T14:05:03",
+   "59921": "2026-09-21T14:05:03",
+   "59718": "2026-09-21T14:05:03"
   },
   "fails": 0,
   "down_notified": false
@@ -483,7 +494,8 @@
    "17242": "2026-09-18T09:53:16",
    "17253": "2026-09-18T09:53:16",
    "17254": "2026-09-18T14:04:48",
-   "17255": "2026-09-18T14:04:48"
+   "17255": "2026-09-18T14:04:48",
+   "17252": "2026-09-21T14:05:19"
   },
   "fails": 0,
   "down_notified": false
@@ -522,19 +534,23 @@
    "https://magisrealestate.com/for-rent/the-garden/Type%20B": "2026-09-10T13:53:52",
    "https://magisrealestate.com/for-rent/mister-x/9.77": "2026-09-10T13:53:52",
    "https://magisrealestate.com/for-rent/mister-x/9.91": "2026-09-11T09:20:42",
-   "https://magisrealestate.com/for-rent/mister-x/7.03": "2026-09-15T10:10:19"
+   "https://magisrealestate.com/for-rent/mister-x/7.03": "2026-09-15T10:10:19",
+   "https://magisrealestate.com/for-rent/novum/410": "2026-09-21T14:05:21",
+   "https://magisrealestate.com/for-rent/de-wester/81R": "2026-09-21T14:05:21",
+   "https://magisrealestate.com/for-rent/de-wester/83G": "2026-09-21T14:05:21",
+   "https://magisrealestate.com/for-rent/de-wester/83L": "2026-09-21T14:05:21"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 455,
+  "fails": 456,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 455,
+  "fails": 456,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1352,7 +1368,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478214-willem-schuylenburglaan-39-k11": "2026-09-20T23:38:36",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478215-schepenmakerssteeg-4-k12": "2026-09-20T23:38:36",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478218-piet-heinstraat-22-a": "2026-09-20T23:38:36",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478223-gerbrandypad-93": "2026-09-20T23:38:36"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478223-gerbrandypad-93": "2026-09-20T23:38:36",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1475336-van-lieflandlaan-48-k04": "2026-09-21T14:07:09"
   },
   "fails": 0,
   "down_notified": false
@@ -1391,7 +1408,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/58406c40/smidspad": "2026-09-16T13:49:32",
    "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1657,7 +1674,8 @@
    "https://kamernet.nl/en/for-rent/studio-breda/karrestraat/studio-2407258": "2026-09-20T14:08:31",
    "https://kamernet.nl/en/for-rent/apartment-breda/halstraat/apartment-2407253": "2026-09-20T14:08:31",
    "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2407251": "2026-09-20T14:08:31",
-   "https://kamernet.nl/en/for-rent/room-den-bosch/parmentierstraat/room-2407237": "2026-09-21T07:11:52"
+   "https://kamernet.nl/en/for-rent/room-den-bosch/parmentierstraat/room-2407237": "2026-09-21T07:11:52",
+   "https://kamernet.nl/en/for-rent/room-rosmalen/jan-frankenstraat/room-2407451": "2026-09-21T14:08:07"
   },
   "fails": 0,
   "down_notified": false
@@ -1667,7 +1685,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 133,
+  "fails": 134,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1876,7 +1894,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-591-schouwburgring-5038-tx-tilburg-p095fe6": "2026-09-19T21:08:46",
    "https://huurportaal.nl/en/listings/apartment-in-382-dokter-bloemenlaan-5022-kw-tilburg-p6d9922": "2026-09-19T21:08:46",
    "https://huurportaal.nl/en/listings/mvgm-te-huur-hillegomlaan-68-tilburg-pfbe0ba": "2026-09-20T17:30:13",
-   "https://huurportaal.nl/en/listings/apartment-in-1036-hart-van-brabantlaan-5038-jj-tilburg-p36e360": "2026-09-20T21:52:52"
+   "https://huurportaal.nl/en/listings/apartment-in-1036-hart-van-brabantlaan-5038-jj-tilburg-p36e360": "2026-09-20T21:52:52",
+   "https://huurportaal.nl/en/listings/house-for-rent-in-renesselaan-127-5035-bc-tilburg-stadsrand-dalem-noord-p960f14": "2026-09-21T14:08:46"
   },
   "fails": 0,
   "down_notified": false
