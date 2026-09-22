@@ -153,7 +153,13 @@
    "59869": "2026-09-21T14:05:03",
    "59921": "2026-09-21T14:05:03",
    "59718": "2026-09-21T14:05:03",
-   "59941": "2026-09-21T19:21:15"
+   "59941": "2026-09-21T19:21:15",
+   "59944": "2026-09-22T11:51:08",
+   "59947": "2026-09-22T11:51:08",
+   "59942": "2026-09-22T11:51:08",
+   "59945": "2026-09-22T11:51:08",
+   "59946": "2026-09-22T11:51:08",
+   "59943": "2026-09-22T11:51:08"
   },
   "fails": 0,
   "down_notified": false
@@ -496,7 +502,20 @@
    "17253": "2026-09-18T09:53:16",
    "17254": "2026-09-18T14:04:48",
    "17255": "2026-09-18T14:04:48",
-   "17252": "2026-09-21T14:05:19"
+   "17252": "2026-09-21T14:05:19",
+   "16789": "2026-09-22T11:51:18",
+   "16858": "2026-09-22T11:51:18",
+   "16860": "2026-09-22T11:51:18",
+   "16862": "2026-09-22T11:51:18",
+   "16874": "2026-09-22T11:51:18",
+   "16993": "2026-09-22T11:51:18",
+   "17044": "2026-09-22T11:51:18",
+   "17050": "2026-09-22T11:51:18",
+   "17110": "2026-09-22T11:51:18",
+   "17171": "2026-09-22T11:51:18",
+   "17175": "2026-09-22T11:51:18",
+   "17179": "2026-09-22T11:51:18",
+   "17278": "2026-09-22T11:51:18"
   },
   "fails": 0,
   "down_notified": false
@@ -546,12 +565,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 460,
+  "fails": 461,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 460,
+  "fails": 461,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1385,7 +1404,12 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478231-ina-boudier-bakkerlaan-133-k1425": "2026-09-21T22:44:36",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478228-enny-vredelaan-345-k2": "2026-09-21T22:44:36",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478220-europaplein-164": "2026-09-21T22:44:36",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478234-talentenplein-318": "2026-09-21T22:44:36"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478234-talentenplein-318": "2026-09-21T22:44:36",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/473-sumatrastraat-1b": "2026-09-22T11:53:21",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/474-vechtstraat%20-151a": "2026-09-22T11:53:21",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/472-verhoefbelt-37c": "2026-09-22T11:53:21",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478261-veemarkt-21--78": "2026-09-22T11:53:21",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477925-parkstraat-55-k90": "2026-09-22T11:53:21"
   },
   "fails": 0,
   "down_notified": false
@@ -1422,10 +1446,14 @@
    "https://www.pararius.com/studio-for-rent/tilburg/48ed3470/korvelseweg": "2026-09-08T22:41:30",
    "https://www.pararius.com/studio-for-rent/tilburg/18b55be8/nieuwstraat": "2026-09-14T13:27:07",
    "https://www.pararius.com/studio-for-rent/tilburg/58406c40/smidspad": "2026-09-16T13:49:32",
-   "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26"
+   "https://www.pararius.com/studio-for-rent/tilburg/0148b4a2/veldhovenring": "2026-09-17T12:04:26",
+   "https://www.pararius.com/studio-for-rent/tilburg/24ea40e8/goirkestraat": "2026-09-22T11:54:07",
+   "https://www.pararius.com/studio-for-rent/tilburg/0f2b58dc/heuvelring": "2026-09-22T11:54:07",
+   "https://www.pararius.com/studio-for-rent/tilburg/b5230bd7/korte-nieuwstraat": "2026-09-22T11:54:07",
+   "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07"
   },
-  "fails": 5,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -1691,7 +1719,8 @@
    "https://kamernet.nl/en/for-rent/apartment-breda/halstraat/apartment-2407253": "2026-09-20T14:08:31",
    "https://kamernet.nl/en/for-rent/studio-breda/ginnekenstraat/studio-2407251": "2026-09-20T14:08:31",
    "https://kamernet.nl/en/for-rent/room-den-bosch/parmentierstraat/room-2407237": "2026-09-21T07:11:52",
-   "https://kamernet.nl/en/for-rent/room-rosmalen/jan-frankenstraat/room-2407451": "2026-09-21T14:08:07"
+   "https://kamernet.nl/en/for-rent/room-rosmalen/jan-frankenstraat/room-2407451": "2026-09-21T14:08:07",
+   "https://kamernet.nl/en/for-rent/studio-eindhoven/waterland/studio-2407393": "2026-09-22T11:54:14"
   },
   "fails": 0,
   "down_notified": false
@@ -1701,7 +1730,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 138,
+  "fails": 139,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
