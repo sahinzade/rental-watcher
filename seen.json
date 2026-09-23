@@ -161,7 +161,8 @@
    "59946": "2026-09-22T11:51:08",
    "59943": "2026-09-22T11:51:08",
    "59753": "2026-09-22T16:12:45",
-   "59948": "2026-09-22T16:12:45"
+   "59948": "2026-09-22T16:12:45",
+   "59949": "2026-09-23T14:57:43"
   },
   "fails": 0,
   "down_notified": false
@@ -521,7 +522,8 @@
    "9537": "2026-09-22T16:12:48",
    "16788": "2026-09-22T16:12:48",
    "17233": "2026-09-22T16:12:48",
-   "17279": "2026-09-22T16:12:48"
+   "17279": "2026-09-22T16:12:48",
+   "16855": "2026-09-23T14:57:45"
   },
   "fails": 0,
   "down_notified": false
@@ -564,19 +566,20 @@
    "https://magisrealestate.com/for-rent/novum/410": "2026-09-21T14:05:21",
    "https://magisrealestate.com/for-rent/de-wester/81R": "2026-09-21T14:05:21",
    "https://magisrealestate.com/for-rent/de-wester/83G": "2026-09-21T14:05:21",
-   "https://magisrealestate.com/for-rent/de-wester/83L": "2026-09-21T14:05:21"
+   "https://magisrealestate.com/for-rent/de-wester/83L": "2026-09-21T14:05:21",
+   "https://magisrealestate.com/for-rent/de-wester/87D": "2026-09-23T14:57:47"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 467,
+  "fails": 468,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 467,
+  "fails": 468,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1743,7 +1746,10 @@
    "https://kamernet.nl/en/for-rent/room-breda/spuistraat/room-2407814": "2026-09-23T10:07:46",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/van-hogendorpstraat/apartment-2407769": "2026-09-23T10:07:46",
    "https://kamernet.nl/en/for-rent/room-tilburg/elandsgang/room-2407750": "2026-09-23T10:07:46",
-   "https://kamernet.nl/en/for-rent/room-tilburg/ns-plein/room-2407738": "2026-09-23T10:07:46"
+   "https://kamernet.nl/en/for-rent/room-tilburg/ns-plein/room-2407738": "2026-09-23T10:07:46",
+   "https://kamernet.nl/en/for-rent/room-tilburg/oude-langstraat/room-2407875": "2026-09-23T15:00:12",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/postelse-hoeflaan/studio-2407851": "2026-09-23T15:00:12",
+   "https://kamernet.nl/en/for-rent/room-tilburg/gasthuisring/room-2402229": "2026-09-23T15:00:12"
   },
   "fails": 0,
   "down_notified": false
@@ -1753,7 +1759,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 145,
+  "fails": 146,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1970,7 +1976,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-223-nassaustraat-5046-nt-tilburg-p2c13a3": "2026-09-23T10:08:31",
    "https://huurportaal.nl/en/listings/te-huur-appartement-rosmolenplein-in-tilburg-p9097f2": "2026-09-23T10:08:31",
    "https://huurportaal.nl/en/listings/apartment-in-187-kruizemuntweg-5044-bd-tilburg-pad37ab": "2026-09-23T10:08:31",
-   "https://huurportaal.nl/en/listings/house-in-21-cornelis-drebbelstraat-5025-eb-tilburg-pa481db": "2026-09-23T10:08:31"
+   "https://huurportaal.nl/en/listings/house-in-21-cornelis-drebbelstraat-5025-eb-tilburg-pa481db": "2026-09-23T10:08:31",
+   "https://huurportaal.nl/en/listings/zonnige-gemeubileerde-studio-aan-park-in-centrum-pe06a82": "2026-09-23T15:00:54"
   },
   "fails": 0,
   "down_notified": false
