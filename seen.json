@@ -571,12 +571,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 466,
+  "fails": 467,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 466,
+  "fails": 467,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1422,7 +1422,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478241-enny-vredelaan-339-k8": "2026-09-22T22:28:06",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1477897-pythagoraslaan-111c-k9": "2026-09-22T22:28:06",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478237-pythagoraslaan-111h-k4": "2026-09-22T22:28:06",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478018-rijnlaan-131-k309": "2026-09-22T22:28:06"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478018-rijnlaan-131-k309": "2026-09-22T22:28:06",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478259-ina-boudier-bakkerlaan-79": "2026-09-23T10:07:03",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478276-amsterdamsestraatweg-17-k1.12": "2026-09-23T10:07:03"
   },
   "fails": 0,
   "down_notified": false
@@ -1465,7 +1467,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/b5230bd7/korte-nieuwstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1736,7 +1738,12 @@
    "https://kamernet.nl/en/for-rent/studio-eindhoven/waterland/studio-2407393": "2026-09-22T11:54:14",
    "https://kamernet.nl/en/for-rent/room-tilburg/molenstraat/room-2407712": "2026-09-22T16:15:20",
    "https://kamernet.nl/en/for-rent/room-tilburg/textielplein/room-2407706": "2026-09-22T16:15:20",
-   "https://kamernet.nl/en/for-rent/apartment-tilburg/korte-nieuwstraat/apartment-2407692": "2026-09-22T16:15:20"
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/korte-nieuwstraat/apartment-2407692": "2026-09-22T16:15:20",
+   "https://kamernet.nl/en/for-rent/apartment-drunen/contrefort/apartment-2407829": "2026-09-23T10:07:46",
+   "https://kamernet.nl/en/for-rent/room-breda/spuistraat/room-2407814": "2026-09-23T10:07:46",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/van-hogendorpstraat/apartment-2407769": "2026-09-23T10:07:46",
+   "https://kamernet.nl/en/for-rent/room-tilburg/elandsgang/room-2407750": "2026-09-23T10:07:46",
+   "https://kamernet.nl/en/for-rent/room-tilburg/ns-plein/room-2407738": "2026-09-23T10:07:46"
   },
   "fails": 0,
   "down_notified": false
@@ -1746,7 +1753,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 144,
+  "fails": 145,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -1958,7 +1965,12 @@
    "https://huurportaal.nl/en/listings/apartment-in-1036-hart-van-brabantlaan-5038-jj-tilburg-p36e360": "2026-09-20T21:52:52",
    "https://huurportaal.nl/en/listings/house-for-rent-in-renesselaan-127-5035-bc-tilburg-stadsrand-dalem-noord-p960f14": "2026-09-21T14:08:46",
    "https://huurportaal.nl/en/listings/apartment-for-rent-in-frederikstraat-158-5038-az-tilburg-binnenstad-oost-p2ab024": "2026-09-21T19:24:36",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-p2ab024": "2026-09-21T22:46:31"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p2ab024": "2026-09-21T22:46:31",
+   "https://huurportaal.nl/en/listings/woning-te-huur-p960f14": "2026-09-23T10:08:31",
+   "https://huurportaal.nl/en/listings/apartment-in-223-nassaustraat-5046-nt-tilburg-p2c13a3": "2026-09-23T10:08:31",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-rosmolenplein-in-tilburg-p9097f2": "2026-09-23T10:08:31",
+   "https://huurportaal.nl/en/listings/apartment-in-187-kruizemuntweg-5044-bd-tilburg-pad37ab": "2026-09-23T10:08:31",
+   "https://huurportaal.nl/en/listings/house-in-21-cornelis-drebbelstraat-5025-eb-tilburg-pa481db": "2026-09-23T10:08:31"
   },
   "fails": 0,
   "down_notified": false
