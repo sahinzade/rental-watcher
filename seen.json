@@ -574,12 +574,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 469,
+  "fails": 470,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 469,
+  "fails": 470,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1427,7 +1427,17 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478237-pythagoraslaan-111h-k4": "2026-09-22T22:28:06",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478018-rijnlaan-131-k309": "2026-09-22T22:28:06",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478259-ina-boudier-bakkerlaan-79": "2026-09-23T10:07:03",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478276-amsterdamsestraatweg-17-k1.12": "2026-09-23T10:07:03"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478276-amsterdamsestraatweg-17-k1.12": "2026-09-23T10:07:03",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478256-burgemeester-oudlaan-340q": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478253-willem-schuylenburglaan-23-k01": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478248-rijnlaan-131-k04": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478243-sweelinckstraat-4-k22": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478254-poortstraat-28-k12": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478245-leuvenplein-99-k1": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478244-bisschopssteeg-593": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478252-abstederdijk-198-k11": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478250-bisschopssteeg-571": "2026-09-23T22:02:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478255-cambridgelaan-553-k2": "2026-09-23T22:02:56"
   },
   "fails": 0,
   "down_notified": false
@@ -1470,7 +1480,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/b5230bd7/korte-nieuwstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1759,7 +1769,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 147,
+  "fails": 148,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
