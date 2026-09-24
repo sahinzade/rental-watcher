@@ -575,12 +575,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 474,
+  "fails": 475,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 474,
+  "fails": 475,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1481,8 +1481,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/b5230bd7/korte-nieuwstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07"
   },
-  "fails": 3,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -1761,7 +1761,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/oude-langstraat/room-2407875": "2026-09-23T15:00:12",
    "https://kamernet.nl/en/for-rent/studio-tilburg/postelse-hoeflaan/studio-2407851": "2026-09-23T15:00:12",
    "https://kamernet.nl/en/for-rent/room-tilburg/gasthuisring/room-2402229": "2026-09-23T15:00:12",
-   "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2407921": "2026-09-24T10:09:55"
+   "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2407921": "2026-09-24T10:09:55",
+   "https://kamernet.nl/en/for-rent/room-breda/zandveld/room-2408040": "2026-09-24T19:07:39"
   },
   "fails": 0,
   "down_notified": false
@@ -1771,7 +1772,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 152,
+  "fails": 153,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
