@@ -164,7 +164,8 @@
    "59948": "2026-09-22T16:12:45",
    "59949": "2026-09-23T14:57:43",
    "59950": "2026-09-25T10:23:23",
-   "59951": "2026-09-25T10:23:23"
+   "59951": "2026-09-25T10:23:23",
+   "59954": "2026-09-25T15:24:32"
   },
   "fails": 0,
   "down_notified": false
@@ -573,19 +574,21 @@
    "https://magisrealestate.com/for-rent/de-wester/81R": "2026-09-21T14:05:21",
    "https://magisrealestate.com/for-rent/de-wester/83G": "2026-09-21T14:05:21",
    "https://magisrealestate.com/for-rent/de-wester/83L": "2026-09-21T14:05:21",
-   "https://magisrealestate.com/for-rent/de-wester/87D": "2026-09-23T14:57:47"
+   "https://magisrealestate.com/for-rent/de-wester/87D": "2026-09-23T14:57:47",
+   "https://magisrealestate.com/for-rent/de-wester/91B": "2026-09-25T15:24:35",
+   "https://magisrealestate.com/for-rent/de-wester/83T": "2026-09-25T15:24:35"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 479,
+  "fails": 480,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 479,
+  "fails": 480,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1453,7 +1456,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478268-zevenwouden-127-k4": "2026-09-24T22:20:59",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478111-otterstraat-2a-k14": "2026-09-24T22:20:59",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478282-burgemeester-fockema%20andreaeplein-421": "2026-09-24T22:20:59",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478274-winschoterdiep-46-d106": "2026-09-24T22:20:59"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478274-winschoterdiep-46-d106": "2026-09-24T22:20:59",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/476-verhoefbelt-47a": "2026-09-25T15:26:21",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/475-vechtstraat%20-111a": "2026-09-25T15:26:21"
   },
   "fails": 0,
   "down_notified": false
@@ -1497,7 +1502,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1778,7 +1783,11 @@
    "https://kamernet.nl/en/for-rent/studio-tilburg/postelse-hoeflaan/studio-2407851": "2026-09-23T15:00:12",
    "https://kamernet.nl/en/for-rent/room-tilburg/gasthuisring/room-2402229": "2026-09-23T15:00:12",
    "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2407921": "2026-09-24T10:09:55",
-   "https://kamernet.nl/en/for-rent/room-breda/zandveld/room-2408040": "2026-09-24T19:07:39"
+   "https://kamernet.nl/en/for-rent/room-breda/zandveld/room-2408040": "2026-09-24T19:07:39",
+   "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2408191": "2026-09-25T15:27:04",
+   "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2408186": "2026-09-25T15:27:04",
+   "https://kamernet.nl/en/for-rent/room-breda/nieuwe-haagdijk/room-2408171": "2026-09-25T15:27:04",
+   "https://kamernet.nl/en/for-rent/room-tilburg/ardennenlaan/room-2408148": "2026-09-25T15:27:04"
   },
   "fails": 0,
   "down_notified": false
@@ -1788,7 +1797,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 157,
+  "fails": 158,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
