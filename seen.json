@@ -583,12 +583,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 486,
+  "fails": 487,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 486,
+  "fails": 487,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1512,8 +1512,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -1800,7 +1800,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/ardennenlaan/room-2408148": "2026-09-25T15:27:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/roggestraat/room-2408309": "2026-09-26T14:37:40",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/merelstraat/apartment-2408292": "2026-09-26T14:37:40",
-   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2408284": "2026-09-26T14:37:40"
+   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2408284": "2026-09-26T14:37:40",
+   "https://kamernet.nl/en/for-rent/room-tilburg/treubstraat/room-2408346": "2026-09-26T18:02:34",
+   "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2408345": "2026-09-26T18:02:34"
   },
   "fails": 0,
   "down_notified": false
@@ -1810,7 +1812,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 164,
+  "fails": 165,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2033,7 +2035,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-17-baden-powelllaan-5042-zb-tilburg-pd31638": "2026-09-25T00:40:28",
    "https://huurportaal.nl/en/listings/lariksplaats-127-tilburg-pcd127e": "2026-09-25T00:40:28",
    "https://huurportaal.nl/en/listings/apartment-in-166-korvelplein-5025-jw-tilburg-p564fd9": "2026-09-26T00:55:55",
-   "https://huurportaal.nl/en/listings/huis-te-huur-stappegoor-zuid-willy-den-oudenstraat-in-tilburg-pba2402": "2026-09-26T00:55:55"
+   "https://huurportaal.nl/en/listings/huis-te-huur-stappegoor-zuid-willy-den-oudenstraat-in-tilburg-pba2402": "2026-09-26T00:55:55",
+   "https://huurportaal.nl/en/listings/oeverstraat-mooie-kamer-te-huur-p98c9c3": "2026-09-26T18:03:15"
   },
   "fails": 0,
   "down_notified": false
