@@ -583,12 +583,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 493,
+  "fails": 494,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 493,
+  "fails": 494,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1827,7 +1827,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 171,
+  "fails": 172,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2051,7 +2051,8 @@
    "https://huurportaal.nl/en/listings/lariksplaats-127-tilburg-pcd127e": "2026-09-25T00:40:28",
    "https://huurportaal.nl/en/listings/apartment-in-166-korvelplein-5025-jw-tilburg-p564fd9": "2026-09-26T00:55:55",
    "https://huurportaal.nl/en/listings/huis-te-huur-stappegoor-zuid-willy-den-oudenstraat-in-tilburg-pba2402": "2026-09-26T00:55:55",
-   "https://huurportaal.nl/en/listings/oeverstraat-mooie-kamer-te-huur-p98c9c3": "2026-09-26T18:03:15"
+   "https://huurportaal.nl/en/listings/oeverstraat-mooie-kamer-te-huur-p98c9c3": "2026-09-26T18:03:15",
+   "https://huurportaal.nl/en/listings/studentenhuis-tilburg-pe9d196": "2026-09-27T20:26:16"
   },
   "fails": 0,
   "down_notified": false
