@@ -583,12 +583,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 490,
+  "fails": 491,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 490,
+  "fails": 491,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1814,7 +1814,8 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/merelstraat/apartment-2408292": "2026-09-26T14:37:40",
    "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2408284": "2026-09-26T14:37:40",
    "https://kamernet.nl/en/for-rent/room-tilburg/treubstraat/room-2408346": "2026-09-26T18:02:34",
-   "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2408345": "2026-09-26T18:02:34"
+   "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2408345": "2026-09-26T18:02:34",
+   "https://kamernet.nl/en/for-rent/studio-breda/mgr-leijtenstraat/studio-2408402": "2026-09-27T07:10:55"
   },
   "fails": 0,
   "down_notified": false
@@ -1824,7 +1825,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 168,
+  "fails": 169,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
