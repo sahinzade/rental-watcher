@@ -166,7 +166,8 @@
    "59950": "2026-09-25T10:23:23",
    "59951": "2026-09-25T10:23:23",
    "59954": "2026-09-25T15:24:32",
-   "59957": "2026-09-29T14:08:41"
+   "59957": "2026-09-29T14:08:41",
+   "59958": "2026-09-29T19:24:06"
   },
   "fails": 0,
   "down_notified": false
@@ -585,12 +586,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 502,
+  "fails": 503,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 502,
+  "fails": 503,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1540,7 +1541,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1842,7 +1843,8 @@
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/gasthuisstraat/apartment-2408863": "2026-09-29T14:11:26",
    "https://kamernet.nl/en/for-rent/studio-den-bosch/orthen/studio-2408865": "2026-09-29T14:11:26",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/nieuwstraat/apartment-2408857": "2026-09-29T14:11:26",
-   "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2408841": "2026-09-29T14:11:26"
+   "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2408841": "2026-09-29T14:11:26",
+   "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2408971": "2026-09-29T19:26:53"
   },
   "fails": 0,
   "down_notified": false
@@ -1852,7 +1854,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 180,
+  "fails": 181,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
