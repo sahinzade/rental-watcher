@@ -165,7 +165,8 @@
    "59949": "2026-09-23T14:57:43",
    "59950": "2026-09-25T10:23:23",
    "59951": "2026-09-25T10:23:23",
-   "59954": "2026-09-25T15:24:32"
+   "59954": "2026-09-25T15:24:32",
+   "59957": "2026-09-29T14:08:41"
   },
   "fails": 0,
   "down_notified": false
@@ -576,19 +577,20 @@
    "https://magisrealestate.com/for-rent/de-wester/83L": "2026-09-21T14:05:21",
    "https://magisrealestate.com/for-rent/de-wester/87D": "2026-09-23T14:57:47",
    "https://magisrealestate.com/for-rent/de-wester/91B": "2026-09-25T15:24:35",
-   "https://magisrealestate.com/for-rent/de-wester/83T": "2026-09-25T15:24:35"
+   "https://magisrealestate.com/for-rent/de-wester/83T": "2026-09-25T15:24:35",
+   "https://magisrealestate.com/for-rent/novum/2%20F418": "2026-09-29T14:08:44"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 501,
+  "fails": 502,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 501,
+  "fails": 502,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1538,7 +1540,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1835,7 +1837,12 @@
    "https://kamernet.nl/en/for-rent/room-breda/arenberglaan/room-2408696": "2026-09-28T16:05:03",
    "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2408675": "2026-09-28T16:05:03",
    "https://kamernet.nl/en/for-rent/room-breda/schans/room-2403483": "2026-09-28T16:05:03",
-   "https://kamernet.nl/en/for-rent/apartment-den-bosch/vughterstraat/apartment-2408626": "2026-09-28T16:05:03"
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/vughterstraat/apartment-2408626": "2026-09-28T16:05:03",
+   "https://kamernet.nl/en/for-rent/room-breda/jadestraat/room-2408937": "2026-09-29T14:11:26",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/gasthuisstraat/apartment-2408863": "2026-09-29T14:11:26",
+   "https://kamernet.nl/en/for-rent/studio-den-bosch/orthen/studio-2408865": "2026-09-29T14:11:26",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/nieuwstraat/apartment-2408857": "2026-09-29T14:11:26",
+   "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2408841": "2026-09-29T14:11:26"
   },
   "fails": 0,
   "down_notified": false
@@ -1845,7 +1852,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 179,
+  "fails": 180,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
