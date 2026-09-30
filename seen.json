@@ -167,7 +167,12 @@
    "59951": "2026-09-25T10:23:23",
    "59954": "2026-09-25T15:24:32",
    "59957": "2026-09-29T14:08:41",
-   "59958": "2026-09-29T19:24:06"
+   "59958": "2026-09-29T19:24:06",
+   "59745": "2026-09-30T15:11:33",
+   "59962": "2026-09-30T15:11:33",
+   "59965": "2026-09-30T15:11:33",
+   "59251": "2026-09-30T15:11:33",
+   "59260": "2026-09-30T15:11:33"
   },
   "fails": 0,
   "down_notified": false
@@ -533,7 +538,32 @@
    "16856": "2026-09-25T10:23:26",
    "16863": "2026-09-25T10:23:26",
    "16864": "2026-09-25T10:23:26",
-   "16640": "2026-09-30T08:25:33"
+   "16640": "2026-09-30T08:25:33",
+   "15527": "2026-09-30T15:11:41",
+   "16849": "2026-09-30T15:11:41",
+   "16869": "2026-09-30T15:11:41",
+   "17235": "2026-09-30T15:11:41",
+   "17269": "2026-09-30T15:11:41",
+   "17270": "2026-09-30T15:11:41",
+   "17273": "2026-09-30T15:11:41",
+   "17280": "2026-09-30T15:11:41",
+   "17281": "2026-09-30T15:11:41",
+   "17284": "2026-09-30T15:11:41",
+   "17287": "2026-09-30T15:11:41",
+   "17289": "2026-09-30T15:11:41",
+   "17293": "2026-09-30T15:11:41",
+   "17294": "2026-09-30T15:11:41",
+   "17302": "2026-09-30T15:11:41",
+   "17303": "2026-09-30T15:11:41",
+   "17304": "2026-09-30T15:11:41",
+   "17307": "2026-09-30T15:11:41",
+   "17309": "2026-09-30T15:11:41",
+   "17310": "2026-09-30T15:11:41",
+   "17311": "2026-09-30T15:11:41",
+   "17312": "2026-09-30T15:11:41",
+   "17313": "2026-09-30T15:11:41",
+   "17314": "2026-09-30T15:11:41",
+   "17315": "2026-09-30T15:11:41"
   },
   "fails": 0,
   "down_notified": false
@@ -587,12 +617,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 506,
+  "fails": 507,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 506,
+  "fails": 507,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1852,7 +1882,18 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2408971": "2026-09-29T19:26:53",
    "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2409090": "2026-09-30T08:28:19",
    "https://kamernet.nl/en/for-rent/room-breda/heuvelstraat/room-2409078": "2026-09-30T08:28:19",
-   "https://kamernet.nl/en/for-rent/apartment-breda/concordiastraat/apartment-2409041": "2026-09-30T08:28:19"
+   "https://kamernet.nl/en/for-rent/apartment-breda/concordiastraat/apartment-2409041": "2026-09-30T08:28:19",
+   "https://kamernet.nl/en/for-rent/room-breda/magnoliastraat/room-2409254": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/dr-nolensstraat/studio-2409242": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/hart-van-brabantlaan/room-2409241": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2409237": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2409218": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2409200": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/stedekestraat/room-2409202": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/dr-nolensstraat/studio-2409190": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/hertogstraat/apartment-2409169": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2409153": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/dr-nolensstraat/studio-2409121": "2026-09-30T15:14:37"
   },
   "fails": 0,
   "down_notified": false
@@ -1862,7 +1903,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 184,
+  "fails": 185,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2092,7 +2133,8 @@
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p84e6af": "2026-09-28T21:58:16",
    "https://huurportaal.nl/en/listings/apartment-in-44-anselmusstraat-5042-jh-tilburg-p62d218": "2026-09-28T21:58:16",
    "https://huurportaal.nl/en/listings/per-2-oktober-kamer-vlak-bij-uni-voor-studente-p80c264": "2026-09-29T23:09:08",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-p1cb3c8": "2026-09-29T23:09:08"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-p1cb3c8": "2026-09-29T23:09:08",
+   "https://huurportaal.nl/en/listings/kamer-voor-internationale-studenten-of-werkenden-p351ad2": "2026-09-30T15:15:31"
   },
   "fails": 0,
   "down_notified": false
