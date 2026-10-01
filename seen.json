@@ -617,12 +617,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 510,
+  "fails": 511,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 510,
+  "fails": 511,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1590,7 +1590,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5551c376/gasstraat": "2026-09-22T11:54:07",
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -1907,7 +1907,9 @@
    "https://kamernet.nl/en/for-rent/studio-tilburg/dr-nolensstraat/studio-2409190": "2026-09-30T15:14:37",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/hertogstraat/apartment-2409169": "2026-09-30T15:14:37",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2409153": "2026-09-30T15:14:37",
-   "https://kamernet.nl/en/for-rent/studio-tilburg/dr-nolensstraat/studio-2409121": "2026-09-30T15:14:37"
+   "https://kamernet.nl/en/for-rent/studio-tilburg/dr-nolensstraat/studio-2409121": "2026-09-30T15:14:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/domtorenstraat/room-2409386": "2026-10-01T09:17:12",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2409383": "2026-10-01T09:17:12"
   },
   "fails": 0,
   "down_notified": false
@@ -1917,7 +1919,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 188,
+  "fails": 189,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2149,7 +2151,8 @@
    "https://huurportaal.nl/en/listings/per-2-oktober-kamer-vlak-bij-uni-voor-studente-p80c264": "2026-09-29T23:09:08",
    "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-p1cb3c8": "2026-09-29T23:09:08",
    "https://huurportaal.nl/en/listings/kamer-voor-internationale-studenten-of-werkenden-p351ad2": "2026-09-30T15:15:31",
-   "https://huurportaal.nl/en/listings/apartment-in-222-ketelhavenplein-5045-ne-tilburg-p46c99d": "2026-09-30T20:01:01"
+   "https://huurportaal.nl/en/listings/apartment-in-222-ketelhavenplein-5045-ne-tilburg-p46c99d": "2026-09-30T20:01:01",
+   "https://huurportaal.nl/en/listings/woning-te-huur-bisschop-zwijsenstraat-70-06-5021kc-tilburg-pcd3e88": "2026-10-01T09:17:53"
   },
   "fails": 0,
   "down_notified": false
