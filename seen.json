@@ -632,19 +632,20 @@
    "https://magisrealestate.com/for-rent/de-wester/87D": "2026-09-23T14:57:47",
    "https://magisrealestate.com/for-rent/de-wester/91B": "2026-09-25T15:24:35",
    "https://magisrealestate.com/for-rent/de-wester/83T": "2026-09-25T15:24:35",
-   "https://magisrealestate.com/for-rent/novum/2%20F418": "2026-09-29T14:08:44"
+   "https://magisrealestate.com/for-rent/novum/2%20F418": "2026-09-29T14:08:44",
+   "https://magisrealestate.com/for-rent/novum/158": "2026-10-02T18:24:42"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 516,
+  "fails": 517,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 516,
+  "fails": 517,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1966,7 +1967,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 194,
+  "fails": 195,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2200,7 +2201,9 @@
    "https://huurportaal.nl/en/listings/kamer-voor-internationale-studenten-of-werkenden-p351ad2": "2026-09-30T15:15:31",
    "https://huurportaal.nl/en/listings/apartment-in-222-ketelhavenplein-5045-ne-tilburg-p46c99d": "2026-09-30T20:01:01",
    "https://huurportaal.nl/en/listings/woning-te-huur-bisschop-zwijsenstraat-70-06-5021kc-tilburg-pcd3e88": "2026-10-01T09:17:53",
-   "https://huurportaal.nl/en/listings/wittemstraat-tilburg-p15e6f7": "2026-10-01T16:34:15"
+   "https://huurportaal.nl/en/listings/wittemstraat-tilburg-p15e6f7": "2026-10-01T16:34:15",
+   "https://huurportaal.nl/en/listings/apartment-in-65-eccardstraat-5011-al-tilburg-p8766ba": "2026-10-02T18:27:43",
+   "https://huurportaal.nl/en/listings/house-in-29-langestraat-5038-sc-tilburg-p844580": "2026-10-02T18:27:43"
   },
   "fails": 0,
   "down_notified": false
