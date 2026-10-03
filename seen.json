@@ -640,12 +640,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 520,
+  "fails": 521,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 520,
+  "fails": 521,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1985,7 +1985,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 198,
+  "fails": 199,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2221,7 +2221,10 @@
    "https://huurportaal.nl/en/listings/woning-te-huur-bisschop-zwijsenstraat-70-06-5021kc-tilburg-pcd3e88": "2026-10-01T09:17:53",
    "https://huurportaal.nl/en/listings/wittemstraat-tilburg-p15e6f7": "2026-10-01T16:34:15",
    "https://huurportaal.nl/en/listings/apartment-in-65-eccardstraat-5011-al-tilburg-p8766ba": "2026-10-02T18:27:43",
-   "https://huurportaal.nl/en/listings/house-in-29-langestraat-5038-sc-tilburg-p844580": "2026-10-02T18:27:43"
+   "https://huurportaal.nl/en/listings/house-in-29-langestraat-5038-sc-tilburg-p844580": "2026-10-02T18:27:43",
+   "https://huurportaal.nl/en/listings/willy-den-oudenstraat-15-5026-db-tilburg-pc4b9cb": "2026-10-03T12:03:46",
+   "https://huurportaal.nl/en/listings/house-in-100-lochemstraat-5045-wx-tilburg-p7d02c6": "2026-10-03T12:03:46",
+   "https://huurportaal.nl/en/listings/apartment-in-21-van-mierlostraat-5041-nc-tilburg-p96dd49": "2026-10-03T12:03:46"
   },
   "fails": 0,
   "down_notified": false
