@@ -640,12 +640,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 525,
+  "fails": 526,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 525,
+  "fails": 526,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2007,7 +2007,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 203,
+  "fails": 204,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2246,7 +2246,8 @@
    "https://huurportaal.nl/en/listings/house-in-29-langestraat-5038-sc-tilburg-p844580": "2026-10-02T18:27:43",
    "https://huurportaal.nl/en/listings/willy-den-oudenstraat-15-5026-db-tilburg-pc4b9cb": "2026-10-03T12:03:46",
    "https://huurportaal.nl/en/listings/house-in-100-lochemstraat-5045-wx-tilburg-p7d02c6": "2026-10-03T12:03:46",
-   "https://huurportaal.nl/en/listings/apartment-in-21-van-mierlostraat-5041-nc-tilburg-p96dd49": "2026-10-03T12:03:46"
+   "https://huurportaal.nl/en/listings/apartment-in-21-van-mierlostraat-5041-nc-tilburg-p96dd49": "2026-10-03T12:03:46",
+   "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-keuken-pe651fc": "2026-10-04T06:22:01"
   },
   "fails": 0,
   "down_notified": false
