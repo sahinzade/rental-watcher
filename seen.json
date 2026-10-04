@@ -640,12 +640,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 528,
+  "fails": 529,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 528,
+  "fails": 529,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1664,7 +1664,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54",
    "https://www.pararius.com/studio-for-rent/tilburg/e2b58cf7/veldhovenring": "2026-10-02T13:13:05"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2000,7 +2000,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/hooilaan/room-2409949": "2026-10-03T22:14:52",
    "https://kamernet.nl/en/for-rent/studio-tilburg/tuinstraat/studio-2409993": "2026-10-04T12:35:39",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/sint-andriesstraatje/apartment-2409981": "2026-10-04T12:35:39",
-   "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2409980": "2026-10-04T12:35:39"
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2409980": "2026-10-04T12:35:39",
+   "https://kamernet.nl/en/for-rent/room-eindhoven/perigordlaan/room-2410046": "2026-10-04T20:05:53"
   },
   "fails": 0,
   "down_notified": false
@@ -2010,7 +2011,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 206,
+  "fails": 207,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
