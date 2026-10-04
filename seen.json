@@ -640,12 +640,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 526,
+  "fails": 527,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 526,
+  "fails": 527,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1997,7 +1997,10 @@
    "https://kamernet.nl/en/for-rent/room-breda/heuvelstraat/room-2409668": "2026-10-02T13:13:07",
    "https://kamernet.nl/en/for-rent/room-best/jj-verbeetenstraat/room-2409591": "2026-10-02T13:13:07",
    "https://kamernet.nl/en/for-rent/studio-teteringen/laanzichtweg/studio-2409889": "2026-10-03T16:11:28",
-   "https://kamernet.nl/en/for-rent/room-breda/hooilaan/room-2409949": "2026-10-03T22:14:52"
+   "https://kamernet.nl/en/for-rent/room-breda/hooilaan/room-2409949": "2026-10-03T22:14:52",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/tuinstraat/studio-2409993": "2026-10-04T12:35:39",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/sint-andriesstraatje/apartment-2409981": "2026-10-04T12:35:39",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2409980": "2026-10-04T12:35:39"
   },
   "fails": 0,
   "down_notified": false
@@ -2007,7 +2010,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 204,
+  "fails": 205,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
