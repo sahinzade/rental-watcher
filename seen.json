@@ -654,12 +654,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 533,
+  "fails": 534,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 533,
+  "fails": 534,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1663,7 +1663,25 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478416-europaplein-444": "2026-10-04T23:04:18",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478434-ina-boudier-bakkerlaan-89-4-k485": "2026-10-04T23:04:18",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478418-ina-boudier-bakkerlaan-109-k813": "2026-10-04T23:04:18",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478440-kariboestraat-35": "2026-10-04T23:04:18"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478440-kariboestraat-35": "2026-10-04T23:04:18",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478443-talent-square-384": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478436-warande-180-k695": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478450-ina-boudier-bakkerlaan-99-k1269": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477971-burgemeester-fockema%20andreaeplein-229": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478445-cambridgelaan-235-k5": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1477581-talentenplein-169": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478447-hartingstraat-8-k02": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478431-talent-square-298": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478407-salamancapad-57-k02": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478397-talentenplein-239": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478449-talentenplein-498": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478451-gisbert-bromlaan-40-k02": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478446-cambridgelaan-245-k2": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478452-gisbert-bromlaan-40-k12": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478442-cambridgelaan-269-k2": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478437-winschoterdiep-46-c55": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478439-maliesingel-65-k02": "2026-10-05T23:13:17",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478444-abstederdijk-200-k22": "2026-10-05T23:13:17"
   },
   "fails": 0,
   "down_notified": false
@@ -1708,7 +1726,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54",
    "https://www.pararius.com/studio-for-rent/tilburg/e2b58cf7/veldhovenring": "2026-10-02T13:13:05"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2057,7 +2075,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 211,
+  "fails": 212,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2298,7 +2316,9 @@
    "https://huurportaal.nl/en/listings/house-in-100-lochemstraat-5045-wx-tilburg-p7d02c6": "2026-10-03T12:03:46",
    "https://huurportaal.nl/en/listings/apartment-in-21-van-mierlostraat-5041-nc-tilburg-p96dd49": "2026-10-03T12:03:46",
    "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-keuken-pe651fc": "2026-10-04T06:22:01",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-stationsstraat-in-tilburg-pe87974": "2026-10-05T08:18:40"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-stationsstraat-in-tilburg-pe87974": "2026-10-05T08:18:40",
+   "https://huurportaal.nl/en/listings/frederikstraat-252-tilburg-p09c1a8": "2026-10-05T23:15:31",
+   "https://huurportaal.nl/en/listings/house-in-24-gerard-van-spaendonckstraat-5025-nb-tilburg-p656054": "2026-10-05T23:15:31"
   },
   "fails": 0,
   "down_notified": false
