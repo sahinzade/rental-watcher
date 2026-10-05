@@ -176,7 +176,14 @@
    "59966": "2026-10-01T16:30:16",
    "59968": "2026-10-02T13:10:32",
    "59969": "2026-10-02T13:10:32",
-   "59970": "2026-10-02T13:10:32"
+   "59970": "2026-10-02T13:10:32",
+   "59974": "2026-10-05T17:11:56",
+   "59833": "2026-10-05T17:11:56",
+   "59855": "2026-10-05T17:11:56",
+   "59975": "2026-10-05T17:11:56",
+   "59868": "2026-10-05T17:11:56",
+   "59890": "2026-10-05T17:11:56",
+   "59976": "2026-10-05T17:11:56"
   },
   "fails": 0,
   "down_notified": false
@@ -585,7 +592,14 @@
    "17271": "2026-10-02T13:10:37",
    "17286": "2026-10-02T13:10:37",
    "17329": "2026-10-02T13:10:37",
-   "17337": "2026-10-02T13:10:37"
+   "17337": "2026-10-02T13:10:37",
+   "14576": "2026-10-05T17:12:06",
+   "16852": "2026-10-05T17:12:06",
+   "16933": "2026-10-05T17:12:06",
+   "17285": "2026-10-05T17:12:06",
+   "17316": "2026-10-05T17:12:06",
+   "17326": "2026-10-05T17:12:06",
+   "17368": "2026-10-05T17:12:06"
   },
   "fails": 0,
   "down_notified": false
@@ -640,12 +654,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 532,
+  "fails": 533,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 532,
+  "fails": 533,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1694,8 +1708,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/be77f9e6/goirkestraat": "2026-09-25T05:24:54",
    "https://www.pararius.com/studio-for-rent/tilburg/e2b58cf7/veldhovenring": "2026-10-02T13:13:05"
   },
-  "fails": 4,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -2031,7 +2045,9 @@
    "https://kamernet.nl/en/for-rent/studio-tilburg/tuinstraat/studio-2409993": "2026-10-04T12:35:39",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/sint-andriesstraatje/apartment-2409981": "2026-10-04T12:35:39",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/amundsenstraat/apartment-2409980": "2026-10-04T12:35:39",
-   "https://kamernet.nl/en/for-rent/room-eindhoven/perigordlaan/room-2410046": "2026-10-04T20:05:53"
+   "https://kamernet.nl/en/for-rent/room-eindhoven/perigordlaan/room-2410046": "2026-10-04T20:05:53",
+   "https://kamernet.nl/en/for-rent/room-tilburg/professor-cobbenhagenlaan/room-2334987": "2026-10-05T17:14:39",
+   "https://kamernet.nl/en/for-rent/apartment-schijndel/planetenlaan/apartment-2410133": "2026-10-05T17:14:39"
   },
   "fails": 0,
   "down_notified": false
@@ -2041,7 +2057,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 210,
+  "fails": 211,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
