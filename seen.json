@@ -655,12 +655,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 539,
+  "fails": 540,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 539,
+  "fails": 540,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1690,7 +1690,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478459-enny-vredelaan-49-k4": "2026-10-07T00:49:57",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478455-willem-schuylenburglaan-55-k02": "2026-10-07T00:49:57",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478448-van-lieflandlaan-30-k04": "2026-10-07T00:49:57",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478458-warande-160-k575": "2026-10-07T00:49:57"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478458-warande-160-k575": "2026-10-07T00:49:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478516-van-lieflandlaan-104-k22": "2026-10-07T06:37:04"
   },
   "fails": 0,
   "down_notified": false
@@ -1739,7 +1740,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/a56de09e/karmijnstraat": "2026-10-06T16:49:20",
    "https://www.pararius.com/studio-for-rent/tilburg/9686dfbd/olivier-van-noortstraat": "2026-10-06T16:49:20"
   },
-  "fails": 2,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2094,7 +2095,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 217,
+  "fails": 218,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
