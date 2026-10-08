@@ -671,12 +671,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 546,
+  "fails": 547,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 546,
+  "fails": 547,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1715,7 +1715,12 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478460-ina-boudier-bakkerlaan-53-k1006": "2026-10-07T23:53:59",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478468-reestraat-9-k19": "2026-10-07T23:53:59",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478477-van-lieflandlaan-98-k22": "2026-10-07T23:53:59",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478534-ina-boudier-bakkerlaan-109-1-k834": "2026-10-08T11:30:32"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478534-ina-boudier-bakkerlaan-109-1-k834": "2026-10-08T11:30:32",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478481-talent-square-32": "2026-10-08T23:06:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478476-warande-58-k252": "2026-10-08T23:06:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478474-gisbert-bromlaan-8-k01": "2026-10-08T23:06:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478475-wouter-van%20doeverenplein-66-k4": "2026-10-08T23:06:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478472-enny-vredelaan-351": "2026-10-08T23:06:57"
   },
   "fails": 0,
   "down_notified": false
@@ -2125,7 +2130,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 224,
+  "fails": 225,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2373,7 +2378,11 @@
    "https://huurportaal.nl/en/listings/house-in-45-ringbaan-oost-5014-ga-tilburg-p0c40c2": "2026-10-07T13:55:08",
    "https://huurportaal.nl/en/listings/mvgm-te-huur-zoelenerf-10-tilburg-pce5d81": "2026-10-07T13:55:08",
    "https://huurportaal.nl/en/listings/hart-van-brabantlaan-mooie-studentenkamer-te-huur-p562b7c": "2026-10-07T13:55:08",
-   "https://huurportaal.nl/en/listings/huize-dommies-zoekt-een-huisgenootje-p33b6e9": "2026-10-08T18:02:47"
+   "https://huurportaal.nl/en/listings/huize-dommies-zoekt-een-huisgenootje-p33b6e9": "2026-10-08T18:02:47",
+   "https://huurportaal.nl/en/listings/apartment-in-42-generaal-barberstraat-5025-xc-tilburg-p19d209": "2026-10-08T23:08:18",
+   "https://huurportaal.nl/en/listings/nieuwbouw-appartement-gelegen-op-een-top-locatie-pca5234": "2026-10-08T23:08:18",
+   "https://huurportaal.nl/en/listings/apartment-in-94-berlagehof-5041-jv-tilburg-p4240e7": "2026-10-08T23:08:18",
+   "https://huurportaal.nl/en/listings/apartment-in-665-talent-square-5038-lz-tilburg-p3e5b0b": "2026-10-08T23:08:18"
   },
   "fails": 0,
   "down_notified": false
