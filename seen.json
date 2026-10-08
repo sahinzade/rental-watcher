@@ -187,7 +187,11 @@
    "59982": "2026-10-07T19:43:17",
    "59983": "2026-10-07T19:43:17",
    "59980": "2026-10-07T19:43:17",
-   "59981": "2026-10-07T19:43:17"
+   "59981": "2026-10-07T19:43:17",
+   "59985": "2026-10-08T11:28:37",
+   "59986": "2026-10-08T11:28:37",
+   "59992": "2026-10-08T11:28:37",
+   "59991": "2026-10-08T11:28:37"
   },
   "fails": 0,
   "down_notified": false
@@ -606,7 +610,8 @@
    "17368": "2026-10-05T17:12:06",
    "16923": "2026-10-06T10:09:04",
    "17267": "2026-10-07T13:51:56",
-   "17328": "2026-10-07T13:51:56"
+   "17328": "2026-10-07T13:51:56",
+   "16871": "2026-10-08T11:28:44"
   },
   "fails": 0,
   "down_notified": false
@@ -654,19 +659,20 @@
    "https://magisrealestate.com/for-rent/de-wester/91B": "2026-09-25T15:24:35",
    "https://magisrealestate.com/for-rent/de-wester/83T": "2026-09-25T15:24:35",
    "https://magisrealestate.com/for-rent/novum/2%20F418": "2026-09-29T14:08:44",
-   "https://magisrealestate.com/for-rent/novum/158": "2026-10-02T18:24:42"
+   "https://magisrealestate.com/for-rent/novum/158": "2026-10-02T18:24:42",
+   "https://magisrealestate.com/for-rent/novum/276": "2026-10-08T11:28:46"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 544,
+  "fails": 545,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 544,
+  "fails": 545,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1704,7 +1710,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478463-struisenburgdwarsstraat-254": "2026-10-07T23:53:59",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478460-ina-boudier-bakkerlaan-53-k1006": "2026-10-07T23:53:59",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478468-reestraat-9-k19": "2026-10-07T23:53:59",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478477-van-lieflandlaan-98-k22": "2026-10-07T23:53:59"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478477-van-lieflandlaan-98-k22": "2026-10-07T23:53:59",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478534-ina-boudier-bakkerlaan-109-1-k834": "2026-10-08T11:30:32"
   },
   "fails": 0,
   "down_notified": false
@@ -2103,7 +2110,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2410360": "2026-10-06T16:49:28",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/molenstraat/apartment-2410546": "2026-10-07T13:54:26",
    "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2410135": "2026-10-07T13:54:26",
-   "https://kamernet.nl/en/for-rent/room-den-bosch/oude-engelenseweg/room-2410474": "2026-10-07T13:54:26"
+   "https://kamernet.nl/en/for-rent/room-den-bosch/oude-engelenseweg/room-2410474": "2026-10-07T13:54:26",
+   "https://kamernet.nl/en/for-rent/room-tilburg/kwaadeindstraat/room-2410480": "2026-10-08T11:31:13"
   },
   "fails": 0,
   "down_notified": false
@@ -2113,7 +2121,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 222,
+  "fails": 223,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
