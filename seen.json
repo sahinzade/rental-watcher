@@ -193,7 +193,13 @@
    "59992": "2026-10-08T11:28:37",
    "59991": "2026-10-08T11:28:37",
    "59993": "2026-10-08T17:58:29",
-   "59989": "2026-10-08T17:58:29"
+   "59989": "2026-10-08T17:58:29",
+   "59994": "2026-10-09T16:54:49",
+   "59995": "2026-10-09T16:54:49",
+   "59996": "2026-10-09T16:54:49",
+   "59997": "2026-10-09T16:54:49",
+   "59998": "2026-10-09T16:54:49",
+   "60000": "2026-10-09T16:54:49"
   },
   "fails": 0,
   "down_notified": false
@@ -615,7 +621,18 @@
    "17328": "2026-10-07T13:51:56",
    "16871": "2026-10-08T11:28:44",
    "16931": "2026-10-08T17:58:33",
-   "17399": "2026-10-09T09:59:05"
+   "17399": "2026-10-09T09:59:05",
+   "16989": "2026-10-09T16:54:58",
+   "16992": "2026-10-09T16:54:58",
+   "17340": "2026-10-09T16:54:58",
+   "17346": "2026-10-09T16:54:58",
+   "17373": "2026-10-09T16:54:58",
+   "17377": "2026-10-09T16:54:58",
+   "17378": "2026-10-09T16:54:58",
+   "17379": "2026-10-09T16:54:58",
+   "17384": "2026-10-09T16:54:58",
+   "17385": "2026-10-09T16:54:58",
+   "17395": "2026-10-09T16:54:58"
   },
   "fails": 0,
   "down_notified": false
@@ -675,12 +692,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 549,
+  "fails": 550,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 549,
+  "fails": 550,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1775,7 +1792,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2124,7 +2141,12 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/molenstraat/apartment-2410546": "2026-10-07T13:54:26",
    "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2410135": "2026-10-07T13:54:26",
    "https://kamernet.nl/en/for-rent/room-den-bosch/oude-engelenseweg/room-2410474": "2026-10-07T13:54:26",
-   "https://kamernet.nl/en/for-rent/room-tilburg/kwaadeindstraat/room-2410480": "2026-10-08T11:31:13"
+   "https://kamernet.nl/en/for-rent/room-tilburg/kwaadeindstraat/room-2410480": "2026-10-08T11:31:13",
+   "https://kamernet.nl/en/for-rent/room-breda/grazendonkstraat/room-2411022": "2026-10-09T16:57:37",
+   "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2410988": "2026-10-09T16:57:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/dillenburglaan/room-2411005": "2026-10-09T16:57:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/korenbloemstraat/room-2411006": "2026-10-09T16:57:37",
+   "https://kamernet.nl/en/for-rent/room-tilburg/dillenburglaan/room-2410982": "2026-10-09T16:57:37"
   },
   "fails": 0,
   "down_notified": false
@@ -2134,7 +2156,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 227,
+  "fails": 228,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2386,7 +2408,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-42-generaal-barberstraat-5025-xc-tilburg-p19d209": "2026-10-08T23:08:18",
    "https://huurportaal.nl/en/listings/nieuwbouw-appartement-gelegen-op-een-top-locatie-pca5234": "2026-10-08T23:08:18",
    "https://huurportaal.nl/en/listings/apartment-in-94-berlagehof-5041-jv-tilburg-p4240e7": "2026-10-08T23:08:18",
-   "https://huurportaal.nl/en/listings/apartment-in-665-talent-square-5038-lz-tilburg-p3e5b0b": "2026-10-08T23:08:18"
+   "https://huurportaal.nl/en/listings/apartment-in-665-talent-square-5038-lz-tilburg-p3e5b0b": "2026-10-08T23:08:18",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-rosmolenplein-in-tilburg-p54e195": "2026-10-09T16:58:22"
   },
   "fails": 0,
   "down_notified": false
