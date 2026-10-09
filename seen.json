@@ -614,7 +614,8 @@
    "17267": "2026-10-07T13:51:56",
    "17328": "2026-10-07T13:51:56",
    "16871": "2026-10-08T11:28:44",
-   "16931": "2026-10-08T17:58:33"
+   "16931": "2026-10-08T17:58:33",
+   "17399": "2026-10-09T09:59:05"
   },
   "fails": 0,
   "down_notified": false
@@ -664,19 +665,22 @@
    "https://magisrealestate.com/for-rent/novum/2%20F418": "2026-09-29T14:08:44",
    "https://magisrealestate.com/for-rent/novum/158": "2026-10-02T18:24:42",
    "https://magisrealestate.com/for-rent/novum/276": "2026-10-08T11:28:46",
-   "https://magisrealestate.com/for-rent/de-wester/89C": "2026-10-08T17:58:36"
+   "https://magisrealestate.com/for-rent/de-wester/89C": "2026-10-08T17:58:36",
+   "https://magisrealestate.com/for-rent/the-rumour/14.19": "2026-10-09T09:59:08",
+   "https://magisrealestate.com/for-rent/novum/2%20F429": "2026-10-09T09:59:08",
+   "https://magisrealestate.com/for-rent/novum/200": "2026-10-09T09:59:08"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 548,
+  "fails": 549,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 548,
+  "fails": 549,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1771,7 +1775,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2130,7 +2134,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 226,
+  "fails": 227,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
