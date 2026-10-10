@@ -692,12 +692,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 553,
+  "fails": 554,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 553,
+  "fails": 554,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1805,7 +1805,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2159,7 +2159,10 @@
    "https://kamernet.nl/en/for-rent/room-breda/teteringsedijk/room-2410988": "2026-10-09T16:57:37",
    "https://kamernet.nl/en/for-rent/room-tilburg/dillenburglaan/room-2411005": "2026-10-09T16:57:37",
    "https://kamernet.nl/en/for-rent/room-tilburg/korenbloemstraat/room-2411006": "2026-10-09T16:57:37",
-   "https://kamernet.nl/en/for-rent/room-tilburg/dillenburglaan/room-2410982": "2026-10-09T16:57:37"
+   "https://kamernet.nl/en/for-rent/room-tilburg/dillenburglaan/room-2410982": "2026-10-09T16:57:37",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/fabriekstraat/apartment-2411128": "2026-10-10T13:38:24",
+   "https://kamernet.nl/en/for-rent/apartment-helvoirt/kastanjelaan/apartment-2411122": "2026-10-10T13:38:24",
+   "https://kamernet.nl/en/for-rent/studio-bruchem/inktfordseweg/studio-2411096": "2026-10-10T13:38:24"
   },
   "fails": 0,
   "down_notified": false
@@ -2169,7 +2172,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 231,
+  "fails": 232,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2424,7 +2427,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-665-talent-square-5038-lz-tilburg-p3e5b0b": "2026-10-08T23:08:18",
    "https://huurportaal.nl/en/listings/te-huur-appartement-rosmolenplein-in-tilburg-p54e195": "2026-10-09T16:58:22",
    "https://huurportaal.nl/en/listings/mvgm-te-huur-rijperkerkstraat-47-tilburg-p3c9f3b": "2026-10-09T21:31:13",
-   "https://huurportaal.nl/en/listings/house-in-28-reinier-claeszenstraat-5021-vk-tilburg-pf63178": "2026-10-10T07:05:24"
+   "https://huurportaal.nl/en/listings/house-in-28-reinier-claeszenstraat-5021-vk-tilburg-pf63178": "2026-10-10T07:05:24",
+   "https://huurportaal.nl/en/listings/mooie-ruime-studio-met-eigen-keuken-pbb6d9c": "2026-10-10T13:39:06",
+   "https://huurportaal.nl/en/listings/apartment-in-94-ringbaan-west-5046-va-tilburg-p55713f": "2026-10-10T13:39:06"
   },
   "fails": 0,
   "down_notified": false
