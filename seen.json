@@ -692,12 +692,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 554,
+  "fails": 555,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 554,
+  "fails": 555,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1805,7 +1805,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 2,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2162,7 +2162,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/dillenburglaan/room-2410982": "2026-10-09T16:57:37",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/fabriekstraat/apartment-2411128": "2026-10-10T13:38:24",
    "https://kamernet.nl/en/for-rent/apartment-helvoirt/kastanjelaan/apartment-2411122": "2026-10-10T13:38:24",
-   "https://kamernet.nl/en/for-rent/studio-bruchem/inktfordseweg/studio-2411096": "2026-10-10T13:38:24"
+   "https://kamernet.nl/en/for-rent/studio-bruchem/inktfordseweg/studio-2411096": "2026-10-10T13:38:24",
+   "https://kamernet.nl/en/for-rent/room-etten-leur/speelveld/room-2397690": "2026-10-10T18:01:38"
   },
   "fails": 0,
   "down_notified": false
@@ -2172,7 +2173,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 232,
+  "fails": 233,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
