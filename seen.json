@@ -735,12 +735,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 564,
+  "fails": 565,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 564,
+  "fails": 565,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1830,7 +1830,24 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478539-willem-barentszstraat-45-k32": "2026-10-12T00:31:15",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478485-bemuurde-weerd%20o.z.-7-k22": "2026-10-12T00:31:15",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478470-parkstraat-47-k22": "2026-10-12T00:31:15",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478527-van-lieflandlaan-130-k22": "2026-10-12T15:55:00"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478527-van-lieflandlaan-130-k22": "2026-10-12T15:55:00",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478597-talent-square-320": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478569-warande-164-k614": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478606-parkstraat-8-k01": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478605-kruisstraat-130-k01": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478457-cambridgelaan-811-k4": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478602-cambridgelaan-309-k1": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478603-nassaustraat-13-k22": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478596-weerdsingel-o.z.-66-k90": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478514-bisschopssteeg-343": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478545-pythagoraslaan-113a-k4": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478601-graaf-adolfstraat-32-k11": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478487-oudegracht-338-bis-k22": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478598-talent-square-315": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478541-enny-vredelaan-287-k6": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478600-leuvenplein-214": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478604-willem-schuylenburglaan-41-k12": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478330-van-lieflandlaan-126-k11": "2026-10-12T22:44:38"
   },
   "fails": 0,
   "down_notified": false
@@ -1881,7 +1898,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2258,7 +2275,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 242,
+  "fails": 243,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
