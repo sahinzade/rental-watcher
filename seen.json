@@ -199,7 +199,21 @@
    "59996": "2026-10-09T16:54:49",
    "59997": "2026-10-09T16:54:49",
    "59998": "2026-10-09T16:54:49",
-   "60000": "2026-10-09T16:54:49"
+   "60000": "2026-10-09T16:54:49",
+   "59347": "2026-10-12T15:52:17",
+   "59357": "2026-10-12T15:52:17",
+   "59396": "2026-10-12T15:52:17",
+   "59669": "2026-10-12T15:52:17",
+   "59689": "2026-10-12T15:52:17",
+   "59811": "2026-10-12T15:52:17",
+   "59831": "2026-10-12T15:52:17",
+   "60002": "2026-10-12T15:52:17",
+   "60001": "2026-10-12T15:52:17",
+   "59621": "2026-10-12T15:52:17",
+   "59740": "2026-10-12T15:52:17",
+   "59570": "2026-10-12T15:52:17",
+   "59812": "2026-10-12T15:52:17",
+   "59739": "2026-10-12T15:52:17"
   },
   "fails": 0,
   "down_notified": false
@@ -632,7 +646,34 @@
    "17379": "2026-10-09T16:54:58",
    "17384": "2026-10-09T16:54:58",
    "17385": "2026-10-09T16:54:58",
-   "17395": "2026-10-09T16:54:58"
+   "17395": "2026-10-09T16:54:58",
+   "16930": "2026-10-12T15:52:37",
+   "16990": "2026-10-12T15:52:37",
+   "16995": "2026-10-12T15:52:37",
+   "16996": "2026-10-12T15:52:37",
+   "16997": "2026-10-12T15:52:37",
+   "17000": "2026-10-12T15:52:37",
+   "17041": "2026-10-12T15:52:37",
+   "17046": "2026-10-12T15:52:37",
+   "17047": "2026-10-12T15:52:37",
+   "17330": "2026-10-12T15:52:37",
+   "17335": "2026-10-12T15:52:37",
+   "17342": "2026-10-12T15:52:37",
+   "17348": "2026-10-12T15:52:37",
+   "17370": "2026-10-12T15:52:37",
+   "17372": "2026-10-12T15:52:37",
+   "17375": "2026-10-12T15:52:37",
+   "17376": "2026-10-12T15:52:37",
+   "17381": "2026-10-12T15:52:37",
+   "17386": "2026-10-12T15:52:37",
+   "17387": "2026-10-12T15:52:37",
+   "17388": "2026-10-12T15:52:37",
+   "17390": "2026-10-12T15:52:37",
+   "17394": "2026-10-12T15:52:37",
+   "17426": "2026-10-12T15:52:37",
+   "17427": "2026-10-12T15:52:37",
+   "17429": "2026-10-12T15:52:37",
+   "17430": "2026-10-12T15:52:37"
   },
   "fails": 0,
   "down_notified": false
@@ -685,19 +726,21 @@
    "https://magisrealestate.com/for-rent/de-wester/89C": "2026-10-08T17:58:36",
    "https://magisrealestate.com/for-rent/the-rumour/14.19": "2026-10-09T09:59:08",
    "https://magisrealestate.com/for-rent/novum/2%20F429": "2026-10-09T09:59:08",
-   "https://magisrealestate.com/for-rent/novum/200": "2026-10-09T09:59:08"
+   "https://magisrealestate.com/for-rent/novum/200": "2026-10-09T09:59:08",
+   "https://magisrealestate.com/for-rent/mister-x/9.88": "2026-10-12T15:53:15",
+   "https://magisrealestate.com/for-rent/mister-x/7.32": "2026-10-12T15:53:15"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 563,
+  "fails": 564,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 563,
+  "fails": 564,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1786,7 +1829,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478478-talentenplein-408": "2026-10-12T00:31:15",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478539-willem-barentszstraat-45-k32": "2026-10-12T00:31:15",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478485-bemuurde-weerd%20o.z.-7-k22": "2026-10-12T00:31:15",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478470-parkstraat-47-k22": "2026-10-12T00:31:15"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478470-parkstraat-47-k22": "2026-10-12T00:31:15",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478527-van-lieflandlaan-130-k22": "2026-10-12T15:55:00"
   },
   "fails": 0,
   "down_notified": false
@@ -1837,7 +1881,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2197,7 +2241,14 @@
    "https://kamernet.nl/en/for-rent/studio-bruchem/inktfordseweg/studio-2411096": "2026-10-10T13:38:24",
    "https://kamernet.nl/en/for-rent/room-etten-leur/speelveld/room-2397690": "2026-10-10T18:01:38",
    "https://kamernet.nl/en/for-rent/room-tilburg/poststraat/room-2411272": "2026-10-11T12:47:15",
-   "https://kamernet.nl/en/for-rent/room-breda/godevaert-montensstraat/room-2411187": "2026-10-11T12:47:15"
+   "https://kamernet.nl/en/for-rent/room-breda/godevaert-montensstraat/room-2411187": "2026-10-11T12:47:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/distelbergstraat/room-2411525": "2026-10-12T15:55:58",
+   "https://kamernet.nl/en/for-rent/studio-breda/nieuwe-haagdijk/studio-2411521": "2026-10-12T15:55:58",
+   "https://kamernet.nl/en/for-rent/room-tilburg/koestraat/room-2411523": "2026-10-12T15:55:58",
+   "https://kamernet.nl/en/for-rent/apartment-raamsdonksveer/grote-kerkstraat/apartment-2411461": "2026-10-12T15:55:58",
+   "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2411463": "2026-10-12T15:55:58",
+   "https://kamernet.nl/en/for-rent/room-tilburg/houtstraat/room-2411333": "2026-10-12T15:55:58",
+   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-bouvignestraat/room-2411354": "2026-10-12T15:55:58"
   },
   "fails": 0,
   "down_notified": false
@@ -2207,7 +2258,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 241,
+  "fails": 242,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2467,7 +2518,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-94-ringbaan-west-5046-va-tilburg-p55713f": "2026-10-10T13:39:06",
    "https://huurportaal.nl/en/listings/house-in-45-ringbaan-oost-5014-ga-tilburg-p694f85": "2026-10-11T12:47:57",
    "https://huurportaal.nl/en/listings/house-in-24-marsstraat-5042-ap-tilburg-p8c0430": "2026-10-11T12:47:57",
-   "https://huurportaal.nl/en/listings/woning-te-huur-p6c06d5": "2026-10-12T06:27:26"
+   "https://huurportaal.nl/en/listings/woning-te-huur-p6c06d5": "2026-10-12T06:27:26",
+   "https://huurportaal.nl/en/listings/apartment-in-70-petrus-canisiusstraat-5042-hj-tilburg-p93febb": "2026-10-12T15:56:45"
   },
   "fails": 0,
   "down_notified": false
