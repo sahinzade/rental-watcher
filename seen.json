@@ -692,12 +692,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 562,
+  "fails": 563,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 562,
+  "fails": 563,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2207,7 +2207,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 240,
+  "fails": 241,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2466,7 +2466,8 @@
    "https://huurportaal.nl/en/listings/mooie-ruime-studio-met-eigen-keuken-pbb6d9c": "2026-10-10T13:39:06",
    "https://huurportaal.nl/en/listings/apartment-in-94-ringbaan-west-5046-va-tilburg-p55713f": "2026-10-10T13:39:06",
    "https://huurportaal.nl/en/listings/house-in-45-ringbaan-oost-5014-ga-tilburg-p694f85": "2026-10-11T12:47:57",
-   "https://huurportaal.nl/en/listings/house-in-24-marsstraat-5042-ap-tilburg-p8c0430": "2026-10-11T12:47:57"
+   "https://huurportaal.nl/en/listings/house-in-24-marsstraat-5042-ap-tilburg-p8c0430": "2026-10-11T12:47:57",
+   "https://huurportaal.nl/en/listings/woning-te-huur-p6c06d5": "2026-10-12T06:27:26"
   },
   "fails": 0,
   "down_notified": false
