@@ -735,12 +735,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 565,
+  "fails": 566,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 565,
+  "fails": 566,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1898,8 +1898,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -2275,7 +2275,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 243,
+  "fails": 244,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
