@@ -735,12 +735,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 566,
+  "fails": 567,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 566,
+  "fails": 567,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1847,7 +1847,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478541-enny-vredelaan-287-k6": "2026-10-12T22:44:38",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478600-leuvenplein-214": "2026-10-12T22:44:38",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478604-willem-schuylenburglaan-41-k12": "2026-10-12T22:44:38",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478330-van-lieflandlaan-126-k11": "2026-10-12T22:44:38"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478330-van-lieflandlaan-126-k11": "2026-10-12T22:44:38",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/477-sumatrastraat-1a": "2026-10-13T10:45:37",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478640-van-lieflandlaan-128-k24": "2026-10-13T10:45:37"
   },
   "fails": 0,
   "down_notified": false
@@ -1898,7 +1900,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bc15d836/tafelbergstraat": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23"
   },
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2265,7 +2267,9 @@
    "https://kamernet.nl/en/for-rent/apartment-raamsdonksveer/grote-kerkstraat/apartment-2411461": "2026-10-12T15:55:58",
    "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2411463": "2026-10-12T15:55:58",
    "https://kamernet.nl/en/for-rent/room-tilburg/houtstraat/room-2411333": "2026-10-12T15:55:58",
-   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-bouvignestraat/room-2411354": "2026-10-12T15:55:58"
+   "https://kamernet.nl/en/for-rent/room-tilburg/kasteel-bouvignestraat/room-2411354": "2026-10-12T15:55:58",
+   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2411679": "2026-10-13T10:46:37",
+   "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2411622": "2026-10-13T10:46:37"
   },
   "fails": 0,
   "down_notified": false
@@ -2275,7 +2279,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 244,
+  "fails": 245,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2536,7 +2540,11 @@
    "https://huurportaal.nl/en/listings/house-in-45-ringbaan-oost-5014-ga-tilburg-p694f85": "2026-10-11T12:47:57",
    "https://huurportaal.nl/en/listings/house-in-24-marsstraat-5042-ap-tilburg-p8c0430": "2026-10-11T12:47:57",
    "https://huurportaal.nl/en/listings/woning-te-huur-p6c06d5": "2026-10-12T06:27:26",
-   "https://huurportaal.nl/en/listings/apartment-in-70-petrus-canisiusstraat-5042-hj-tilburg-p93febb": "2026-10-12T15:56:45"
+   "https://huurportaal.nl/en/listings/apartment-in-70-petrus-canisiusstraat-5042-hj-tilburg-p93febb": "2026-10-12T15:56:45",
+   "https://huurportaal.nl/en/listings/de-kb-p47b547": "2026-10-13T10:47:19",
+   "https://huurportaal.nl/en/listings/apartment-in-149-salesianenstraat-5042-dr-tilburg-pbc3d67": "2026-10-13T10:47:19",
+   "https://huurportaal.nl/en/listings/te-huur-kamer-gasthuisring-in-tilburg-p48853c": "2026-10-13T10:47:19",
+   "https://huurportaal.nl/en/listings/gezellige-knusse-kamer-met-wastafel-p2239fe": "2026-10-13T10:47:19"
   },
   "fails": 0,
   "down_notified": false
