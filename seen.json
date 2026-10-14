@@ -214,7 +214,11 @@
    "59570": "2026-10-12T15:52:17",
    "59812": "2026-10-12T15:52:17",
    "59739": "2026-10-12T15:52:17",
-   "60003": "2026-10-13T17:49:10"
+   "60003": "2026-10-13T17:49:10",
+   "60004": "2026-10-14T11:44:34",
+   "60005": "2026-10-14T11:44:34",
+   "60006": "2026-10-14T11:44:34",
+   "60007": "2026-10-14T11:44:34"
   },
   "fails": 0,
   "down_notified": false
@@ -675,7 +679,8 @@
    "17427": "2026-10-12T15:52:37",
    "17429": "2026-10-12T15:52:37",
    "17430": "2026-10-12T15:52:37",
-   "17322": "2026-10-13T17:49:13"
+   "17322": "2026-10-13T17:49:13",
+   "17428": "2026-10-14T11:44:42"
   },
   "fails": 0,
   "down_notified": false
@@ -737,12 +742,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 571,
+  "fails": 572,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 571,
+  "fails": 572,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1912,7 +1917,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2284,7 +2289,8 @@
    "https://kamernet.nl/en/for-rent/studio-diessen/julianastraat/studio-2411622": "2026-10-13T10:46:37",
    "https://kamernet.nl/en/for-rent/studio-tilburg/enschotsestraat/studio-2411734": "2026-10-13T17:52:03",
    "https://kamernet.nl/en/for-rent/room-breda/ginnekenweg/room-2411705": "2026-10-13T17:52:03",
-   "https://kamernet.nl/en/for-rent/studio-breda/jan-nieuwenhuyzenstraat/studio-2411710": "2026-10-13T17:52:03"
+   "https://kamernet.nl/en/for-rent/studio-breda/jan-nieuwenhuyzenstraat/studio-2411710": "2026-10-13T17:52:03",
+   "https://kamernet.nl/en/for-rent/room-tilburg/nieuwstraat/room-2411796": "2026-10-14T11:47:25"
   },
   "fails": 0,
   "down_notified": false
@@ -2294,7 +2300,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 249,
+  "fails": 250,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2560,7 +2566,10 @@
    "https://huurportaal.nl/en/listings/apartment-in-149-salesianenstraat-5042-dr-tilburg-pbc3d67": "2026-10-13T10:47:19",
    "https://huurportaal.nl/en/listings/te-huur-kamer-gasthuisring-in-tilburg-p48853c": "2026-10-13T10:47:19",
    "https://huurportaal.nl/en/listings/gezellige-knusse-kamer-met-wastafel-p2239fe": "2026-10-13T10:47:19",
-   "https://huurportaal.nl/en/listings/apartment-in-90-warmondstraat-5036-bs-tilburg-ped28e2": "2026-10-14T06:08:31"
+   "https://huurportaal.nl/en/listings/apartment-in-90-warmondstraat-5036-bs-tilburg-ped28e2": "2026-10-14T06:08:31",
+   "https://huurportaal.nl/en/listings/apartment-in-193-generaal-barberstraat-5025-xb-tilburg-p831889": "2026-10-14T11:48:02",
+   "https://huurportaal.nl/en/listings/apartment-in-228-stevenzandsestraat-5021-hj-tilburg-pc9113f": "2026-10-14T11:48:02",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-rosmolenplein-in-tilburg-p52a33f": "2026-10-14T11:48:02"
   },
   "fails": 0,
   "down_notified": false
