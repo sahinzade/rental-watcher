@@ -748,12 +748,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 573,
+  "fails": 574,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 573,
+  "fails": 574,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2299,7 +2299,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/ginnekenweg/room-2411705": "2026-10-13T17:52:03",
    "https://kamernet.nl/en/for-rent/studio-breda/jan-nieuwenhuyzenstraat/studio-2411710": "2026-10-13T17:52:03",
    "https://kamernet.nl/en/for-rent/room-tilburg/nieuwstraat/room-2411796": "2026-10-14T11:47:25",
-   "https://kamernet.nl/en/for-rent/apartment-breda/mauritsstraat/apartment-2411923": "2026-10-14T16:01:51"
+   "https://kamernet.nl/en/for-rent/apartment-breda/mauritsstraat/apartment-2411923": "2026-10-14T16:01:51",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/anna-paulownahof/apartment-2411950": "2026-10-14T20:08:31"
   },
   "fails": 0,
   "down_notified": false
@@ -2309,7 +2310,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 251,
+  "fails": 252,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
