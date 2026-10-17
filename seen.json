@@ -764,12 +764,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 592,
+  "fails": 593,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 592,
+  "fails": 593,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1971,7 +1971,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 4,
+  "fails": 5,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2367,7 +2367,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 270,
+  "fails": 271,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
