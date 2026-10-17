@@ -764,12 +764,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 593,
+  "fails": 594,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 593,
+  "fails": 594,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1971,7 +1971,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2367,7 +2367,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 271,
+  "fails": 272,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2644,7 +2644,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-363-predikherenlaan-5042-cg-tilburg-pc8d82c": "2026-10-16T21:20:55",
    "https://huurportaal.nl/en/listings/te-huur-appartement-stationsstraat-in-tilburg-p2c5fa6": "2026-10-17T06:10:59",
    "https://huurportaal.nl/en/listings/apartment-for-rent-in-dr-nolensstraat-5046hp-tilburg-pfcea3c": "2026-10-17T10:39:20",
-   "https://huurportaal.nl/en/listings/mvgm-te-huur-bisschop-zwijsenstraat-103-04-tilburg-pcb0706": "2026-10-17T10:39:20"
+   "https://huurportaal.nl/en/listings/mvgm-te-huur-bisschop-zwijsenstraat-103-04-tilburg-pcb0706": "2026-10-17T10:39:20",
+   "https://huurportaal.nl/en/listings/2-bedrooms-appartement-surface-area-68m2-p2e1994": "2026-10-17T18:56:44"
   },
   "fails": 0,
   "down_notified": false
