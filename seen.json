@@ -764,12 +764,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 589,
+  "fails": 590,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 589,
+  "fails": 590,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1971,7 +1971,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2365,7 +2365,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 267,
+  "fails": 268,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2639,7 +2639,8 @@
    "https://huurportaal.nl/en/listings/house-in-37-schimmelpenninckstraat-5037-rj-tilburg-pc1fb17": "2026-10-15T06:19:25",
    "https://huurportaal.nl/en/listings/kalkwijkstraat-tilburg-pc4001f": "2026-10-15T06:19:25",
    "https://huurportaal.nl/en/listings/apartment-in-359-mascagnistraat-5049-bg-tilburg-p2cc246": "2026-10-15T22:39:03",
-   "https://huurportaal.nl/en/listings/apartment-in-363-predikherenlaan-5042-cg-tilburg-pc8d82c": "2026-10-16T21:20:55"
+   "https://huurportaal.nl/en/listings/apartment-in-363-predikherenlaan-5042-cg-tilburg-pc8d82c": "2026-10-16T21:20:55",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-stationsstraat-in-tilburg-p2c5fa6": "2026-10-17T06:10:59"
   },
   "fails": 0,
   "down_notified": false
