@@ -764,12 +764,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 599,
+  "fails": 600,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 599,
+  "fails": 600,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1985,7 +1985,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2372,7 +2372,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2412337": "2026-10-16T18:14:27",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/korte-nieuwstraat/apartment-2412447": "2026-10-17T13:57:33",
    "https://kamernet.nl/en/for-rent/room-den-bosch/commissaris-de-quaylaan/room-2412431": "2026-10-17T13:57:33",
-   "https://kamernet.nl/en/for-rent/studio-tilburg/nieuwstraat/studio-2412485": "2026-10-18T10:22:28"
+   "https://kamernet.nl/en/for-rent/studio-tilburg/nieuwstraat/studio-2412485": "2026-10-18T10:22:28",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/marsstraat/studio-2411898": "2026-10-18T14:06:36"
   },
   "fails": 0,
   "down_notified": false
@@ -2382,7 +2383,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 277,
+  "fails": 278,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2663,7 +2664,8 @@
    "https://huurportaal.nl/en/listings/2-bedrooms-appartement-surface-area-68m2-p2e1994": "2026-10-17T18:56:44",
    "https://huurportaal.nl/en/listings/apartment-in-35-berlagehof-5041-js-tilburg-pb364a9": "2026-10-17T21:16:21",
    "https://huurportaal.nl/en/listings/poststraat-pa55ae9": "2026-10-18T10:23:05",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-pastorieklamp-oost-veldhovenring-in-tilburg-pf96eda": "2026-10-18T10:23:05"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pastorieklamp-oost-veldhovenring-in-tilburg-pf96eda": "2026-10-18T10:23:05",
+   "https://huurportaal.nl/en/listings/house-in-26-korhoenstraat-5022-bj-tilburg-p791112": "2026-10-18T14:07:13"
   },
   "fails": 0,
   "down_notified": false
