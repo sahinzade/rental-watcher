@@ -223,7 +223,20 @@
    "60010": "2026-10-15T15:44:07",
    "60011": "2026-10-15T15:44:07",
    "60015": "2026-10-16T14:20:31",
-   "59978": "2026-10-16T14:20:31"
+   "59978": "2026-10-16T14:20:31",
+   "59344": "2026-10-19T14:28:31",
+   "59387": "2026-10-19T14:28:31",
+   "59635": "2026-10-19T14:28:31",
+   "59668": "2026-10-19T14:28:31",
+   "59677": "2026-10-19T14:28:31",
+   "59742": "2026-10-19T14:28:31",
+   "59751": "2026-10-19T14:28:31",
+   "59793": "2026-10-19T14:28:31",
+   "59821": "2026-10-19T14:28:31",
+   "59858": "2026-10-19T14:28:31",
+   "60017": "2026-10-19T14:28:31",
+   "60016": "2026-10-19T14:28:31",
+   "60018": "2026-10-19T14:28:31"
   },
   "fails": 0,
   "down_notified": false
@@ -703,7 +716,28 @@
    "17317": "2026-10-15T15:44:19",
    "17350": "2026-10-15T15:44:19",
    "17323": "2026-10-16T09:44:33",
-   "17455": "2026-10-19T06:58:29"
+   "17455": "2026-10-19T06:58:29",
+   "16244": "2026-10-19T14:28:50",
+   "16861": "2026-10-19T14:28:50",
+   "17401": "2026-10-19T14:28:50",
+   "17402": "2026-10-19T14:28:50",
+   "17403": "2026-10-19T14:28:50",
+   "17405": "2026-10-19T14:28:50",
+   "17407": "2026-10-19T14:28:50",
+   "17408": "2026-10-19T14:28:50",
+   "17431": "2026-10-19T14:28:50",
+   "17432": "2026-10-19T14:28:50",
+   "17433": "2026-10-19T14:28:50",
+   "17436": "2026-10-19T14:28:50",
+   "17437": "2026-10-19T14:28:50",
+   "17438": "2026-10-19T14:28:50",
+   "17439": "2026-10-19T14:28:50",
+   "17440": "2026-10-19T14:28:50",
+   "17441": "2026-10-19T14:28:50",
+   "17458": "2026-10-19T14:28:50",
+   "17459": "2026-10-19T14:28:50",
+   "17460": "2026-10-19T14:28:50",
+   "17461": "2026-10-19T14:28:50"
   },
   "fails": 0,
   "down_notified": false
@@ -758,19 +792,23 @@
    "https://magisrealestate.com/for-rent/novum/2%20F429": "2026-10-09T09:59:08",
    "https://magisrealestate.com/for-rent/novum/200": "2026-10-09T09:59:08",
    "https://magisrealestate.com/for-rent/mister-x/9.88": "2026-10-12T15:53:15",
-   "https://magisrealestate.com/for-rent/mister-x/7.32": "2026-10-12T15:53:15"
+   "https://magisrealestate.com/for-rent/mister-x/7.32": "2026-10-12T15:53:15",
+   "https://magisrealestate.com/for-rent/de-wester/89E": "2026-10-19T14:29:20",
+   "https://magisrealestate.com/for-rent/the-wing/5P": "2026-10-19T14:29:20",
+   "https://magisrealestate.com/for-rent/novum/154": "2026-10-19T14:29:20",
+   "https://magisrealestate.com/for-rent/de-wester/85K": "2026-10-19T14:29:20"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 606,
+  "fails": 607,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 606,
+  "fails": 607,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -1996,7 +2034,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2385,7 +2423,12 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/commissaris-de-quaylaan/room-2412431": "2026-10-17T13:57:33",
    "https://kamernet.nl/en/for-rent/studio-tilburg/nieuwstraat/studio-2412485": "2026-10-18T10:22:28",
    "https://kamernet.nl/en/for-rent/studio-tilburg/marsstraat/studio-2411898": "2026-10-18T14:06:36",
-   "https://kamernet.nl/en/for-rent/room-tilburg/eikstraat/room-2412556": "2026-10-18T17:20:57"
+   "https://kamernet.nl/en/for-rent/room-tilburg/eikstraat/room-2412556": "2026-10-18T17:20:57",
+   "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2407435": "2026-10-19T14:32:04",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2412709": "2026-10-19T14:32:04",
+   "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412697": "2026-10-19T14:32:04",
+   "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412698": "2026-10-19T14:32:04",
+   "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412696": "2026-10-19T14:32:04"
   },
   "fails": 0,
   "down_notified": false
@@ -2395,7 +2438,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 284,
+  "fails": 285,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
