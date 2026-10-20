@@ -807,12 +807,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 610,
+  "fails": 611,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 610,
+  "fails": 611,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2049,7 +2049,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 4,
+  "fails": 5,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2453,7 +2453,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 288,
+  "fails": 289,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2740,7 +2740,9 @@
    "https://huurportaal.nl/en/listings/mooi-appartement-te-huur-p128878": "2026-10-18T21:48:03",
    "https://huurportaal.nl/en/listings/house-in-44-lochemstraat-5045-wv-tilburg-pcd30e7": "2026-10-19T07:01:35",
    "https://huurportaal.nl/en/listings/kamer-te-huur-p1f2c2b": "2026-10-19T07:01:35",
-   "https://huurportaal.nl/en/listings/house-in-31-fornebustraat-5042-va-tilburg-pedc34f": "2026-10-19T23:38:56"
+   "https://huurportaal.nl/en/listings/house-in-31-fornebustraat-5042-va-tilburg-pedc34f": "2026-10-19T23:38:56",
+   "https://huurportaal.nl/en/listings/gemeubileerde-kamer-met-huurtoeslag-pa4fe7c": "2026-10-20T07:30:25",
+   "https://huurportaal.nl/en/listings/room-at-tilburg-pfde67d": "2026-10-20T07:30:25"
   },
   "fails": 0,
   "down_notified": false
