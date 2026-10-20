@@ -238,7 +238,12 @@
    "60016": "2026-10-19T14:28:31",
    "60018": "2026-10-19T14:28:31",
    "59304": "2026-10-19T20:07:10",
-   "59658": "2026-10-19T20:07:10"
+   "59658": "2026-10-19T20:07:10",
+   "59364": "2026-10-20T12:52:24",
+   "59574": "2026-10-20T12:52:24",
+   "59730": "2026-10-20T12:52:24",
+   "60021": "2026-10-20T12:52:24",
+   "60023": "2026-10-20T12:52:24"
   },
   "fails": 0,
   "down_notified": false
@@ -741,7 +746,10 @@
    "17460": "2026-10-19T14:28:50",
    "17461": "2026-10-19T14:28:50",
    "17456": "2026-10-19T20:07:15",
-   "17457": "2026-10-19T20:07:15"
+   "17457": "2026-10-19T20:07:15",
+   "17112": "2026-10-20T12:52:33",
+   "17115": "2026-10-20T12:52:33",
+   "17116": "2026-10-20T12:52:33"
   },
   "fails": 0,
   "down_notified": false
@@ -800,19 +808,20 @@
    "https://magisrealestate.com/for-rent/de-wester/89E": "2026-10-19T14:29:20",
    "https://magisrealestate.com/for-rent/the-wing/5P": "2026-10-19T14:29:20",
    "https://magisrealestate.com/for-rent/novum/154": "2026-10-19T14:29:20",
-   "https://magisrealestate.com/for-rent/de-wester/85K": "2026-10-19T14:29:20"
+   "https://magisrealestate.com/for-rent/de-wester/85K": "2026-10-19T14:29:20",
+   "https://magisrealestate.com/for-rent/novum/2%20F527": "2026-10-20T12:52:39"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 611,
+  "fails": 612,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 611,
+  "fails": 612,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2049,7 +2058,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2443,7 +2452,9 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2412709": "2026-10-19T14:32:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412697": "2026-10-19T14:32:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412698": "2026-10-19T14:32:04",
-   "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412696": "2026-10-19T14:32:04"
+   "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412696": "2026-10-19T14:32:04",
+   "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2412892": "2026-10-20T12:55:20",
+   "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2412810": "2026-10-20T12:55:20"
   },
   "fails": 0,
   "down_notified": false
@@ -2453,7 +2464,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 289,
+  "fails": 290,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
