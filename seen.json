@@ -245,7 +245,7 @@
    "60021": "2026-10-20T12:52:24",
    "60023": "2026-10-20T12:52:24"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Plaza (newnewnew.space)": {
@@ -751,7 +751,7 @@
    "17115": "2026-10-20T12:52:33",
    "17116": "2026-10-20T12:52:33"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Magis Real Estate": {
@@ -816,12 +816,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 617,
+  "fails": 618,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 617,
+  "fails": 618,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2065,7 +2065,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
   },
-  "fails": 11,
+  "fails": 12,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2461,7 +2461,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412698": "2026-10-19T14:32:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/melsbroekstraat/room-2412696": "2026-10-19T14:32:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2412892": "2026-10-20T12:55:20",
-   "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2412810": "2026-10-20T12:55:20"
+   "https://kamernet.nl/en/for-rent/room-breda/dr-struyckenstraat/room-2412810": "2026-10-20T12:55:20",
+   "https://kamernet.nl/en/for-rent/room-breda/menno-van-coehoornstraat/room-2408645": "2026-10-21T13:06:41",
+   "https://kamernet.nl/en/for-rent/room-tilburg/valkenswaardstraat/room-2413143": "2026-10-21T13:06:41"
   },
   "fails": 0,
   "down_notified": false
@@ -2471,7 +2473,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 295,
+  "fails": 296,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
