@@ -823,12 +823,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 624,
+  "fails": 625,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 624,
+  "fails": 625,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2074,10 +2074,13 @@
    "https://www.pararius.com/studio-for-rent/tilburg/0b9a6ea8/professor-verbernelaan": "2026-10-07T13:54:23",
    "https://www.pararius.com/studio-for-rent/tilburg/d99c49ae/nieuwstraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/5cf84ad9/daniel-josephus-jittastraat": "2026-10-13T22:01:54",
-   "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54"
+   "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54",
+   "https://www.pararius.com/studio-for-rent/tilburg/e4a9a7a1/goirkestraat": "2026-10-22T19:11:53",
+   "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
+   "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
   },
-  "fails": 18,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -2504,7 +2507,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 302,
+  "fails": 303,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2799,7 +2802,8 @@
    "https://huurportaal.nl/en/listings/kamer-voor-internationale-studenten-of-werkenden-p2caf85": "2026-10-21T18:03:44",
    "https://huurportaal.nl/en/listings/te-huur-appartement-korvelseweg-in-tilburg-p8d4c1d": "2026-10-21T18:03:44",
    "https://huurportaal.nl/en/listings/apartment-in-485-hoffmannlaan-5011-wk-tilburg-p9dc173": "2026-10-21T21:35:31",
-   "https://huurportaal.nl/en/listings/house-in-26-oude-langstraat-5041-ce-tilburg-p21d950": "2026-10-21T21:35:31"
+   "https://huurportaal.nl/en/listings/house-in-26-oude-langstraat-5041-ce-tilburg-p21d950": "2026-10-21T21:35:31",
+   "https://huurportaal.nl/en/listings/apartment-in-46-batenburglaan-5043-al-tilburg-p7e5658": "2026-10-22T19:12:34"
   },
   "fails": 0,
   "down_notified": false
