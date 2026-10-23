@@ -756,7 +756,8 @@
    "17392": "2026-10-22T09:54:56",
    "17480": "2026-10-22T09:54:56",
    "17481": "2026-10-22T09:54:56",
-   "17482": "2026-10-22T14:51:17"
+   "17482": "2026-10-22T14:51:17",
+   "17118": "2026-10-23T10:23:05"
   },
   "fails": 0,
   "down_notified": false
@@ -823,12 +824,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 628,
+  "fails": 629,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 628,
+  "fails": 629,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2092,7 +2093,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
   },
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2510,7 +2511,12 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/sint-annaplein/apartment-2413173": "2026-10-21T18:02:42",
    "https://kamernet.nl/en/for-rent/room-tilburg/daniel-josephus-jittastraat/room-2413415": "2026-10-22T09:57:40",
    "https://kamernet.nl/en/for-rent/room-breda/multatulistraat/room-2413305": "2026-10-22T14:54:01",
-   "https://kamernet.nl/en/for-rent/room-tilburg/korte-nieuwstraat/room-2413468": "2026-10-22T14:54:01"
+   "https://kamernet.nl/en/for-rent/room-tilburg/korte-nieuwstraat/room-2413468": "2026-10-22T14:54:01",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/sint-andriesstraatje/apartment-2413608": "2026-10-23T10:25:47",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/achter-den-engelschen-pispot/room-2413601": "2026-10-23T10:25:47",
+   "https://kamernet.nl/en/for-rent/room-tilburg/westerpark/room-2413600": "2026-10-23T10:25:47",
+   "https://kamernet.nl/en/for-rent/room-tilburg/abel-tasmanstraat/room-2413575": "2026-10-23T10:25:47",
+   "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2413535": "2026-10-23T10:25:47"
   },
   "fails": 0,
   "down_notified": false
@@ -2520,7 +2526,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 306,
+  "fails": 307,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2818,7 +2824,9 @@
    "https://huurportaal.nl/en/listings/house-in-26-oude-langstraat-5041-ce-tilburg-p21d950": "2026-10-21T21:35:31",
    "https://huurportaal.nl/en/listings/apartment-in-46-batenburglaan-5043-al-tilburg-p7e5658": "2026-10-22T19:12:34",
    "https://huurportaal.nl/en/listings/apartment-in-6-broerestraat-5041-aw-tilburg-p99a7bc": "2026-10-22T22:19:34",
-   "https://huurportaal.nl/en/listings/apartment-in-8-ignatiusstraat-5042-ht-tilburg-p00b50a": "2026-10-22T22:19:34"
+   "https://huurportaal.nl/en/listings/apartment-in-8-ignatiusstraat-5042-ht-tilburg-p00b50a": "2026-10-22T22:19:34",
+   "https://huurportaal.nl/en/listings/kamer-beschikbaar-voor-9-maanden-p2e1521": "2026-10-23T10:26:30",
+   "https://huurportaal.nl/en/listings/house-in-9-tourmaletstraat-5022-pe-tilburg-p46bc9a": "2026-10-23T10:26:30"
   },
   "fails": 0,
   "down_notified": false
