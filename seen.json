@@ -827,12 +827,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 635,
+  "fails": 636,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 635,
+  "fails": 636,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2115,7 +2115,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
   },
-  "fails": 10,
+  "fails": 11,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2548,7 +2548,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 313,
+  "fails": 314,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2850,7 +2850,10 @@
    "https://huurportaal.nl/en/listings/kamer-beschikbaar-voor-9-maanden-p2e1521": "2026-10-23T10:26:30",
    "https://huurportaal.nl/en/listings/house-in-9-tourmaletstraat-5022-pe-tilburg-p46bc9a": "2026-10-23T10:26:30",
    "https://huurportaal.nl/en/listings/te-huur-appartement-burgemeester-stekelenburgplein-in-tilburg-p6a5044": "2026-10-24T09:49:42",
-   "https://huurportaal.nl/en/listings/studio-centrum-tilburg-pca9a5d": "2026-10-24T09:49:42"
+   "https://huurportaal.nl/en/listings/studio-centrum-tilburg-pca9a5d": "2026-10-24T09:49:42",
+   "https://huurportaal.nl/en/listings/house-in-9-wilniserf-5036-as-tilburg-p7e2293": "2026-10-24T17:00:25",
+   "https://huurportaal.nl/en/listings/apartment-in-186-warmondstraat-5036-bv-tilburg-p0ff28b": "2026-10-24T17:00:25",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p6ae136": "2026-10-24T17:00:25"
   },
   "fails": 0,
   "down_notified": false
