@@ -827,12 +827,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 641,
+  "fails": 642,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 641,
+  "fails": 642,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2127,7 +2127,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
   },
-  "fails": 16,
+  "fails": 17,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2550,7 +2550,8 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/achter-den-engelschen-pispot/room-2413601": "2026-10-23T10:25:47",
    "https://kamernet.nl/en/for-rent/room-tilburg/westerpark/room-2413600": "2026-10-23T10:25:47",
    "https://kamernet.nl/en/for-rent/room-tilburg/abel-tasmanstraat/room-2413575": "2026-10-23T10:25:47",
-   "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2413535": "2026-10-23T10:25:47"
+   "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2413535": "2026-10-23T10:25:47",
+   "https://kamernet.nl/en/for-rent/room-etten-leur/wielewaal/room-2358830": "2026-10-25T12:24:54"
   },
   "fails": 0,
   "down_notified": false
@@ -2560,7 +2561,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 319,
+  "fails": 320,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
