@@ -827,12 +827,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 645,
+  "fails": 646,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 645,
+  "fails": 646,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2070,7 +2070,26 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478832-zevenwouden-260-1-k09": "2026-10-24T23:45:56",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478825-burgemeester-fockema%20andreaeplein-205": "2026-10-24T23:45:56",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478830-europaplein-487": "2026-10-24T23:45:56",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478835-opaalweg-204-k4": "2026-10-24T23:45:56"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478835-opaalweg-204-k4": "2026-10-24T23:45:56",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478790-cambridgelaan-561-k1": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478866-abstederdijk-202-k01": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478861-vechtstraat-54-f": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478842-pythagoraslaan-121b-k2": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478863-ina-boudier-bakkerlaan-143-2-k955": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478838-ina-boudier-bakkerlaan-21-2-k145": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478862-winschoterdiep-46-d10": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478821-leliestraat-254": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478466-cambridgelaan-569-k31": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478846-burgemeester-fockema%20andreaeplein-301": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478607-nassaustraat-13-k21": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478865-buys-ballotstraat-29-k22": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478848-ina-boudier-bakkerlaan-185-k1653": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478746-burgemeester-fockema%20andreaeplein-368-k2": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478867-gerbrandypad-89": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478869-ina-boudier-bakkerlaan-69-k612": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478849-rivierstraat-94": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478850-burgemeester-fockema%20andreaeplein-287": "2026-10-25T23:47:53",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478844-nassaustraat-22-k23": "2026-10-25T23:47:53"
   },
   "fails": 0,
   "down_notified": false
@@ -2127,8 +2146,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -2561,7 +2580,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 323,
+  "fails": 324,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
