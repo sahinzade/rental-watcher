@@ -248,7 +248,24 @@
    "60029": "2026-10-22T14:51:10",
    "60030": "2026-10-23T19:21:19",
    "60031": "2026-10-23T19:21:19",
-   "60033": "2026-10-23T19:21:19"
+   "60033": "2026-10-23T19:21:19",
+   "59287": "2026-10-26T19:56:15",
+   "59417": "2026-10-26T19:56:15",
+   "59496": "2026-10-26T19:56:15",
+   "59575": "2026-10-26T19:56:15",
+   "59638": "2026-10-26T19:56:15",
+   "59644": "2026-10-26T19:56:15",
+   "59646": "2026-10-26T19:56:15",
+   "59652": "2026-10-26T19:56:15",
+   "59679": "2026-10-26T19:56:15",
+   "59686": "2026-10-26T19:56:15",
+   "59721": "2026-10-26T19:56:15",
+   "59723": "2026-10-26T19:56:15",
+   "59727": "2026-10-26T19:56:15",
+   "59732": "2026-10-26T19:56:15",
+   "59741": "2026-10-26T19:56:15",
+   "59804": "2026-10-26T19:56:15",
+   "60034": "2026-10-26T19:56:15"
   },
   "fails": 0,
   "down_notified": false
@@ -760,7 +777,29 @@
    "17480": "2026-10-22T09:54:56",
    "17481": "2026-10-22T09:54:56",
    "17482": "2026-10-22T14:51:17",
-   "17118": "2026-10-23T10:23:05"
+   "17118": "2026-10-23T10:23:05",
+   "13853": "2026-10-26T19:56:40",
+   "14538": "2026-10-26T19:56:40",
+   "14579": "2026-10-26T19:56:40",
+   "17173": "2026-10-26T19:56:40",
+   "17182": "2026-10-26T19:56:40",
+   "17209": "2026-10-26T19:56:40",
+   "17212": "2026-10-26T19:56:40",
+   "17258": "2026-10-26T19:56:40",
+   "17259": "2026-10-26T19:56:40",
+   "17260": "2026-10-26T19:56:40",
+   "17261": "2026-10-26T19:56:40",
+   "17462": "2026-10-26T19:56:40",
+   "17465": "2026-10-26T19:56:40",
+   "17466": "2026-10-26T19:56:40",
+   "17467": "2026-10-26T19:56:40",
+   "17468": "2026-10-26T19:56:40",
+   "17476": "2026-10-26T19:56:40",
+   "17477": "2026-10-26T19:56:40",
+   "17479": "2026-10-26T19:56:40",
+   "17483": "2026-10-26T19:56:40",
+   "17495": "2026-10-26T19:56:40",
+   "17497": "2026-10-26T19:56:40"
   },
   "fails": 0,
   "down_notified": false
@@ -820,19 +859,20 @@
    "https://magisrealestate.com/for-rent/the-wing/5P": "2026-10-19T14:29:20",
    "https://magisrealestate.com/for-rent/novum/154": "2026-10-19T14:29:20",
    "https://magisrealestate.com/for-rent/de-wester/85K": "2026-10-19T14:29:20",
-   "https://magisrealestate.com/for-rent/novum/2%20F527": "2026-10-20T12:52:39"
+   "https://magisrealestate.com/for-rent/novum/2%20F527": "2026-10-20T12:52:39",
+   "https://magisrealestate.com/for-rent/novum/2%20F701": "2026-10-26T19:57:11"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 648,
+  "fails": 649,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 648,
+  "fails": 649,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2146,7 +2186,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
   },
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2570,7 +2610,10 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/westerpark/room-2413600": "2026-10-23T10:25:47",
    "https://kamernet.nl/en/for-rent/room-tilburg/abel-tasmanstraat/room-2413575": "2026-10-23T10:25:47",
    "https://kamernet.nl/en/for-rent/room-tilburg/fatimastraat/room-2413535": "2026-10-23T10:25:47",
-   "https://kamernet.nl/en/for-rent/room-etten-leur/wielewaal/room-2358830": "2026-10-25T12:24:54"
+   "https://kamernet.nl/en/for-rent/room-etten-leur/wielewaal/room-2358830": "2026-10-25T12:24:54",
+   "https://kamernet.nl/en/for-rent/studio-den-bosch/hinthamereinde/studio-2414126": "2026-10-26T19:59:52",
+   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2414067": "2026-10-26T19:59:52",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/boomstraat/apartment-2414032": "2026-10-26T19:59:52"
   },
   "fails": 0,
   "down_notified": false
@@ -2580,7 +2623,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 326,
+  "fails": 327,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
