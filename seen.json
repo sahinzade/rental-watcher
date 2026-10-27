@@ -892,12 +892,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 652,
+  "fails": 653,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 652,
+  "fails": 653,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2223,9 +2223,10 @@
    "https://www.pararius.com/studio-for-rent/tilburg/25c6fb3d/enschotsestraat": "2026-10-13T22:01:54",
    "https://www.pararius.com/studio-for-rent/tilburg/e4a9a7a1/goirkestraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
-   "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
+   "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53",
+   "https://www.pararius.com/studio-for-rent/tilburg/0cac405e/dr-nolensstraat": "2026-10-27T19:39:13"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2656,7 +2657,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2414495": "2026-10-27T14:39:18",
    "https://kamernet.nl/en/for-rent/room-tilburg/jan-erasstraat/room-2414440": "2026-10-27T14:39:18",
    "https://kamernet.nl/en/for-rent/studio-breda/tramsingel/studio-2414168": "2026-10-27T14:39:18",
-   "https://kamernet.nl/en/for-rent/room-breda/schaffelaarstraat/room-2414581": "2026-10-27T14:39:18"
+   "https://kamernet.nl/en/for-rent/room-breda/schaffelaarstraat/room-2414581": "2026-10-27T14:39:18",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/statenlaan/room-2414606": "2026-10-27T19:39:16"
   },
   "fails": 0,
   "down_notified": false
@@ -2666,7 +2668,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 330,
+  "fails": 331,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
