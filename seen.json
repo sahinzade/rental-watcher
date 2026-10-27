@@ -265,7 +265,9 @@
    "59732": "2026-10-26T19:56:15",
    "59741": "2026-10-26T19:56:15",
    "59804": "2026-10-26T19:56:15",
-   "60034": "2026-10-26T19:56:15"
+   "60034": "2026-10-26T19:56:15",
+   "59971": "2026-10-27T08:10:49",
+   "59988": "2026-10-27T08:10:49"
   },
   "fails": 0,
   "down_notified": false
@@ -867,12 +869,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 650,
+  "fails": 651,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 650,
+  "fails": 651,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2200,8 +2202,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/23744127/hasseltstraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53"
   },
-  "fails": 7,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -2637,7 +2639,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 328,
+  "fails": 329,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2944,7 +2946,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-186-warmondstraat-5036-bv-tilburg-p0ff28b": "2026-10-24T17:00:25",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p6ae136": "2026-10-24T17:00:25",
    "https://huurportaal.nl/en/listings/apartment-in-45-berkenrodelaan-5043-we-tilburg-pd53f56": "2026-10-25T16:43:13",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-p94a8e2": "2026-10-25T16:43:13"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p94a8e2": "2026-10-25T16:43:13",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-12m2-available-from-2026-11-01-p5860a4": "2026-10-27T08:13:57",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-31m2-available-from-2026-10-18-p4f43be": "2026-10-27T08:13:57"
   },
   "fails": 0,
   "down_notified": false
