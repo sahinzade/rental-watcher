@@ -826,7 +826,8 @@
    "17472": "2026-10-27T14:36:10",
    "17475": "2026-10-27T14:36:10",
    "17485": "2026-10-27T14:36:10",
-   "17496": "2026-10-27T14:36:10"
+   "17496": "2026-10-27T14:36:10",
+   "17494": "2026-10-28T20:28:18"
   },
   "fails": 0,
   "down_notified": false
@@ -897,12 +898,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 657,
+  "fails": 658,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 657,
+  "fails": 658,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2177,7 +2178,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478887-ina-boudier-bakkerlaan-51-k1025": "2026-10-27T23:10:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478890-leuvenplein-98-k3": "2026-10-27T23:10:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478888-bisschopssteeg-623-k1": "2026-10-27T23:10:20",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478889-mgr-van%20de%20weteringstr-118-k90": "2026-10-27T23:10:20"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478889-mgr-van%20de%20weteringstr-118-k90": "2026-10-27T23:10:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478517-europaplein-44": "2026-10-28T20:30:03"
   },
   "fails": 0,
   "down_notified": false
@@ -2235,7 +2237,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/0cac405e/dr-nolensstraat": "2026-10-27T19:39:13"
   },
-  "fails": 4,
+  "fails": 5,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2671,7 +2673,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/molenstraat/room-2414766": "2026-10-28T15:30:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/luitenant-wilsstraat/room-2414796": "2026-10-28T15:30:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/superior-de-beerstraat/room-2414750": "2026-10-28T15:30:04",
-   "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2414654": "2026-10-28T15:30:04"
+   "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2414654": "2026-10-28T15:30:04",
+   "https://kamernet.nl/en/for-rent/room-oosterhout/kloosterstraat/room-2414831": "2026-10-28T20:31:03"
   },
   "fails": 0,
   "down_notified": false
@@ -2681,7 +2684,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 335,
+  "fails": 336,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
