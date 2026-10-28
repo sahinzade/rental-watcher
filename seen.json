@@ -892,12 +892,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 654,
+  "fails": 655,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 654,
+  "fails": 655,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2230,7 +2230,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/0cac405e/dr-nolensstraat": "2026-10-27T19:39:13"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2672,7 +2672,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 332,
+  "fails": 333,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -2982,7 +2982,8 @@
    "https://huurportaal.nl/en/listings/appartement-te-huur-p94a8e2": "2026-10-25T16:43:13",
    "https://huurportaal.nl/en/listings/studio-studio-surface-area-12m2-available-from-2026-11-01-p5860a4": "2026-10-27T08:13:57",
    "https://huurportaal.nl/en/listings/studio-studio-surface-area-31m2-available-from-2026-10-18-p4f43be": "2026-10-27T08:13:57",
-   "https://huurportaal.nl/en/listings/spoorlaan-6-33-tilburg-pd0c6b3": "2026-10-27T23:11:58"
+   "https://huurportaal.nl/en/listings/spoorlaan-6-33-tilburg-pd0c6b3": "2026-10-27T23:11:58",
+   "https://huurportaal.nl/en/listings/house-in-92-europalaan-5042-zt-tilburg-pbdae7d": "2026-10-28T02:15:32"
   },
   "fails": 0,
   "down_notified": false
