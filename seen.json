@@ -827,7 +827,8 @@
    "17475": "2026-10-27T14:36:10",
    "17485": "2026-10-27T14:36:10",
    "17496": "2026-10-27T14:36:10",
-   "17494": "2026-10-28T20:28:18"
+   "17494": "2026-10-28T20:28:18",
+   "17514": "2026-10-29T12:13:56"
   },
   "fails": 0,
   "down_notified": false
@@ -891,19 +892,20 @@
    "https://magisrealestate.com/for-rent/novum/2%20F701": "2026-10-26T19:57:11",
    "https://magisrealestate.com/for-rent/novum/68": "2026-10-27T14:36:36",
    "https://magisrealestate.com/for-rent/novum/228": "2026-10-27T14:36:36",
-   "https://magisrealestate.com/for-rent/novum/452": "2026-10-28T08:40:07"
+   "https://magisrealestate.com/for-rent/novum/452": "2026-10-28T08:40:07",
+   "https://magisrealestate.com/for-rent/mister-x/9.32": "2026-10-29T12:13:58"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 660,
+  "fails": 661,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 660,
+  "fails": 661,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2241,7 +2243,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/0cac405e/dr-nolensstraat": "2026-10-27T19:39:13"
   },
-  "fails": 7,
+  "fails": 8,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2678,7 +2680,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/luitenant-wilsstraat/room-2414796": "2026-10-28T15:30:04",
    "https://kamernet.nl/en/for-rent/room-tilburg/superior-de-beerstraat/room-2414750": "2026-10-28T15:30:04",
    "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2414654": "2026-10-28T15:30:04",
-   "https://kamernet.nl/en/for-rent/room-oosterhout/kloosterstraat/room-2414831": "2026-10-28T20:31:03"
+   "https://kamernet.nl/en/for-rent/room-oosterhout/kloosterstraat/room-2414831": "2026-10-28T20:31:03",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/fabriekstraat/apartment-2414950": "2026-10-29T12:16:38",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/graafseweg/room-2414949": "2026-10-29T12:16:38"
   },
   "fails": 0,
   "down_notified": false
@@ -2688,7 +2692,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 338,
+  "fails": 339,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
