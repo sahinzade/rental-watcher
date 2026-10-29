@@ -898,12 +898,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 658,
+  "fails": 659,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 658,
+  "fails": 659,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2179,7 +2179,11 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478890-leuvenplein-98-k3": "2026-10-27T23:10:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478888-bisschopssteeg-623-k1": "2026-10-27T23:10:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478889-mgr-van%20de%20weteringstr-118-k90": "2026-10-27T23:10:20",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478517-europaplein-44": "2026-10-28T20:30:03"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478517-europaplein-44": "2026-10-28T20:30:03",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478904-pythagoraslaan-111g-k1": "2026-10-29T00:15:14",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478893-talent-square-389": "2026-10-29T00:15:14",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478894-bisschopssteeg-563-k3": "2026-10-29T00:15:14",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478899-julianalaan-10-k11": "2026-10-29T00:15:14"
   },
   "fails": 0,
   "down_notified": false
@@ -2237,7 +2241,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/d692591c/koestraat": "2026-10-22T19:11:53",
    "https://www.pararius.com/studio-for-rent/tilburg/0cac405e/dr-nolensstraat": "2026-10-27T19:39:13"
   },
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2684,7 +2688,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 336,
+  "fails": 337,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
