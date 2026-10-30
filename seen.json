@@ -909,12 +909,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 667,
+  "fails": 668,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 667,
+  "fails": 668,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2203,7 +2203,17 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478928-leuvenplein-85": "2026-10-30T02:28:04",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478915-gerbrandypad-152": "2026-10-30T02:28:04",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478918-talent-square-313": "2026-10-30T02:28:04",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478350-prinsendam-214-k1": "2026-10-30T15:32:44"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478350-prinsendam-214-k1": "2026-10-30T15:32:44",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478943-nieuwegracht-151-k02": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478934-talent-square-3": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478804-ina-boudier-bakkerlaan-41-1-k324": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478944-talentenplein-426": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478936-hondsrug-631-k1": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478843-plutolaan-329a-110": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478956-ina-boudier-bakkerlaan-147-k1485": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478932-hondsrug-709-k1": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478937-europaplein-1018": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478946-ina-boudier-bakkerlaan-179-k1626": "2026-10-30T23:42:27"
   },
   "fails": 0,
   "down_notified": false
@@ -2265,7 +2275,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/18ff8fab/boomstraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2721,7 +2731,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 345,
+  "fails": 346,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3039,7 +3049,8 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-stadhuisplein-205-in-tilburg-pd6cd89": "2026-10-30T15:34:14",
    "https://huurportaal.nl/en/listings/nieuwe-huisgenoot-gezocht-p7f149d": "2026-10-30T15:34:14",
    "https://huurportaal.nl/en/listings/groot-gemak-op-een-compact-oppervlak-pa57b00": "2026-10-30T20:07:52",
-   "https://huurportaal.nl/en/listings/gezellige-gemeubileerde-studentenkamer-in-tilburg-p880236": "2026-10-30T20:07:52"
+   "https://huurportaal.nl/en/listings/gezellige-gemeubileerde-studentenkamer-in-tilburg-p880236": "2026-10-30T20:07:52",
+   "https://huurportaal.nl/en/listings/westerpark-pc96815": "2026-10-30T23:44:12"
   },
   "fails": 0,
   "down_notified": false
