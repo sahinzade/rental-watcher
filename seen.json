@@ -277,7 +277,8 @@
    "60044": "2026-10-29T18:31:23",
    "60047": "2026-10-30T15:30:49",
    "60049": "2026-10-30T15:30:49",
-   "60048": "2026-10-30T15:30:49"
+   "60048": "2026-10-30T15:30:49",
+   "59585": "2026-10-30T20:04:33"
   },
   "fails": 0,
   "down_notified": false
@@ -908,12 +909,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 666,
+  "fails": 667,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 666,
+  "fails": 667,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2264,7 +2265,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/18ff8fab/boomstraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2709,7 +2710,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/lange-nieuwstraat/room-2414999": "2026-10-29T18:34:06",
    "https://kamernet.nl/en/for-rent/studio-tilburg/bosscheweg/studio-2415151": "2026-10-30T08:54:21",
    "https://kamernet.nl/en/for-rent/studio-breda/teteringsedijk/studio-2415221": "2026-10-30T15:33:33",
-   "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2415181": "2026-10-30T15:33:33"
+   "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2415181": "2026-10-30T15:33:33",
+   "https://kamernet.nl/en/for-rent/room-tilburg/besterdring/room-2415242": "2026-10-30T20:07:14"
   },
   "fails": 0,
   "down_notified": false
@@ -2719,7 +2721,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 344,
+  "fails": 345,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3035,7 +3037,9 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-heuvelring-in-tilburg-pf7f10b": "2026-10-28T08:43:26",
    "https://huurportaal.nl/en/listings/woning-te-huur-p7b15f2": "2026-10-30T15:34:14",
    "https://huurportaal.nl/en/listings/te-huur-appartement-stadhuisplein-205-in-tilburg-pd6cd89": "2026-10-30T15:34:14",
-   "https://huurportaal.nl/en/listings/nieuwe-huisgenoot-gezocht-p7f149d": "2026-10-30T15:34:14"
+   "https://huurportaal.nl/en/listings/nieuwe-huisgenoot-gezocht-p7f149d": "2026-10-30T15:34:14",
+   "https://huurportaal.nl/en/listings/groot-gemak-op-een-compact-oppervlak-pa57b00": "2026-10-30T20:07:52",
+   "https://huurportaal.nl/en/listings/gezellige-gemeubileerde-studentenkamer-in-tilburg-p880236": "2026-10-30T20:07:52"
   },
   "fails": 0,
   "down_notified": false
