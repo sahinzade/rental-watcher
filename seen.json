@@ -909,12 +909,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 669,
+  "fails": 670,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 669,
+  "fails": 670,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2275,7 +2275,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/18ff8fab/boomstraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25"
   },
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2731,7 +2731,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 347,
+  "fails": 348,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3053,7 +3053,11 @@
    "https://huurportaal.nl/en/listings/westerpark-pc96815": "2026-10-30T23:44:12",
    "https://huurportaal.nl/en/listings/apartment-in-161-redemptoristenstraat-5042-dm-tilburg-p1b0197": "2026-10-31T02:49:16",
    "https://huurportaal.nl/en/listings/apartment-in-103-berlagehof-5041-jw-tilburg-p1959c5": "2026-10-31T02:49:16",
-   "https://huurportaal.nl/en/listings/house-in-22-kapelstraat-5046-cm-tilburg-p29ba85": "2026-10-31T02:49:16"
+   "https://huurportaal.nl/en/listings/house-in-22-kapelstraat-5046-cm-tilburg-p29ba85": "2026-10-31T02:49:16",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p65c4cf": "2026-10-31T08:59:39",
+   "https://huurportaal.nl/en/listings/apartment-in-692-bachlaan-5011-bp-tilburg-p403311": "2026-10-31T08:59:39",
+   "https://huurportaal.nl/en/listings/apartment-in-321-componistenlaan-5049-he-tilburg-p2e8f83": "2026-10-31T08:59:39",
+   "https://huurportaal.nl/en/listings/te-huur-ruim-2-kamer-appartement-in-het-centrum-pb19de8": "2026-10-31T08:59:39"
   },
   "fails": 0,
   "down_notified": false
