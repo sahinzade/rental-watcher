@@ -909,12 +909,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 675,
+  "fails": 676,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 675,
+  "fails": 676,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2282,7 +2282,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/18ff8fab/boomstraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25"
   },
-  "fails": 9,
+  "fails": 10,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2730,7 +2730,10 @@
    "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2415181": "2026-10-30T15:33:33",
    "https://kamernet.nl/en/for-rent/room-tilburg/besterdring/room-2415242": "2026-10-30T20:07:14",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/aartshertogenlaan/apartment-2415282": "2026-10-31T15:06:55",
-   "https://kamernet.nl/en/for-rent/room-tilburg/korvelseweg/room-2415409": "2026-10-31T19:17:27"
+   "https://kamernet.nl/en/for-rent/room-tilburg/korvelseweg/room-2415409": "2026-10-31T19:17:27",
+   "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2415579": "2026-11-01T14:45:27",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/bordeslaan/apartment-2415514": "2026-11-01T14:45:27",
+   "https://kamernet.nl/en/for-rent/room-tilburg/fabriekstraat/room-2415463": "2026-11-01T14:45:27"
   },
   "fails": 0,
   "down_notified": false
@@ -2740,7 +2743,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 353,
+  "fails": 354,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3070,7 +3073,9 @@
    "https://huurportaal.nl/en/listings/house-in-16-ruijs-de-beerenbrouckstraat-5042-rd-tilburg-p6b0f59": "2026-10-31T22:36:04",
    "https://huurportaal.nl/en/listings/apartment-in-308-bachlaan-5011-bg-tilburg-p4e42a2": "2026-10-31T22:36:04",
    "https://huurportaal.nl/en/listings/appartement-te-huur-pdd13c2": "2026-11-01T01:35:21",
-   "https://huurportaal.nl/en/listings/fantastisch-appartement-met-2-kamers-perfect-gelegen-a12620": "2026-11-01T01:35:21"
+   "https://huurportaal.nl/en/listings/fantastisch-appartement-met-2-kamers-perfect-gelegen-a12620": "2026-11-01T01:35:21",
+   "https://huurportaal.nl/en/listings/kamers-te-huur-sint-annaplein-tilburg-centr-p3081f0": "2026-11-01T14:46:07",
+   "https://huurportaal.nl/en/listings/luxe-gemeubileerd-appartement-p24fa11": "2026-11-01T14:46:07"
   },
   "fails": 0,
   "down_notified": false
