@@ -909,12 +909,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 673,
+  "fails": 674,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 673,
+  "fails": 674,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2213,7 +2213,14 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478956-ina-boudier-bakkerlaan-147-k1485": "2026-10-30T23:42:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478932-hondsrug-709-k1": "2026-10-30T23:42:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478937-europaplein-1018": "2026-10-30T23:42:27",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1478946-ina-boudier-bakkerlaan-179-k1626": "2026-10-30T23:42:27"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478946-ina-boudier-bakkerlaan-179-k1626": "2026-10-30T23:42:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479010-willem-barentszstraat-30-k90": "2026-11-01T01:28:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478965-ina-boudier-bakkerlaan-15-4-k286": "2026-11-01T01:28:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478978-van-lieflandlaan-20-k12": "2026-11-01T01:28:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478988-talent-square-269": "2026-11-01T01:28:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478927-struisenburgdwarsstraat-60": "2026-11-01T01:28:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478873-europaplein-682": "2026-11-01T01:28:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478996-ina-boudier-bakkerlaan-143-1-k939": "2026-11-01T01:28:27"
   },
   "fails": 0,
   "down_notified": false
@@ -2275,7 +2282,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/18ff8fab/boomstraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25"
   },
-  "fails": 7,
+  "fails": 8,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2733,7 +2740,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 351,
+  "fails": 352,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3061,7 +3068,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-321-componistenlaan-5049-he-tilburg-p2e8f83": "2026-10-31T08:59:39",
    "https://huurportaal.nl/en/listings/te-huur-ruim-2-kamer-appartement-in-het-centrum-pb19de8": "2026-10-31T08:59:39",
    "https://huurportaal.nl/en/listings/house-in-16-ruijs-de-beerenbrouckstraat-5042-rd-tilburg-p6b0f59": "2026-10-31T22:36:04",
-   "https://huurportaal.nl/en/listings/apartment-in-308-bachlaan-5011-bg-tilburg-p4e42a2": "2026-10-31T22:36:04"
+   "https://huurportaal.nl/en/listings/apartment-in-308-bachlaan-5011-bg-tilburg-p4e42a2": "2026-10-31T22:36:04",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pdd13c2": "2026-11-01T01:35:21",
+   "https://huurportaal.nl/en/listings/fantastisch-appartement-met-2-kamers-perfect-gelegen-a12620": "2026-11-01T01:35:21"
   },
   "fails": 0,
   "down_notified": false
