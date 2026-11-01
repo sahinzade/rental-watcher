@@ -909,12 +909,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 676,
+  "fails": 677,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 676,
+  "fails": 677,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2282,7 +2282,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/18ff8fab/boomstraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25"
   },
-  "fails": 10,
+  "fails": 11,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -2733,7 +2733,12 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/korvelseweg/room-2415409": "2026-10-31T19:17:27",
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2415579": "2026-11-01T14:45:27",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/bordeslaan/apartment-2415514": "2026-11-01T14:45:27",
-   "https://kamernet.nl/en/for-rent/room-tilburg/fabriekstraat/room-2415463": "2026-11-01T14:45:27"
+   "https://kamernet.nl/en/for-rent/room-tilburg/fabriekstraat/room-2415463": "2026-11-01T14:45:27",
+   "https://kamernet.nl/en/for-rent/room-tilburg/westpoint/room-2415613": "2026-11-01T19:16:48",
+   "https://kamernet.nl/en/for-rent/room-tilburg/broekhovenseweg/room-2415614": "2026-11-01T19:16:48",
+   "https://kamernet.nl/en/for-rent/room-tilburg/weverstraat/room-2415608": "2026-11-01T19:16:48",
+   "https://kamernet.nl/en/for-rent/room-tilburg/enschotsestraat/room-2415607": "2026-11-01T19:16:48",
+   "https://kamernet.nl/en/for-rent/room-tilburg/oude-dijk/room-2395240": "2026-11-01T19:16:48"
   },
   "fails": 0,
   "down_notified": false
@@ -2743,7 +2748,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 354,
+  "fails": 355,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
