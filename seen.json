@@ -300,7 +300,14 @@
    "59715": "2026-11-02T19:40:15",
    "59733": "2026-11-02T19:40:15",
    "59797": "2026-11-02T19:40:15",
-   "59840": "2026-11-02T19:40:15"
+   "59840": "2026-11-02T19:40:15",
+   "60050": "2026-11-03T16:31:09",
+   "60051": "2026-11-03T16:31:09",
+   "60052": "2026-11-03T16:31:09",
+   "60053": "2026-11-03T16:31:09",
+   "60054": "2026-11-03T16:31:09",
+   "60055": "2026-11-03T16:31:09",
+   "60056": "2026-11-03T16:31:09"
   },
   "fails": 0,
   "down_notified": false
@@ -859,7 +866,15 @@
    "14508": "2026-10-30T08:51:40",
    "17515": "2026-10-30T15:30:55",
    "17516": "2026-10-30T15:30:55",
-   "17168": "2026-11-02T19:40:32"
+   "17168": "2026-11-02T19:40:32",
+   "17487": "2026-11-03T16:31:21",
+   "17500": "2026-11-03T16:31:21",
+   "17505": "2026-11-03T16:31:21",
+   "17510": "2026-11-03T16:31:21",
+   "17512": "2026-11-03T16:31:21",
+   "17565": "2026-11-03T16:31:21",
+   "17566": "2026-11-03T16:31:21",
+   "17567": "2026-11-03T16:31:21"
   },
   "fails": 0,
   "down_notified": false
@@ -933,12 +948,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 683,
+  "fails": 684,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 683,
+  "fails": 684,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2408,7 +2423,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479158-cambridgelaan-557-k11": "2026-11-03T08:40:22",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478895-ina-boudier-bakkerlaan-45-k1090": "2026-11-03T08:40:22",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479217-pythagoraslaan-103-k11": "2026-11-03T08:40:22",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479224-vechtstraat-54-b": "2026-11-03T08:40:22"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479224-vechtstraat-54-b": "2026-11-03T08:40:22",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479296-cambridgelaan-453": "2026-11-03T16:33:16"
   },
   "fails": 0,
   "down_notified": false
@@ -2468,10 +2484,11 @@
    "https://www.pararius.com/studio-for-rent/tilburg/9477f650/goirkestraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/d2f3f6f0/wittebollestraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/18ff8fab/boomstraat": "2026-10-30T15:33:25",
-   "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25"
+   "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25",
+   "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57"
   },
-  "fails": 17,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -2934,7 +2951,12 @@
    "https://kamernet.nl/en/for-rent/room-breda/peerdsbroek/room-2415915": "2026-11-02T19:43:15",
    "https://kamernet.nl/en/for-rent/apartment-breda/burgemeester-sutoriusstraat/apartment-2415850": "2026-11-02T19:43:15",
    "https://kamernet.nl/en/for-rent/apartment-diessen/julianastraat/apartment-2415960": "2026-11-03T08:41:19",
-   "https://kamernet.nl/en/for-rent/room-breda/peerdsbroek/room-2415919": "2026-11-03T08:41:19"
+   "https://kamernet.nl/en/for-rent/room-breda/peerdsbroek/room-2415919": "2026-11-03T08:41:19",
+   "https://kamernet.nl/en/for-rent/room-breda/doenradestraat/room-2416150": "2026-11-03T16:33:59",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/kardinaal-de-jongplein/apartment-2416113": "2026-11-03T16:33:59",
+   "https://kamernet.nl/en/for-rent/room-tilburg/europalaan/room-2416052": "2026-11-03T16:33:59",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/celebesstraat/apartment-2416045": "2026-11-03T16:33:59",
+   "https://kamernet.nl/en/for-rent/room-diessen/julianastraat/room-2415960": "2026-11-03T16:33:59"
   },
   "fails": 0,
   "down_notified": false
@@ -2944,7 +2966,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 361,
+  "fails": 362,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
