@@ -948,12 +948,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 684,
+  "fails": 685,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 684,
+  "fails": 685,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2487,7 +2487,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/bde10ddd/winkler-prinsstraat": "2026-10-30T15:33:25",
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -2956,7 +2956,8 @@
    "https://kamernet.nl/en/for-rent/apartment-tilburg/kardinaal-de-jongplein/apartment-2416113": "2026-11-03T16:33:59",
    "https://kamernet.nl/en/for-rent/room-tilburg/europalaan/room-2416052": "2026-11-03T16:33:59",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/celebesstraat/apartment-2416045": "2026-11-03T16:33:59",
-   "https://kamernet.nl/en/for-rent/room-diessen/julianastraat/room-2415960": "2026-11-03T16:33:59"
+   "https://kamernet.nl/en/for-rent/room-diessen/julianastraat/room-2415960": "2026-11-03T16:33:59",
+   "https://kamernet.nl/en/for-rent/room-vlijmen/braillelaan/room-2416193": "2026-11-03T22:00:23"
   },
   "fails": 0,
   "down_notified": false
@@ -2966,7 +2967,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 362,
+  "fails": 363,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
