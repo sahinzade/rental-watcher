@@ -309,7 +309,8 @@
    "60055": "2026-11-03T16:31:09",
    "60056": "2026-11-03T16:31:09",
    "60058": "2026-11-04T16:37:51",
-   "60061": "2026-11-04T16:37:51"
+   "60061": "2026-11-04T16:37:51",
+   "60057": "2026-11-04T22:11:00"
   },
   "fails": 0,
   "down_notified": false
@@ -959,12 +960,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 688,
+  "fails": 689,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 688,
+  "fails": 689,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -3011,7 +3012,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 366,
+  "fails": 367,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3423,7 +3424,9 @@
    "https://huurportaal.nl/en/listings/woning-te-huur-pdc6026": "2026-11-04T16:41:41",
    "https://huurportaal.nl/en/listings/te-huur-appartement-hoefstraat-in-tilburg-pf42fcb": "2026-11-04T16:41:41",
    "https://huurportaal.nl/en/listings/te-huur-appartement-kloosterstraat-in-tilburg-pff6dd2": "2026-11-04T16:41:41",
-   "https://huurportaal.nl/en/listings/1-bedroom-huurwoning-surface-area-58m2-p29e781": "2026-11-04T16:41:41"
+   "https://huurportaal.nl/en/listings/1-bedroom-huurwoning-surface-area-58m2-p29e781": "2026-11-04T16:41:41",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p29ab1b": "2026-11-04T22:14:00",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p82a19a": "2026-11-04T22:14:00"
   },
   "fails": 0,
   "down_notified": false
