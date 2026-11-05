@@ -886,7 +886,10 @@
    "17474": "2026-11-04T16:37:55",
    "17501": "2026-11-04T16:37:55",
    "17507": "2026-11-04T16:37:55",
-   "17577": "2026-11-04T16:37:55"
+   "17577": "2026-11-04T16:37:55",
+   "14581": "2026-11-05T09:49:16",
+   "17172": "2026-11-05T09:49:16",
+   "17181": "2026-11-05T09:49:16"
   },
   "fails": 0,
   "down_notified": false
@@ -960,12 +963,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 690,
+  "fails": 691,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 690,
+  "fails": 691,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2534,7 +2537,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3023,7 +3026,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 368,
+  "fails": 369,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
