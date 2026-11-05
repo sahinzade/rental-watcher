@@ -960,12 +960,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 689,
+  "fails": 690,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 689,
+  "fails": 690,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2459,7 +2459,18 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479306-opaalweg-212-k5": "2026-11-04T16:39:51",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479358-bisschopssteeg-349": "2026-11-04T16:39:51",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479357-bisschopssteeg-285": "2026-11-04T16:39:51",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/external/482-verhoefbelt-51c": "2026-11-04T16:39:51"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/482-verhoefbelt-51c": "2026-11-04T16:39:51",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479011-willem-schuylenburglaan-21-k02": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479260-talent-square-484": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479261-talentenplein-328": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479332-frits-coerslaan-44-k01": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479333-amsterdamsestraatweg-237a-k13": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478758-pythagoraslaan-105d-k2": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479330-warande-43-k191": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478267-van-lieflandlaan-16-k24": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479264-prinsendam-604": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479319-gerbrandypad-116": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479273-bisschopssteeg-295": "2026-11-05T02:33:35"
   },
   "fails": 0,
   "down_notified": false
@@ -2523,7 +2534,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3012,7 +3023,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 367,
+  "fails": 368,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3426,7 +3437,17 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-kloosterstraat-in-tilburg-pff6dd2": "2026-11-04T16:41:41",
    "https://huurportaal.nl/en/listings/1-bedroom-huurwoning-surface-area-58m2-p29e781": "2026-11-04T16:41:41",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p29ab1b": "2026-11-04T22:14:00",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-p82a19a": "2026-11-04T22:14:00"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p82a19a": "2026-11-04T22:14:00",
+   "https://huurportaal.nl/en/listings/banningstraat-pfdaa3e": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pbf814d": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-16m2-p3fa5f9": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-15m2-p046fbc": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/3-bedrooms-huurwoning-surface-area-137m2-pa5aa50": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/1-bedroom-appartement-surface-area-43m2-p64e177": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-36m2-p644d01": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/mooie-knusse-kamer-met-wastafel-pcc5b8d": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/mooie-gezellige-kamer-met-eigen-keuken-pd35916": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-keuken-pb2732d": "2026-11-05T02:35:24"
   },
   "fails": 0,
   "down_notified": false
