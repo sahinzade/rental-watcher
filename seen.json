@@ -971,12 +971,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 692,
+  "fails": 693,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 692,
+  "fails": 693,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2551,7 +2551,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3036,7 +3036,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/de-regenboogstraat/room-2416593": "2026-11-05T17:44:15",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2416534": "2026-11-05T17:44:15",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2416536": "2026-11-05T17:44:15",
-   "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2416537": "2026-11-05T17:44:15"
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2416537": "2026-11-05T17:44:15",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2416674": "2026-11-05T22:58:17",
+   "https://kamernet.nl/en/for-rent/room-tilburg/lijsterstraat/room-2416671": "2026-11-05T22:58:17"
   },
   "fails": 0,
   "down_notified": false
@@ -3046,7 +3048,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 370,
+  "fails": 371,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
