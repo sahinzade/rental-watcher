@@ -889,7 +889,15 @@
    "17577": "2026-11-04T16:37:55",
    "14581": "2026-11-05T09:49:16",
    "17172": "2026-11-05T09:49:16",
-   "17181": "2026-11-05T09:49:16"
+   "17181": "2026-11-05T09:49:16",
+   "17165": "2026-11-05T17:41:15",
+   "17166": "2026-11-05T17:41:15",
+   "17176": "2026-11-05T17:41:15",
+   "17177": "2026-11-05T17:41:15",
+   "17503": "2026-11-05T17:41:15",
+   "17579": "2026-11-05T17:41:15",
+   "17580": "2026-11-05T17:41:15",
+   "17582": "2026-11-05T17:41:15"
   },
   "fails": 0,
   "down_notified": false
@@ -963,12 +971,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 691,
+  "fails": 692,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 691,
+  "fails": 692,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2473,7 +2481,13 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478267-van-lieflandlaan-16-k24": "2026-11-05T02:33:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479264-prinsendam-604": "2026-11-05T02:33:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479319-gerbrandypad-116": "2026-11-05T02:33:35",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479273-bisschopssteeg-295": "2026-11-05T02:33:35"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479273-bisschopssteeg-295": "2026-11-05T02:33:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/483-verhoefbelt%20-37d": "2026-11-05T17:43:08",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479294-antaresstraat-39-k1": "2026-11-05T17:43:08",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479295-antaresstraat-39-k6": "2026-11-05T17:43:08",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479292-albertine-agnesplein-2--24": "2026-11-05T17:43:08",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479309-antaresstraat-21-12": "2026-11-05T17:43:08",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479328-leuvenplein-265": "2026-11-05T17:43:08"
   },
   "fails": 0,
   "down_notified": false
@@ -2537,8 +2551,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3016,7 +3030,13 @@
    "https://kamernet.nl/en/for-rent/apartment-bladel/het-bosch/apartment-2413658": "2026-11-04T16:40:55",
    "https://kamernet.nl/en/for-rent/studio-tilburg/dr-nolensstraat/studio-2416263": "2026-11-04T16:40:55",
    "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2416262": "2026-11-04T16:40:55",
-   "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2416261": "2026-11-04T16:40:55"
+   "https://kamernet.nl/en/for-rent/room-tilburg/dr-nolensstraat/room-2416261": "2026-11-04T16:40:55",
+   "https://kamernet.nl/en/for-rent/apartment-sint-michielsgestel/ruwenbergstraat/apartment-2416614": "2026-11-05T17:44:15",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/admiraliteitslaan/apartment-2416602": "2026-11-05T17:44:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/de-regenboogstraat/room-2416593": "2026-11-05T17:44:15",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2416534": "2026-11-05T17:44:15",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2416536": "2026-11-05T17:44:15",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2416537": "2026-11-05T17:44:15"
   },
   "fails": 0,
   "down_notified": false
@@ -3026,7 +3046,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 369,
+  "fails": 370,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
