@@ -310,7 +310,10 @@
    "60056": "2026-11-03T16:31:09",
    "60058": "2026-11-04T16:37:51",
    "60061": "2026-11-04T16:37:51",
-   "60057": "2026-11-04T22:11:00"
+   "60057": "2026-11-04T22:11:00",
+   "60063": "2026-11-06T17:42:30",
+   "60064": "2026-11-06T17:42:30",
+   "60065": "2026-11-06T17:42:30"
   },
   "fails": 0,
   "down_notified": false
@@ -897,7 +900,8 @@
    "17503": "2026-11-05T17:41:15",
    "17579": "2026-11-05T17:41:15",
    "17580": "2026-11-05T17:41:15",
-   "17582": "2026-11-05T17:41:15"
+   "17582": "2026-11-05T17:41:15",
+   "17581": "2026-11-06T17:42:36"
   },
   "fails": 0,
   "down_notified": false
@@ -971,12 +975,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 695,
+  "fails": 696,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 695,
+  "fails": 696,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2564,7 +2568,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 6,
+  "fails": 7,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3053,7 +3057,10 @@
    "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2416674": "2026-11-05T22:58:17",
    "https://kamernet.nl/en/for-rent/room-tilburg/lijsterstraat/room-2416671": "2026-11-05T22:58:17",
    "https://kamernet.nl/en/for-rent/room-breda/heuvelstraat/room-2416750": "2026-11-06T10:48:16",
-   "https://kamernet.nl/en/for-rent/room-tilburg/armhoefstraat/room-2416711": "2026-11-06T10:48:16"
+   "https://kamernet.nl/en/for-rent/room-tilburg/armhoefstraat/room-2416711": "2026-11-06T10:48:16",
+   "https://kamernet.nl/en/for-rent/room-eindhoven/grasfonteinkruid/room-2416829": "2026-11-06T17:45:19",
+   "https://kamernet.nl/en/for-rent/room-tilburg/distelbergstraat/room-2416858": "2026-11-06T17:45:19",
+   "https://kamernet.nl/en/for-rent/room-breda/franklin-rooseveltlaan/room-2416851": "2026-11-06T17:45:19"
   },
   "fails": 0,
   "down_notified": false
@@ -3063,7 +3070,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 373,
+  "fails": 374,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
