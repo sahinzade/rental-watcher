@@ -971,12 +971,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 694,
+  "fails": 695,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 694,
+  "fails": 695,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2491,7 +2491,16 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479347-warande-133-k492": "2026-11-06T03:07:37",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479343-zevenwouden-260-k09": "2026-11-06T03:07:37",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479345-veemarkt-21--35": "2026-11-06T03:07:37",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479348-ina-boudier-bakkerlaan-41-2-k359": "2026-11-06T03:07:37"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479348-ina-boudier-bakkerlaan-41-2-k359": "2026-11-06T03:07:37",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479298-salamancapad-41": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479318-gerbrandypad-72": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479274-bisschopssteeg-457": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479287-struisenburgdwarsstraat-264": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479272-bisschopssteeg-211": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479388-prinsendam-542": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479282-talentenplein-62": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479311-salamancapad-23": "2026-11-06T10:47:04",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479386-schepenmakerssteeg-2-k23": "2026-11-06T10:47:04"
   },
   "fails": 0,
   "down_notified": false
@@ -2555,7 +2564,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3042,7 +3051,9 @@
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2416536": "2026-11-05T17:44:15",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/clarastraat/apartment-2416537": "2026-11-05T17:44:15",
    "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2416674": "2026-11-05T22:58:17",
-   "https://kamernet.nl/en/for-rent/room-tilburg/lijsterstraat/room-2416671": "2026-11-05T22:58:17"
+   "https://kamernet.nl/en/for-rent/room-tilburg/lijsterstraat/room-2416671": "2026-11-05T22:58:17",
+   "https://kamernet.nl/en/for-rent/room-breda/heuvelstraat/room-2416750": "2026-11-06T10:48:16",
+   "https://kamernet.nl/en/for-rent/room-tilburg/armhoefstraat/room-2416711": "2026-11-06T10:48:16"
   },
   "fails": 0,
   "down_notified": false
@@ -3052,7 +3063,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 372,
+  "fails": 373,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3476,7 +3487,8 @@
    "https://huurportaal.nl/en/listings/studio-studio-surface-area-36m2-p644d01": "2026-11-05T02:35:24",
    "https://huurportaal.nl/en/listings/mooie-knusse-kamer-met-wastafel-pcc5b8d": "2026-11-05T02:35:24",
    "https://huurportaal.nl/en/listings/mooie-gezellige-kamer-met-eigen-keuken-pd35916": "2026-11-05T02:35:24",
-   "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-keuken-pb2732d": "2026-11-05T02:35:24"
+   "https://huurportaal.nl/en/listings/mooie-ruime-kamer-met-eigen-keuken-pb2732d": "2026-11-05T02:35:24",
+   "https://huurportaal.nl/en/listings/huis-te-huur-theresia-west-lange-nieuwstraat-in-tilburg-p1bbd61": "2026-11-06T10:48:56"
   },
   "fails": 0,
   "down_notified": false
