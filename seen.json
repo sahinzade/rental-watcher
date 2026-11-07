@@ -975,12 +975,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 697,
+  "fails": 698,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 697,
+  "fails": 698,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2582,7 +2582,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 8,
+  "fails": 9,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3074,7 +3074,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/armhoefstraat/room-2416711": "2026-11-06T10:48:16",
    "https://kamernet.nl/en/for-rent/room-eindhoven/grasfonteinkruid/room-2416829": "2026-11-06T17:45:19",
    "https://kamernet.nl/en/for-rent/room-tilburg/distelbergstraat/room-2416858": "2026-11-06T17:45:19",
-   "https://kamernet.nl/en/for-rent/room-breda/franklin-rooseveltlaan/room-2416851": "2026-11-06T17:45:19"
+   "https://kamernet.nl/en/for-rent/room-breda/franklin-rooseveltlaan/room-2416851": "2026-11-06T17:45:19",
+   "https://kamernet.nl/en/for-rent/studio-eindhoven/grasfonteinkruid/studio-2416829": "2026-11-07T08:48:09"
   },
   "fails": 0,
   "down_notified": false
@@ -3084,7 +3085,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 375,
+  "fails": 376,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
