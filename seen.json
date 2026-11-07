@@ -975,12 +975,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 698,
+  "fails": 699,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 698,
+  "fails": 699,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2582,7 +2582,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 9,
+  "fails": 10,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3075,7 +3075,8 @@
    "https://kamernet.nl/en/for-rent/room-eindhoven/grasfonteinkruid/room-2416829": "2026-11-06T17:45:19",
    "https://kamernet.nl/en/for-rent/room-tilburg/distelbergstraat/room-2416858": "2026-11-06T17:45:19",
    "https://kamernet.nl/en/for-rent/room-breda/franklin-rooseveltlaan/room-2416851": "2026-11-06T17:45:19",
-   "https://kamernet.nl/en/for-rent/studio-eindhoven/grasfonteinkruid/studio-2416829": "2026-11-07T08:48:09"
+   "https://kamernet.nl/en/for-rent/studio-eindhoven/grasfonteinkruid/studio-2416829": "2026-11-07T08:48:09",
+   "https://kamernet.nl/en/for-rent/room-tilburg/reinier-claeszenstraat/room-2416907": "2026-11-07T15:15:50"
   },
   "fails": 0,
   "down_notified": false
@@ -3085,7 +3086,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 376,
+  "fails": 377,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3531,7 +3532,19 @@
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-pcd9a05": "2026-11-07T02:13:52",
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-ped6e6c": "2026-11-07T02:13:52",
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p56512f": "2026-11-07T02:13:52",
-   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p288a70": "2026-11-07T02:13:52"
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p288a70": "2026-11-07T02:13:52",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-35m2-p27ea47": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-30m2-available-from-2026-11-08-p517dd7": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/kamer-te-huur-in-tilburg-all-in-prijs-p6ba8f0": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/house-in-25-hammerbeek-5032-ez-tilburg-p5236c7": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/apartment-in-96-berlagehof-5041-jv-tilburg-pe3a2d3": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/anna-paulownahof-207-tilburg-pbf0d65": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p567522": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p846fcd": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p034db8": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p11ee2b": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p31bfec": "2026-11-07T15:16:27",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-p1636ff": "2026-11-07T15:16:27"
   },
   "fails": 0,
   "down_notified": false
