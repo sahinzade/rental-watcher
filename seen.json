@@ -975,12 +975,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 702,
+  "fails": 703,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 702,
+  "fails": 703,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2586,7 +2586,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3090,7 +3090,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 380,
+  "fails": 381,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3554,7 +3554,15 @@
    "https://huurportaal.nl/en/listings/appartement-te-huur-p01648d": "2026-11-08T02:05:46",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p77b284": "2026-11-08T02:05:46",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p1fe830": "2026-11-08T02:05:46",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-p79235f": "2026-11-08T02:05:46"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p79235f": "2026-11-08T02:05:46",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-36m2-available-from-2026-12-16-p0a94f9": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/studio-studio-surface-area-22m2-available-from-2026-11-03-p274b70": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/apartment-for-rent-in-kamgarenplein-49-5046re-tilburg-p262446": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p7c5571": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p76bf9e": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p863b4c": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p5a864a": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-pf662bb": "2026-11-08T08:58:22"
   },
   "fails": 0,
   "down_notified": false
