@@ -975,12 +975,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 701,
+  "fails": 702,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 701,
+  "fails": 702,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2518,7 +2518,11 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479339-pythagoraslaan-103-k6": "2026-11-07T02:11:57",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479374-frits-coerslaan-34-k11": "2026-11-07T02:11:57",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479356-europaplein-166": "2026-11-07T02:11:57",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479329-leuvenplein-312": "2026-11-07T02:11:57"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479329-leuvenplein-312": "2026-11-07T02:11:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479331-veemarkt-21--44": "2026-11-08T02:03:44",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479376-amsterdamsestraatweg-17-k1.8": "2026-11-08T02:03:44",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479380-alexander-numankade-3e-k1": "2026-11-08T02:03:44",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479371-europaplein-680": "2026-11-08T02:03:44"
   },
   "fails": 0,
   "down_notified": false
@@ -2582,7 +2586,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3086,7 +3090,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 379,
+  "fails": 380,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3546,7 +3550,11 @@
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p31bfec": "2026-11-07T15:16:27",
    "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-p1636ff": "2026-11-07T15:16:27",
    "https://huurportaal.nl/en/listings/te-huur-appartement-kamgarenplein-in-tilburg-pe519ee": "2026-11-07T19:31:56",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-pbbc80a": "2026-11-07T22:58:34"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pbbc80a": "2026-11-07T22:58:34",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p01648d": "2026-11-08T02:05:46",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p77b284": "2026-11-08T02:05:46",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p1fe830": "2026-11-08T02:05:46",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p79235f": "2026-11-08T02:05:46"
   },
   "fails": 0,
   "down_notified": false
