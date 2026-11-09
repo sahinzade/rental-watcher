@@ -313,7 +313,26 @@
    "60057": "2026-11-04T22:11:00",
    "60063": "2026-11-06T17:42:30",
    "60064": "2026-11-06T17:42:30",
-   "60065": "2026-11-06T17:42:30"
+   "60065": "2026-11-06T17:42:30",
+   "59329": "2026-11-09T11:02:44",
+   "59361": "2026-11-09T11:02:44",
+   "59362": "2026-11-09T11:02:44",
+   "59384": "2026-11-09T11:02:44",
+   "59388": "2026-11-09T11:02:44",
+   "59405": "2026-11-09T11:02:44",
+   "59415": "2026-11-09T11:02:44",
+   "59450": "2026-11-09T11:02:44",
+   "59572": "2026-11-09T11:02:44",
+   "59627": "2026-11-09T11:02:44",
+   "59628": "2026-11-09T11:02:44",
+   "59648": "2026-11-09T11:02:44",
+   "59653": "2026-11-09T11:02:44",
+   "59663": "2026-11-09T11:02:44",
+   "59667": "2026-11-09T11:02:44",
+   "59728": "2026-11-09T11:02:44",
+   "59734": "2026-11-09T11:02:44",
+   "59746": "2026-11-09T11:02:44",
+   "59799": "2026-11-09T11:02:44"
   },
   "fails": 0,
   "down_notified": false
@@ -968,19 +987,20 @@
    "https://magisrealestate.com/for-rent/novum/452": "2026-10-28T08:40:07",
    "https://magisrealestate.com/for-rent/mister-x/9.32": "2026-10-29T12:13:58",
    "https://magisrealestate.com/for-rent/de-wester/87S": "2026-10-30T15:30:59",
-   "https://magisrealestate.com/for-rent/novum/376": "2026-11-02T19:40:34"
+   "https://magisrealestate.com/for-rent/novum/376": "2026-11-02T19:40:34",
+   "https://magisrealestate.com/for-rent/the-city/The%20Executive%20Residence": "2026-11-09T11:03:14"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 707,
+  "fails": 708,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 707,
+  "fails": 708,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2534,7 +2554,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479394-rijnlaan-131-k313": "2026-11-08T23:38:36",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479252-talent-square-93": "2026-11-08T23:38:36",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479395-veemarkt-21--42": "2026-11-08T23:38:36",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479390-cambridgelaan-765-k7": "2026-11-08T23:38:36"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479390-cambridgelaan-765-k7": "2026-11-08T23:38:36",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479284-talent-square-364": "2026-11-09T11:04:59",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479423-bisschopssteeg-99": "2026-11-09T11:04:59"
   },
   "fails": 0,
   "down_notified": false
@@ -2598,7 +2620,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 6,
+  "fails": 7,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3094,7 +3116,10 @@
    "https://kamernet.nl/en/for-rent/studio-eindhoven/grasfonteinkruid/studio-2416829": "2026-11-07T08:48:09",
    "https://kamernet.nl/en/for-rent/room-tilburg/reinier-claeszenstraat/room-2416907": "2026-11-07T15:15:50",
    "https://kamernet.nl/en/for-rent/apartment-breda/grote-markt/apartment-2417203": "2026-11-08T15:48:08",
-   "https://kamernet.nl/en/for-rent/room-tilburg/broekhovenseweg/room-2417245": "2026-11-08T20:02:22"
+   "https://kamernet.nl/en/for-rent/room-tilburg/broekhovenseweg/room-2417245": "2026-11-08T20:02:22",
+   "https://kamernet.nl/en/for-rent/studio-breda/jan-van-den-domstraat/studio-2417325": "2026-11-09T11:05:58",
+   "https://kamernet.nl/en/for-rent/room-tilburg/lovensestraat/room-2417314": "2026-11-09T11:05:58",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/tobias-asserlaan/apartment-2417219": "2026-11-09T11:05:58"
   },
   "fails": 0,
   "down_notified": false
@@ -3104,7 +3129,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 385,
+  "fails": 386,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
