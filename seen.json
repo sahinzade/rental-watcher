@@ -334,7 +334,10 @@
    "59746": "2026-11-09T11:02:44",
    "59799": "2026-11-09T11:02:44",
    "60066": "2026-11-09T21:24:53",
-   "60067": "2026-11-09T21:24:53"
+   "60067": "2026-11-09T21:24:53",
+   "60068": "2026-11-10T18:55:01",
+   "60069": "2026-11-10T18:55:01",
+   "60071": "2026-11-10T18:55:01"
   },
   "fails": 0,
   "down_notified": false
@@ -923,7 +926,8 @@
    "17580": "2026-11-05T17:41:15",
    "17582": "2026-11-05T17:41:15",
    "17581": "2026-11-06T17:42:36",
-   "17218": "2026-11-10T11:50:26"
+   "17218": "2026-11-10T11:50:26",
+   "17637": "2026-11-10T18:55:07"
   },
   "fails": 0,
   "down_notified": false
@@ -992,19 +996,20 @@
    "https://magisrealestate.com/for-rent/de-wester/87S": "2026-10-30T15:30:59",
    "https://magisrealestate.com/for-rent/novum/376": "2026-11-02T19:40:34",
    "https://magisrealestate.com/for-rent/the-city/The%20Executive%20Residence": "2026-11-09T11:03:14",
-   "https://magisrealestate.com/for-rent/kloosterdreef/104A": "2026-11-09T21:24:59"
+   "https://magisrealestate.com/for-rent/kloosterdreef/104A": "2026-11-09T21:24:59",
+   "https://magisrealestate.com/for-rent/de-wester/85G": "2026-11-10T18:55:09"
   },
   "fails": 0,
   "down_notified": false
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 711,
+  "fails": 712,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 711,
+  "fails": 712,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2640,7 +2645,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/cd8390ae/veldhovenring": "2026-11-10T11:52:54",
    "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3146,7 +3151,9 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/calandhof/room-2417552": "2026-11-10T11:52:58",
    "https://kamernet.nl/en/for-rent/room-tilburg/nicolaas-beetsstraat/room-2417539": "2026-11-10T11:52:58",
    "https://kamernet.nl/en/for-rent/room-tilburg/daniel-josephus-jittastraat/room-2417533": "2026-11-10T11:52:58",
-   "https://kamernet.nl/en/for-rent/room-tilburg/armhoefstraat/room-2417517": "2026-11-10T11:52:58"
+   "https://kamernet.nl/en/for-rent/room-tilburg/armhoefstraat/room-2417517": "2026-11-10T11:52:58",
+   "https://kamernet.nl/en/for-rent/room-tilburg/paduaplein/room-2417675": "2026-11-10T18:57:49",
+   "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2417593": "2026-11-10T18:57:49"
   },
   "fails": 0,
   "down_notified": false
@@ -3156,7 +3163,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 389,
+  "fails": 390,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
