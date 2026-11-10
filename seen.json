@@ -1004,12 +1004,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 712,
+  "fails": 713,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 712,
+  "fails": 713,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2579,7 +2579,13 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479019-hondsrug-887-k01": "2026-11-10T03:43:57",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479472-willem-schuylenburglaan-82-k11": "2026-11-10T11:52:11",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479312-salamancapad-171": "2026-11-10T11:52:11",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479313-bisschopssteeg-35": "2026-11-10T11:52:11"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479313-bisschopssteeg-35": "2026-11-10T11:52:11",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479405-pythagoraslaan-107-k10": "2026-11-10T23:55:42",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479361-willem-schuylenburglaan-45-k02": "2026-11-10T23:55:42",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479410-ina-boudier-bakkerlaan-105-k1210": "2026-11-10T23:55:42",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479404-winschoterdiep-46-d107": "2026-11-10T23:55:42",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479409-ina-boudier-bakkerlaan-15-1-k238": "2026-11-10T23:55:42",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478758-pythagoraslaan-105d-k10": "2026-11-10T23:55:42"
   },
   "fails": 0,
   "down_notified": false
@@ -2645,7 +2651,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/cd8390ae/veldhovenring": "2026-11-10T11:52:54",
    "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3163,7 +3169,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 390,
+  "fails": 391,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3635,7 +3641,12 @@
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p76bf9e": "2026-11-08T08:58:22",
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p863b4c": "2026-11-08T08:58:22",
    "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-p5a864a": "2026-11-08T08:58:22",
-   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-pf662bb": "2026-11-08T08:58:22"
+   "https://huurportaal.nl/en/listings/uw-perfecte-huurwoning-in-tilburg-pf662bb": "2026-11-08T08:58:22",
+   "https://huurportaal.nl/en/listings/leuke-studio-te-huur-pd9a632": "2026-11-10T23:57:24",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pb962fa": "2026-11-10T23:57:24",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p79b57f": "2026-11-10T23:57:24",
+   "https://huurportaal.nl/en/listings/te-huur-huis-groenstraat-in-tilburg-pbeee7f": "2026-11-10T23:57:24",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-cenakel-in-tilburg-p76658b": "2026-11-10T23:57:24"
   },
   "fails": 0,
   "down_notified": false
