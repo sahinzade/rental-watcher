@@ -998,12 +998,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 709,
+  "fails": 710,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 709,
+  "fails": 710,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2562,7 +2562,15 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479423-bisschopssteeg-99": "2026-11-09T11:04:59",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479286-burgemeester-oudlaan-342e": "2026-11-09T21:26:42",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479321-gerbrandypad-172": "2026-11-09T21:26:42",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479277-leuvenplein-89": "2026-11-09T21:26:42"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479277-leuvenplein-89": "2026-11-09T21:26:42",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479250-leuvenplein-248-k1": "2026-11-10T03:43:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479402-zevenwouden-260-k04": "2026-11-10T03:43:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479400-struisenburgdwarsstraat-148--2": "2026-11-10T03:43:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479369-hortensiastraat-129": "2026-11-10T03:43:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479399-opaalweg-250-k6": "2026-11-10T03:43:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479397-cambridgelaan-575-k22": "2026-11-10T03:43:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479401-talent-square-283": "2026-11-10T03:43:57",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479019-hondsrug-887-k01": "2026-11-10T03:43:57"
   },
   "fails": 0,
   "down_notified": false
@@ -2626,7 +2634,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53"
   },
-  "fails": 8,
+  "fails": 9,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3138,7 +3146,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 387,
+  "fails": 388,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
