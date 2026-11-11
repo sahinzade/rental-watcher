@@ -337,7 +337,16 @@
    "60067": "2026-11-09T21:24:53",
    "60068": "2026-11-10T18:55:01",
    "60069": "2026-11-10T18:55:01",
-   "60071": "2026-11-10T18:55:01"
+   "60071": "2026-11-10T18:55:01",
+   "60072": "2026-11-11T19:32:16",
+   "60073": "2026-11-11T19:32:16",
+   "60074": "2026-11-11T19:32:16",
+   "60075": "2026-11-11T19:32:16",
+   "60076": "2026-11-11T19:32:16",
+   "60077": "2026-11-11T19:32:16",
+   "60078": "2026-11-11T19:32:16",
+   "60081": "2026-11-11T19:32:16",
+   "60082": "2026-11-11T19:32:16"
   },
   "fails": 0,
   "down_notified": false
@@ -942,7 +951,20 @@
    "17626": "2026-11-11T12:07:22",
    "17640": "2026-11-11T12:07:22",
    "17644": "2026-11-11T12:07:22",
-   "17645": "2026-11-11T12:07:22"
+   "17645": "2026-11-11T12:07:22",
+   "15140": "2026-11-11T19:32:30",
+   "16918": "2026-11-11T19:32:30",
+   "17296": "2026-11-11T19:32:30",
+   "17298": "2026-11-11T19:32:30",
+   "17418": "2026-11-11T19:32:30",
+   "17421": "2026-11-11T19:32:30",
+   "17560": "2026-11-11T19:32:30",
+   "17575": "2026-11-11T19:32:30",
+   "17627": "2026-11-11T19:32:30",
+   "17632": "2026-11-11T19:32:30",
+   "17643": "2026-11-11T19:32:30",
+   "17646": "2026-11-11T19:32:30",
+   "17647": "2026-11-11T19:32:30"
   },
   "fails": 0,
   "down_notified": false
@@ -1019,12 +1041,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 715,
+  "fails": 716,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 715,
+  "fails": 716,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2601,7 +2623,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479404-winschoterdiep-46-d107": "2026-11-10T23:55:42",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479409-ina-boudier-bakkerlaan-15-1-k238": "2026-11-10T23:55:42",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478758-pythagoraslaan-105d-k10": "2026-11-10T23:55:42",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479413-kruisstraat-130-k01": "2026-11-11T12:09:29"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479413-kruisstraat-130-k01": "2026-11-11T12:09:29",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479326-leuvenplein-139": "2026-11-11T19:34:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479488-bisschopssteeg-105": "2026-11-11T19:34:28"
   },
   "fails": 0,
   "down_notified": false
@@ -2667,8 +2691,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/cd8390ae/veldhovenring": "2026-11-10T11:52:54",
    "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54"
   },
-  "fails": 4,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3178,7 +3202,14 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2417593": "2026-11-10T18:57:49",
    "https://kamernet.nl/en/for-rent/studio-den-bosch/prins-bernhardstraat/studio-2417814": "2026-11-11T12:10:28",
    "https://kamernet.nl/en/for-rent/room-tilburg/daniel-josephus-jittastraat/room-2417803": "2026-11-11T12:10:28",
-   "https://kamernet.nl/en/for-rent/room-breda/hooghout/room-2417797": "2026-11-11T12:10:28"
+   "https://kamernet.nl/en/for-rent/room-breda/hooghout/room-2417797": "2026-11-11T12:10:28",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/burchtenlaan/room-2418002": "2026-11-11T19:35:11",
+   "https://kamernet.nl/en/for-rent/apartment-breda/ginnekenstraat/apartment-2417949": "2026-11-11T19:35:11",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/veestraat/apartment-2417941": "2026-11-11T19:35:11",
+   "https://kamernet.nl/en/for-rent/room-best/gebroeders-de-koninglaan/room-2417921": "2026-11-11T19:35:11",
+   "https://kamernet.nl/en/for-rent/room-tilburg/nachtegaalstraat/room-2417914": "2026-11-11T19:35:11",
+   "https://kamernet.nl/en/for-rent/room-tilburg/primus-van-gilsstraat/room-2417913": "2026-11-11T19:35:11",
+   "https://kamernet.nl/en/for-rent/room-tilburg/loek-lansdorpstraat/room-2417907": "2026-11-11T19:35:11"
   },
   "fails": 0,
   "down_notified": false
@@ -3188,7 +3219,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 393,
+  "fails": 394,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
