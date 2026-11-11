@@ -1004,12 +1004,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 713,
+  "fails": 714,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 713,
+  "fails": 714,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2651,8 +2651,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/cd8390ae/veldhovenring": "2026-11-10T11:52:54",
    "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3169,7 +3169,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 391,
+  "fails": 392,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3646,7 +3646,8 @@
    "https://huurportaal.nl/en/listings/appartement-te-huur-pb962fa": "2026-11-10T23:57:24",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p79b57f": "2026-11-10T23:57:24",
    "https://huurportaal.nl/en/listings/te-huur-huis-groenstraat-in-tilburg-pbeee7f": "2026-11-10T23:57:24",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-cenakel-in-tilburg-p76658b": "2026-11-10T23:57:24"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-cenakel-in-tilburg-p76658b": "2026-11-10T23:57:24",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-stationsstraat-in-tilburg-p4d1298": "2026-11-11T04:36:24"
   },
   "fails": 0,
   "down_notified": false
