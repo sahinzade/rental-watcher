@@ -351,7 +351,8 @@
    "60083": "2026-11-12T22:46:43",
    "60084": "2026-11-12T22:46:43",
    "60088": "2026-11-13T10:42:21",
-   "60089": "2026-11-13T10:42:21"
+   "60089": "2026-11-13T10:42:21",
+   "59934": "2026-11-13T18:08:21"
   },
   "fails": 0,
   "down_notified": false
@@ -991,7 +992,18 @@
    "17653": "2026-11-12T17:19:51",
    "17654": "2026-11-12T17:19:51",
    "17655": "2026-11-12T17:19:51",
-   "17641": "2026-11-13T10:42:25"
+   "17641": "2026-11-13T10:42:25",
+   "14807": "2026-11-13T18:08:25",
+   "14819": "2026-11-13T18:08:25",
+   "15171": "2026-11-13T18:08:25",
+   "15185": "2026-11-13T18:08:25",
+   "15186": "2026-11-13T18:08:25",
+   "16450": "2026-11-13T18:08:25",
+   "17656": "2026-11-13T18:08:25",
+   "17657": "2026-11-13T18:08:25",
+   "17658": "2026-11-13T18:08:25",
+   "17659": "2026-11-13T18:08:25",
+   "17660": "2026-11-13T18:08:25"
   },
   "fails": 0,
   "down_notified": false
@@ -1068,12 +1080,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 722,
+  "fails": 723,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 722,
+  "fails": 723,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2731,7 +2743,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54",
    "https://www.pararius.com/studio-for-rent/tilburg/97ed57e0/ringbaan-noord": "2026-11-13T10:44:47"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3256,7 +3268,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2418132": "2026-11-12T17:22:53",
    "https://kamernet.nl/en/for-rent/room-tilburg/stedekestraat/room-2418362": "2026-11-13T10:44:49",
    "https://kamernet.nl/en/for-rent/room-tilburg/distelbergstraat/room-2418325": "2026-11-13T10:44:49",
-   "https://kamernet.nl/en/for-rent/room-breda/ginnekenstraat/room-2417949": "2026-11-13T10:44:49"
+   "https://kamernet.nl/en/for-rent/room-breda/ginnekenstraat/room-2417949": "2026-11-13T10:44:49",
+   "https://kamernet.nl/en/for-rent/room-tilburg/westertorenlaan/room-2418371": "2026-11-13T18:11:55"
   },
   "fails": 0,
   "down_notified": false
@@ -3266,7 +3279,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 400,
+  "fails": 401,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
