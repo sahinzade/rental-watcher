@@ -349,7 +349,9 @@
    "60082": "2026-11-11T19:32:16",
    "60085": "2026-11-12T17:19:48",
    "60083": "2026-11-12T22:46:43",
-   "60084": "2026-11-12T22:46:43"
+   "60084": "2026-11-12T22:46:43",
+   "60088": "2026-11-13T10:42:21",
+   "60089": "2026-11-13T10:42:21"
   },
   "fails": 0,
   "down_notified": false
@@ -988,7 +990,8 @@
    "17652": "2026-11-12T17:19:51",
    "17653": "2026-11-12T17:19:51",
    "17654": "2026-11-12T17:19:51",
-   "17655": "2026-11-12T17:19:51"
+   "17655": "2026-11-12T17:19:51",
+   "17641": "2026-11-13T10:42:25"
   },
   "fails": 0,
   "down_notified": false
@@ -1065,12 +1068,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 721,
+  "fails": 722,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 721,
+  "fails": 722,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2725,10 +2728,11 @@
    "https://www.pararius.com/studio-for-rent/tilburg/531c1637/stationsstraat": "2026-11-03T16:33:57",
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53",
    "https://www.pararius.com/studio-for-rent/tilburg/cd8390ae/veldhovenring": "2026-11-10T11:52:54",
-   "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54"
+   "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54",
+   "https://www.pararius.com/studio-for-rent/tilburg/97ed57e0/ringbaan-noord": "2026-11-13T10:44:47"
   },
-  "fails": 3,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3249,7 +3253,10 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/tuinstraat/room-2418227": "2026-11-12T17:22:53",
    "https://kamernet.nl/en/for-rent/room-tilburg/lage-witsiebaan/room-2417332": "2026-11-12T17:22:53",
    "https://kamernet.nl/en/for-rent/room-tilburg/jozef-israelsstraat/room-2417821": "2026-11-12T17:22:53",
-   "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2418132": "2026-11-12T17:22:53"
+   "https://kamernet.nl/en/for-rent/room-tilburg/prunusstraat/room-2418132": "2026-11-12T17:22:53",
+   "https://kamernet.nl/en/for-rent/room-tilburg/stedekestraat/room-2418362": "2026-11-13T10:44:49",
+   "https://kamernet.nl/en/for-rent/room-tilburg/distelbergstraat/room-2418325": "2026-11-13T10:44:49",
+   "https://kamernet.nl/en/for-rent/room-breda/ginnekenstraat/room-2417949": "2026-11-13T10:44:49"
   },
   "fails": 0,
   "down_notified": false
@@ -3259,7 +3266,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 399,
+  "fails": 400,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3743,7 +3750,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-399-clarissenhof-5041-rw-tilburg-p48481e": "2026-11-13T03:01:26",
    "https://huurportaal.nl/en/listings/woning-te-huur-pfe3156": "2026-11-13T03:01:26",
    "https://huurportaal.nl/en/listings/apartment-in-102-berlagehof-5041-jv-tilburg-p5f8573": "2026-11-13T03:01:26",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-veestraat-in-tilburg-p11b5b1": "2026-11-13T03:01:26"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-veestraat-in-tilburg-p11b5b1": "2026-11-13T03:01:26",
+   "https://huurportaal.nl/en/listings/huis-te-huur-stappegoor-zuid-marie-baronstraat-in-tilburg-p8e5908": "2026-11-13T10:45:28"
   },
   "fails": 0,
   "down_notified": false
