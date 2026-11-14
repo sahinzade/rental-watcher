@@ -1080,12 +1080,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 727,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 727,
+  "fails": 728,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -3284,7 +3284,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/tramsingel/room-2418507": "2026-11-14T10:53:10",
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2418477": "2026-11-14T10:53:10",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/veestraat/apartment-2418587": "2026-11-14T16:47:44",
-   "https://kamernet.nl/en/for-rent/room-den-bosch/buitenpepersdreef/room-2418579": "2026-11-14T16:47:44"
+   "https://kamernet.nl/en/for-rent/room-den-bosch/buitenpepersdreef/room-2418579": "2026-11-14T16:47:44",
+   "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2418639": "2026-11-14T21:00:35"
   },
   "fails": 0,
   "down_notified": false
@@ -3294,7 +3295,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 405,
+  "fails": 406,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
