@@ -1080,12 +1080,12 @@
  },
  "Holland2Stay (Tilburg)": {
   "seen": {},
-  "fails": 726,
+  "fails": 727,
   "down_notified": true
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 726,
+  "fails": 727,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2750,9 +2750,11 @@
    "https://www.pararius.com/studio-for-rent/tilburg/fde56d8a/melis-stokestraat": "2026-11-04T16:40:53",
    "https://www.pararius.com/studio-for-rent/tilburg/cd8390ae/veldhovenring": "2026-11-10T11:52:54",
    "https://www.pararius.com/studio-for-rent/tilburg/5d900aa6/dillenburglaan": "2026-11-10T11:52:54",
-   "https://www.pararius.com/studio-for-rent/tilburg/97ed57e0/ringbaan-noord": "2026-11-13T10:44:47"
+   "https://www.pararius.com/studio-for-rent/tilburg/97ed57e0/ringbaan-noord": "2026-11-13T10:44:47",
+   "https://www.pararius.com/studio-for-rent/tilburg/432d54fa/goirkestraat": "2026-11-14T16:47:40",
+   "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40"
   },
-  "fails": 1,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3280,7 +3282,9 @@
    "https://kamernet.nl/en/for-rent/room-breda/ginnekenstraat/room-2417949": "2026-11-13T10:44:49",
    "https://kamernet.nl/en/for-rent/room-tilburg/westertorenlaan/room-2418371": "2026-11-13T18:11:55",
    "https://kamernet.nl/en/for-rent/room-breda/tramsingel/room-2418507": "2026-11-14T10:53:10",
-   "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2418477": "2026-11-14T10:53:10"
+   "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2418477": "2026-11-14T10:53:10",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/veestraat/apartment-2418587": "2026-11-14T16:47:44",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/buitenpepersdreef/room-2418579": "2026-11-14T16:47:44"
   },
   "fails": 0,
   "down_notified": false
@@ -3290,7 +3294,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 404,
+  "fails": 405,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
