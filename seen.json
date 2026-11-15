@@ -1085,7 +1085,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 730,
+  "fails": 731,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2766,8 +2766,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/432d54fa/goirkestraat": "2026-11-14T16:47:40",
    "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3297,7 +3297,10 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/veldhovenring/room-2418477": "2026-11-14T10:53:10",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/veestraat/apartment-2418587": "2026-11-14T16:47:44",
    "https://kamernet.nl/en/for-rent/room-den-bosch/buitenpepersdreef/room-2418579": "2026-11-14T16:47:44",
-   "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2418639": "2026-11-14T21:00:35"
+   "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2418639": "2026-11-14T21:00:35",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/zwartvenseweg/studio-2418753": "2026-11-15T14:59:05",
+   "https://kamernet.nl/en/for-rent/room-tilburg/wandelboslaan/room-2418647": "2026-11-15T14:59:05",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/het-wielsem/apartment-2418701": "2026-11-15T14:59:05"
   },
   "fails": 0,
   "down_notified": false
@@ -3307,7 +3310,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 408,
+  "fails": 409,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
