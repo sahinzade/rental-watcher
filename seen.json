@@ -1022,7 +1022,10 @@
    "17642": "2026-11-16T15:33:24",
    "17672": "2026-11-16T15:33:24",
    "17688": "2026-11-16T15:33:24",
-   "17689": "2026-11-16T15:33:24"
+   "17689": "2026-11-16T15:33:24",
+   "17661": "2026-11-16T23:49:36",
+   "17664": "2026-11-16T23:49:36",
+   "17690": "2026-11-16T23:49:36"
   },
   "fails": 0,
   "down_notified": false
@@ -1104,7 +1107,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 735,
+  "fails": 736,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2725,7 +2728,13 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479473-cambridgelaan-555-k1": "2026-11-16T00:00:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479506-bemuurde-weerd%20o.z.-7-k21": "2026-11-16T00:00:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479005-enny-vredelaan-347-k2": "2026-11-16T00:00:20",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479322-stelplaats-102": "2026-11-16T15:34:34"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479322-stelplaats-102": "2026-11-16T15:34:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479512-van-lieflandlaan-100-k23": "2026-11-16T23:50:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479500-opaalweg-220-k5": "2026-11-16T23:50:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479517-bisschopssteeg-507": "2026-11-16T23:50:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479514-burgemeester-fockema%20andreaeplein-182": "2026-11-16T23:50:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479515-burgemeester-fockema%20andreaeplein-188": "2026-11-16T23:50:35",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479513-oudekamp-17-k21": "2026-11-16T23:50:35"
   },
   "fails": 0,
   "down_notified": false
@@ -2794,7 +2803,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/432d54fa/goirkestraat": "2026-11-14T16:47:40",
    "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40"
   },
-  "fails": 7,
+  "fails": 8,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3335,7 +3344,10 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/vughterstraat/room-2418944": "2026-11-16T15:35:33",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/schapenmarkt/apartment-2418913": "2026-11-16T15:35:33",
    "https://kamernet.nl/en/for-rent/studio-breda/willem-van-boelrestraat/studio-2418857": "2026-11-16T15:35:33",
-   "https://kamernet.nl/en/for-rent/room-tilburg/oude-langstraat/room-2418834": "2026-11-16T15:35:33"
+   "https://kamernet.nl/en/for-rent/room-tilburg/oude-langstraat/room-2418834": "2026-11-16T15:35:33",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/buitenpepersdreef/room-2419076": "2026-11-16T23:51:40",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2419007": "2026-11-16T23:51:40",
+   "https://kamernet.nl/en/for-rent/room-tilburg/van-goorstraat/room-2418994": "2026-11-16T23:51:40"
   },
   "fails": 0,
   "down_notified": false
@@ -3345,7 +3357,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 413,
+  "fails": 414,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
