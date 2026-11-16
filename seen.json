@@ -352,7 +352,17 @@
    "60084": "2026-11-12T22:46:43",
    "60088": "2026-11-13T10:42:21",
    "60089": "2026-11-13T10:42:21",
-   "59934": "2026-11-13T18:08:21"
+   "59934": "2026-11-13T18:08:21",
+   "59365": "2026-11-16T15:33:07",
+   "59367": "2026-11-16T15:33:07",
+   "59433": "2026-11-16T15:33:07",
+   "59545": "2026-11-16T15:33:07",
+   "59678": "2026-11-16T15:33:07",
+   "59712": "2026-11-16T15:33:07",
+   "59719": "2026-11-16T15:33:07",
+   "59735": "2026-11-16T15:33:07",
+   "59750": "2026-11-16T15:33:07",
+   "59806": "2026-11-16T15:33:07"
   },
   "fails": 0,
   "down_notified": false
@@ -1003,7 +1013,16 @@
    "17657": "2026-11-13T18:08:25",
    "17658": "2026-11-13T18:08:25",
    "17659": "2026-11-13T18:08:25",
-   "17660": "2026-11-13T18:08:25"
+   "17660": "2026-11-13T18:08:25",
+   "15027": "2026-11-16T15:33:24",
+   "17533": "2026-11-16T15:33:24",
+   "17557": "2026-11-16T15:33:24",
+   "17631": "2026-11-16T15:33:24",
+   "17633": "2026-11-16T15:33:24",
+   "17642": "2026-11-16T15:33:24",
+   "17672": "2026-11-16T15:33:24",
+   "17688": "2026-11-16T15:33:24",
+   "17689": "2026-11-16T15:33:24"
   },
   "fails": 0,
   "down_notified": false
@@ -1085,7 +1104,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 734,
+  "fails": 735,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2705,7 +2724,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479508-wouter-van%20doeverenplein-26-k3": "2026-11-16T00:00:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479473-cambridgelaan-555-k1": "2026-11-16T00:00:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479506-bemuurde-weerd%20o.z.-7-k21": "2026-11-16T00:00:20",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479005-enny-vredelaan-347-k2": "2026-11-16T00:00:20"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479005-enny-vredelaan-347-k2": "2026-11-16T00:00:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479322-stelplaats-102": "2026-11-16T15:34:34"
   },
   "fails": 0,
   "down_notified": false
@@ -2774,7 +2794,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/432d54fa/goirkestraat": "2026-11-14T16:47:40",
    "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40"
   },
-  "fails": 6,
+  "fails": 7,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3308,7 +3328,14 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2418639": "2026-11-14T21:00:35",
    "https://kamernet.nl/en/for-rent/studio-tilburg/zwartvenseweg/studio-2418753": "2026-11-15T14:59:05",
    "https://kamernet.nl/en/for-rent/room-tilburg/wandelboslaan/room-2418647": "2026-11-15T14:59:05",
-   "https://kamernet.nl/en/for-rent/apartment-den-bosch/het-wielsem/apartment-2418701": "2026-11-15T14:59:05"
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/het-wielsem/apartment-2418701": "2026-11-15T14:59:05",
+   "https://kamernet.nl/en/for-rent/room-breda/vloed/room-2418964": "2026-11-16T15:35:33",
+   "https://kamernet.nl/en/for-rent/room-tilburg/zouavenlaan/room-2414530": "2026-11-16T15:35:33",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/vughterstraat/room-2418954": "2026-11-16T15:35:33",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/vughterstraat/room-2418944": "2026-11-16T15:35:33",
+   "https://kamernet.nl/en/for-rent/apartment-den-bosch/schapenmarkt/apartment-2418913": "2026-11-16T15:35:33",
+   "https://kamernet.nl/en/for-rent/studio-breda/willem-van-boelrestraat/studio-2418857": "2026-11-16T15:35:33",
+   "https://kamernet.nl/en/for-rent/room-tilburg/oude-langstraat/room-2418834": "2026-11-16T15:35:33"
   },
   "fails": 0,
   "down_notified": false
@@ -3318,7 +3345,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 412,
+  "fails": 413,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
