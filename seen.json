@@ -373,7 +373,13 @@
    "59822": "2026-11-17T14:38:05",
    "60090": "2026-11-17T14:38:05",
    "60091": "2026-11-17T14:38:05",
-   "60092": "2026-11-17T14:38:05"
+   "60092": "2026-11-17T14:38:05",
+   "59743": "2026-11-17T22:38:13",
+   "60099": "2026-11-17T22:38:13",
+   "60093": "2026-11-17T22:38:13",
+   "60094": "2026-11-17T22:38:13",
+   "60097": "2026-11-17T22:38:13",
+   "60098": "2026-11-17T22:38:13"
   },
   "fails": 0,
   "down_notified": false
@@ -1130,7 +1136,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 738,
+  "fails": 739,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2758,7 +2764,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479514-burgemeester-fockema%20andreaeplein-182": "2026-11-16T23:50:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479515-burgemeester-fockema%20andreaeplein-188": "2026-11-16T23:50:35",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479513-oudekamp-17-k21": "2026-11-16T23:50:35",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479290-prinsendam-486": "2026-11-17T14:39:46"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479290-prinsendam-486": "2026-11-17T14:39:46",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479553-talentenplein-212": "2026-11-17T22:39:31"
   },
   "fails": 0,
   "down_notified": false
@@ -2828,7 +2835,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40",
    "https://www.pararius.com/studio-for-rent/tilburg/e63df4c7/zwartvenseweg": "2026-11-17T14:40:26"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3378,7 +3385,8 @@
    "https://kamernet.nl/en/for-rent/room-breda/haagdijk/room-2416529": "2026-11-17T14:40:29",
    "https://kamernet.nl/en/for-rent/room-tilburg/van-goorstraat/room-2419132": "2026-11-17T14:40:29",
    "https://kamernet.nl/en/for-rent/room-tilburg/europalaan/room-2419129": "2026-11-17T14:40:29",
-   "https://kamernet.nl/en/for-rent/room-breda/heuvelstraat/room-2419113": "2026-11-17T14:40:29"
+   "https://kamernet.nl/en/for-rent/room-breda/heuvelstraat/room-2419113": "2026-11-17T14:40:29",
+   "https://kamernet.nl/en/for-rent/room-tilburg/broekhovenseweg/room-2419248": "2026-11-17T22:40:29"
   },
   "fails": 0,
   "down_notified": false
@@ -3388,7 +3396,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 416,
+  "fails": 417,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
