@@ -382,7 +382,12 @@
    "60098": "2026-11-17T22:38:13",
    "60045": "2026-11-18T12:36:47",
    "60100": "2026-11-18T12:36:47",
-   "60101": "2026-11-18T12:36:47"
+   "60101": "2026-11-18T12:36:47",
+   "60103": "2026-11-18T20:53:07",
+   "60104": "2026-11-18T20:53:07",
+   "60105": "2026-11-18T20:53:07",
+   "60107": "2026-11-18T20:53:07",
+   "60108": "2026-11-18T20:53:07"
   },
   "fails": 0,
   "down_notified": false
@@ -1139,7 +1144,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 741,
+  "fails": 742,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2777,7 +2782,8 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479520-willem-schuylenburglaan-34-k02": "2026-11-18T03:52:22",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479524-wouter-van%20doeverenplein-32-k6": "2026-11-18T03:52:22",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479521-talentenplein-308": "2026-11-18T03:52:22",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479531-pythagoraslaan-111a-k6": "2026-11-18T03:52:22"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479531-pythagoraslaan-111a-k6": "2026-11-18T03:52:22",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479568-gerbrandypad-103": "2026-11-18T20:54:27"
   },
   "fails": 0,
   "down_notified": false
@@ -2847,7 +2853,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40",
    "https://www.pararius.com/studio-for-rent/tilburg/e63df4c7/zwartvenseweg": "2026-11-17T14:40:26"
   },
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3404,7 +3410,10 @@
    "https://kamernet.nl/en/for-rent/room-breda/peerdsbroek/room-2419288": "2026-11-18T12:39:01",
    "https://kamernet.nl/en/for-rent/room-breda/peerdsbroek/room-2419286": "2026-11-18T12:39:01",
    "https://kamernet.nl/en/for-rent/room-tilburg/alleenhouderstraat/room-2419310": "2026-11-18T12:39:01",
-   "https://kamernet.nl/en/for-rent/room-diessen/julianastraat/room-2419364": "2026-11-18T12:39:01"
+   "https://kamernet.nl/en/for-rent/room-diessen/julianastraat/room-2419364": "2026-11-18T12:39:01",
+   "https://kamernet.nl/en/for-rent/room-tilburg/professor-verbernelaan/room-2418360": "2026-11-18T20:55:25",
+   "https://kamernet.nl/en/for-rent/room-boxtel/stationsstraat/room-2419500": "2026-11-18T20:55:25",
+   "https://kamernet.nl/en/for-rent/room-oost-west-en-middelbeers/rozemarijn/room-2419499": "2026-11-18T20:55:25"
   },
   "fails": 0,
   "down_notified": false
@@ -3414,7 +3423,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 419,
+  "fails": 420,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3902,7 +3911,8 @@
    "https://huurportaal.nl/en/listings/huis-te-huur-stappegoor-zuid-marie-baronstraat-in-tilburg-p8e5908": "2026-11-13T10:45:28",
    "https://huurportaal.nl/en/listings/te-huur-kamer-gasthuisring-in-tilburg-pfed76c": "2026-11-15T00:56:03",
    "https://huurportaal.nl/en/listings/te-huur-appartement-trouwlaan-216-2-in-tilburg-p726a1a": "2026-11-15T00:56:03",
-   "https://huurportaal.nl/en/listings/appartement-te-huur-pastorieklamp-oost-veldhovenring-in-tilburg-p74dee5": "2026-11-15T00:56:03"
+   "https://huurportaal.nl/en/listings/appartement-te-huur-pastorieklamp-oost-veldhovenring-in-tilburg-p74dee5": "2026-11-15T00:56:03",
+   "https://huurportaal.nl/en/listings/luxe-gemeubileerd-appartement-tilburg-centrum-p24fa11": "2026-11-18T20:56:05"
   },
   "fails": 0,
   "down_notified": false
