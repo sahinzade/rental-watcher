@@ -387,7 +387,8 @@
    "60104": "2026-11-18T20:53:07",
    "60105": "2026-11-18T20:53:07",
    "60107": "2026-11-18T20:53:07",
-   "60108": "2026-11-18T20:53:07"
+   "60108": "2026-11-18T20:53:07",
+   "60109": "2026-11-19T10:29:47"
   },
   "fails": 0,
   "down_notified": false
@@ -1062,7 +1063,10 @@
    "17708": "2026-11-17T14:38:21",
    "17709": "2026-11-17T14:38:21",
    "17710": "2026-11-17T14:38:21",
-   "17711": "2026-11-17T14:38:21"
+   "17711": "2026-11-17T14:38:21",
+   "17559": "2026-11-19T10:29:49",
+   "17662": "2026-11-19T10:29:49",
+   "17666": "2026-11-19T10:29:49"
   },
   "fails": 0,
   "down_notified": false
@@ -1132,7 +1136,9 @@
    "https://magisrealestate.com/for-rent/novum/376": "2026-11-02T19:40:34",
    "https://magisrealestate.com/for-rent/the-city/The%20Executive%20Residence": "2026-11-09T11:03:14",
    "https://magisrealestate.com/for-rent/kloosterdreef/104A": "2026-11-09T21:24:59",
-   "https://magisrealestate.com/for-rent/de-wester/85G": "2026-11-10T18:55:09"
+   "https://magisrealestate.com/for-rent/de-wester/85G": "2026-11-10T18:55:09",
+   "https://magisrealestate.com/for-rent/aalsterweg/127F": "2026-11-19T10:29:54",
+   "https://magisrealestate.com/for-rent/the-rumour/14.16": "2026-11-19T10:29:54"
   },
   "fails": 0,
   "down_notified": false
@@ -1144,7 +1150,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 743,
+  "fails": 744,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2797,7 +2803,9 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479539-pythagoraslaan-117b-k7": "2026-11-19T02:21:34",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479527-pythagoraslaan-107c-k9": "2026-11-19T02:21:34",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478905-leuvenplein-244": "2026-11-19T02:21:34",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479033-enny-vredelaan-239-k1": "2026-11-19T02:21:34"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479033-enny-vredelaan-239-k1": "2026-11-19T02:21:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479384-willem-schuylenburglaan-78-k11": "2026-11-19T10:30:51",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/484-verhoefbelt%20-45c": "2026-11-19T10:30:51"
   },
   "fails": 0,
   "down_notified": false
@@ -2867,7 +2875,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40",
    "https://www.pararius.com/studio-for-rent/tilburg/e63df4c7/zwartvenseweg": "2026-11-17T14:40:26"
   },
-  "fails": 5,
+  "fails": 6,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3427,7 +3435,10 @@
    "https://kamernet.nl/en/for-rent/room-diessen/julianastraat/room-2419364": "2026-11-18T12:39:01",
    "https://kamernet.nl/en/for-rent/room-tilburg/professor-verbernelaan/room-2418360": "2026-11-18T20:55:25",
    "https://kamernet.nl/en/for-rent/room-boxtel/stationsstraat/room-2419500": "2026-11-18T20:55:25",
-   "https://kamernet.nl/en/for-rent/room-oost-west-en-middelbeers/rozemarijn/room-2419499": "2026-11-18T20:55:25"
+   "https://kamernet.nl/en/for-rent/room-oost-west-en-middelbeers/rozemarijn/room-2419499": "2026-11-18T20:55:25",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/fahrenheitstraat/room-2419657": "2026-11-19T10:31:50",
+   "https://kamernet.nl/en/for-rent/apartment-tilburg/willem-ii-straat/apartment-2419644": "2026-11-19T10:31:50",
+   "https://kamernet.nl/en/for-rent/room-tilburg/lange-nieuwstraat/room-2419598": "2026-11-19T10:31:50"
   },
   "fails": 0,
   "down_notified": false
@@ -3437,7 +3448,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 421,
+  "fails": 422,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
