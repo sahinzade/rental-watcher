@@ -1158,7 +1158,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 748,
+  "fails": 749,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2830,7 +2830,20 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479546-burgemeester-fockema%20andreaeplein-56": "2026-11-20T01:16:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479555-cambridgelaan-803-k3": "2026-11-20T01:16:27",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479552-rivierstraat-92": "2026-11-20T01:16:27",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479549-gerbrandypad-93": "2026-11-20T01:16:27"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479549-gerbrandypad-93": "2026-11-20T01:16:27",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479573-salamancapad-317-k03": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479483-trouwhof-41": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479570-enny-vredelaan-159-k1": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479569-prinsendam-202": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479572-cambridgelaan-591-k11": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479574-burgemeester-fockema%20andreaeplein-174": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479575-ina-boudier-bakkerlaan-219-k1827": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479576-bisschopssteeg-695": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479566-opaalweg-242-k3": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479565-plutolaan-329a-121": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479558-ina-boudier-bakkerlaan-21-1-k131": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479560-cambridgelaan-833-k5": "2026-11-20T23:10:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479571-rijnlaan-131-k319": "2026-11-20T23:10:24"
   },
   "fails": 0,
   "down_notified": false
@@ -2898,10 +2911,13 @@
    "https://www.pararius.com/studio-for-rent/tilburg/97ed57e0/ringbaan-noord": "2026-11-13T10:44:47",
    "https://www.pararius.com/studio-for-rent/tilburg/432d54fa/goirkestraat": "2026-11-14T16:47:40",
    "https://www.pararius.com/studio-for-rent/tilburg/a3334854/oerlesestraat": "2026-11-14T16:47:40",
-   "https://www.pararius.com/studio-for-rent/tilburg/e63df4c7/zwartvenseweg": "2026-11-17T14:40:26"
+   "https://www.pararius.com/studio-for-rent/tilburg/e63df4c7/zwartvenseweg": "2026-11-17T14:40:26",
+   "https://www.pararius.com/studio-for-rent/tilburg/ed33914c/veldhovenring": "2026-11-20T23:11:23",
+   "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
+   "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 10,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3478,7 +3494,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 426,
+  "fails": 427,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3968,7 +3984,18 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-trouwlaan-216-2-in-tilburg-p726a1a": "2026-11-15T00:56:03",
    "https://huurportaal.nl/en/listings/appartement-te-huur-pastorieklamp-oost-veldhovenring-in-tilburg-p74dee5": "2026-11-15T00:56:03",
    "https://huurportaal.nl/en/listings/luxe-gemeubileerd-appartement-tilburg-centrum-p24fa11": "2026-11-18T20:56:05",
-   "https://huurportaal.nl/en/listings/net-studentenhuis-pe53cf7": "2026-11-20T17:19:28"
+   "https://huurportaal.nl/en/listings/net-studentenhuis-pe53cf7": "2026-11-20T17:19:28",
+   "https://huurportaal.nl/en/listings/house-in-44-hendrik-de-keijserstraat-5041-jc-tilburg-p0ecb2c": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/apartment-in-657-hart-van-brabantlaan-5038-lk-tilburg-p579a45": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/apartment-in-111-overloonstraat-5045-sv-tilburg-p3afee0": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/apartment-in-43-munttorenstraat-5037-ax-tilburg-p7bcc3e": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/dichtbij-tilburg-university-p3231d1": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/woning-te-huur-hesperenzijstraat-36-5025kw-tilburg-p122369": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/apartment-in-187-mascagnistraat-5049-bc-tilburg-p113413": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/marie-baronstraat-12-5026-cg-tilburg-pf5c509": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/house-in-81-stuivesantplein-5021-gz-tilburg-p8e6575": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/appartement-te-huur-p96ae59": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-veestraat-in-tilburg-p07e538": "2026-11-20T23:12:04"
   },
   "fails": 0,
   "down_notified": false
