@@ -1158,7 +1158,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 750,
+  "fails": 751,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2916,7 +2916,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3484,7 +3484,8 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/jan-steenstraat/room-2419744": "2026-11-19T19:08:02",
    "https://kamernet.nl/en/for-rent/studio-den-bosch/van-der-venstraat/studio-2419738": "2026-11-19T19:08:02",
    "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2419723": "2026-11-19T19:08:02",
-   "https://kamernet.nl/en/for-rent/room-breda/boschstraat/room-2419911": "2026-11-20T17:18:51"
+   "https://kamernet.nl/en/for-rent/room-breda/boschstraat/room-2419911": "2026-11-20T17:18:51",
+   "https://kamernet.nl/en/for-rent/room-etten-leur/wielewaal/room-2420059": "2026-11-21T12:15:58"
   },
   "fails": 0,
   "down_notified": false
@@ -3494,7 +3495,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 428,
+  "fails": 429,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3995,7 +3996,8 @@
    "https://huurportaal.nl/en/listings/marie-baronstraat-12-5026-cg-tilburg-pf5c509": "2026-11-20T23:12:04",
    "https://huurportaal.nl/en/listings/house-in-81-stuivesantplein-5021-gz-tilburg-p8e6575": "2026-11-20T23:12:04",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p96ae59": "2026-11-20T23:12:04",
-   "https://huurportaal.nl/en/listings/te-huur-appartement-veestraat-in-tilburg-p07e538": "2026-11-20T23:12:04"
+   "https://huurportaal.nl/en/listings/te-huur-appartement-veestraat-in-tilburg-p07e538": "2026-11-20T23:12:04",
+   "https://huurportaal.nl/en/listings/zeer-leuke-kamer-met-slaapvide-p0df6dc": "2026-11-21T12:16:35"
   },
   "fails": 0,
   "down_notified": false
