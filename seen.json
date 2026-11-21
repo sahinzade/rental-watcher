@@ -1158,7 +1158,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 751,
+  "fails": 752,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2916,7 +2916,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 2,
+  "fails": 0,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3495,7 +3495,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 429,
+  "fails": 430,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -3997,7 +3997,8 @@
    "https://huurportaal.nl/en/listings/house-in-81-stuivesantplein-5021-gz-tilburg-p8e6575": "2026-11-20T23:12:04",
    "https://huurportaal.nl/en/listings/appartement-te-huur-p96ae59": "2026-11-20T23:12:04",
    "https://huurportaal.nl/en/listings/te-huur-appartement-veestraat-in-tilburg-p07e538": "2026-11-20T23:12:04",
-   "https://huurportaal.nl/en/listings/zeer-leuke-kamer-met-slaapvide-p0df6dc": "2026-11-21T12:16:35"
+   "https://huurportaal.nl/en/listings/zeer-leuke-kamer-met-slaapvide-p0df6dc": "2026-11-21T12:16:35",
+   "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-pfc924a": "2026-11-21T19:26:02"
   },
   "fails": 0,
   "down_notified": false
