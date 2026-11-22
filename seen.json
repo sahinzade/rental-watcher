@@ -1158,7 +1158,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 754,
+  "fails": 755,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2928,7 +2928,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 1,
+  "fails": 2,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3507,7 +3507,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 432,
+  "fails": 433,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -4011,7 +4011,8 @@
    "https://huurportaal.nl/en/listings/te-huur-appartement-veestraat-in-tilburg-p07e538": "2026-11-20T23:12:04",
    "https://huurportaal.nl/en/listings/zeer-leuke-kamer-met-slaapvide-p0df6dc": "2026-11-21T12:16:35",
    "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-pfc924a": "2026-11-21T19:26:02",
-   "https://huurportaal.nl/en/listings/studio-met-eigen-keuken-en-douche-nabij-centrum-paad4d5": "2026-11-21T23:54:51"
+   "https://huurportaal.nl/en/listings/studio-met-eigen-keuken-en-douche-nabij-centrum-paad4d5": "2026-11-21T23:54:51",
+   "https://huurportaal.nl/en/listings/te-huur-zeer-nette-studio-op-de-begane-grond-p3df348": "2026-11-22T13:04:51"
   },
   "fails": 0,
   "down_notified": false
