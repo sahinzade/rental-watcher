@@ -1158,7 +1158,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 756,
+  "fails": 757,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2855,7 +2855,18 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479592-talent-square-183": "2026-11-21T23:53:21",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479579-talentenplein-410": "2026-11-21T23:53:21",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479590-mgr-van%20de%20weteringstr-35-k22": "2026-11-21T23:53:21",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479582-bisschopssteeg-145": "2026-11-21T23:53:21"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479582-bisschopssteeg-145": "2026-11-21T23:53:21",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479598-ina-boudier-bakkerlaan-99-k1265": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479586-cambridgelaan-223-k4": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479595-nieuwe-keizersgracht-70-k03": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479596-prinsendam-492": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479561-ina-boudier-bakkerlaan-21-4-k196": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479597-vilniusdijk-108-k04": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479606-gerbrandypad-57": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479602-ina-boudier-bakkerlaan-101-k1256": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479600-burgemeester-fockema%20andreaeplein-405": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479265-opaalweg-234-k4": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479603-pythagoraslaan-117b-k8": "2026-11-23T00:58:20"
   },
   "fails": 0,
   "down_notified": false
@@ -2928,7 +2939,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3498,7 +3509,8 @@
    "https://kamernet.nl/en/for-rent/room-den-bosch/van-grobbendoncklaan/room-2419723": "2026-11-19T19:08:02",
    "https://kamernet.nl/en/for-rent/room-breda/boschstraat/room-2419911": "2026-11-20T17:18:51",
    "https://kamernet.nl/en/for-rent/room-etten-leur/wielewaal/room-2420059": "2026-11-21T12:15:58",
-   "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2420390": "2026-11-22T20:20:02"
+   "https://kamernet.nl/en/for-rent/studio-tilburg/weverstraat/studio-2420390": "2026-11-22T20:20:02",
+   "https://kamernet.nl/en/for-rent/room-tilburg/kruidenlaan/room-2420426": "2026-11-23T00:59:32"
   },
   "fails": 0,
   "down_notified": false
@@ -3508,7 +3520,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 434,
+  "fails": 435,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -4013,7 +4025,9 @@
    "https://huurportaal.nl/en/listings/zeer-leuke-kamer-met-slaapvide-p0df6dc": "2026-11-21T12:16:35",
    "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-pfc924a": "2026-11-21T19:26:02",
    "https://huurportaal.nl/en/listings/studio-met-eigen-keuken-en-douche-nabij-centrum-paad4d5": "2026-11-21T23:54:51",
-   "https://huurportaal.nl/en/listings/te-huur-zeer-nette-studio-op-de-begane-grond-p3df348": "2026-11-22T13:04:51"
+   "https://huurportaal.nl/en/listings/te-huur-zeer-nette-studio-op-de-begane-grond-p3df348": "2026-11-22T13:04:51",
+   "https://huurportaal.nl/en/listings/house-in-38-wolvegastraat-5036-ah-tilburg-p16ad24": "2026-11-23T01:00:09",
+   "https://huurportaal.nl/en/listings/house-in-9-vincent-van-den-heuvelstraat-5022-cn-tilburg-pc0be71": "2026-11-23T01:00:09"
   },
   "fails": 0,
   "down_notified": false
