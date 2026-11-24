@@ -1221,7 +1221,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 759,
+  "fails": 760,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2929,7 +2929,14 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479602-ina-boudier-bakkerlaan-101-k1256": "2026-11-23T00:58:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479600-burgemeester-fockema%20andreaeplein-405": "2026-11-23T00:58:20",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479265-opaalweg-234-k4": "2026-11-23T00:58:20",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479603-pythagoraslaan-117b-k8": "2026-11-23T00:58:20"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479603-pythagoraslaan-117b-k8": "2026-11-23T00:58:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479609-bisschopssteeg-483-k3": "2026-11-24T04:58:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479396-cambridgelaan-481-k32": "2026-11-24T04:58:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479433-veemarkt-21--47": "2026-11-24T04:58:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479499-parkstraat-13-k21": "2026-11-24T04:58:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479608-ina-boudier-bakkerlaan-103-k1237": "2026-11-24T04:58:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479610-warande-130-k468": "2026-11-24T04:58:24",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479362-talent-square-28": "2026-11-24T04:58:24"
   },
   "fails": 0,
   "down_notified": false
@@ -3002,7 +3009,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3593,7 +3600,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 437,
+  "fails": 438,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
