@@ -1238,7 +1238,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 762,
+  "fails": 763,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -3038,7 +3038,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 3,
+  "fails": 4,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3628,7 +3628,10 @@
    "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2420726": "2026-11-24T15:38:41",
    "https://kamernet.nl/en/for-rent/room-den-bosch/aert-van-nesstraat/room-2403833": "2026-11-24T15:38:41",
    "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2420671": "2026-11-24T15:38:41",
-   "https://kamernet.nl/en/for-rent/room-gilze/steenakkerplein/room-2420890": "2026-11-25T00:07:44"
+   "https://kamernet.nl/en/for-rent/room-gilze/steenakkerplein/room-2420890": "2026-11-25T00:07:44",
+   "https://kamernet.nl/en/for-rent/room-best/zwikkerstraat/room-2420965": "2026-11-25T08:22:18",
+   "https://kamernet.nl/en/for-rent/studio-baarle-nassau/kievit/studio-2420944": "2026-11-25T08:22:18",
+   "https://kamernet.nl/en/for-rent/room-tilburg/beethovenlaan/room-2420949": "2026-11-25T08:22:18"
   },
   "fails": 0,
   "down_notified": false
@@ -3638,7 +3641,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 440,
+  "fails": 441,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
