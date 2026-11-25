@@ -1238,7 +1238,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 761,
+  "fails": 762,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2954,7 +2954,18 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479608-ina-boudier-bakkerlaan-103-k1237": "2026-11-24T04:58:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479610-warande-130-k468": "2026-11-24T04:58:24",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479362-talent-square-28": "2026-11-24T04:58:24",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1479253-europaplein-628": "2026-11-24T15:37:42"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479253-europaplein-628": "2026-11-24T15:37:42",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479621-ina-boudier-bakkerlaan-107-k1191": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479613-f.c.-dondersstraat-30-k90": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479556-leuvenplein-173-k2": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479562-struisenburgdwarsstraat-180": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479622-ina-boudier-bakkerlaan-65-2-k551": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479615-piramidedreef-5-ak1.2": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479620-cambridgelaan-227-k2": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479612-ina-boudier-bakkerlaan-83-k1326": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479617-piet-heinstraat-24-b": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479614-veemarkt-21--43": "2026-11-25T00:06:31",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478822-talentenplein-301": "2026-11-25T00:06:31"
   },
   "fails": 0,
   "down_notified": false
@@ -3027,8 +3038,8 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 2,
-  "down_notified": false
+  "fails": 3,
+  "down_notified": true
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3616,7 +3627,8 @@
    "https://kamernet.nl/en/for-rent/apartment-oisterwijk/joannes-lenartzstraat/apartment-2420749": "2026-11-24T15:38:41",
    "https://kamernet.nl/en/for-rent/room-tilburg/trouwlaan/room-2420726": "2026-11-24T15:38:41",
    "https://kamernet.nl/en/for-rent/room-den-bosch/aert-van-nesstraat/room-2403833": "2026-11-24T15:38:41",
-   "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2420671": "2026-11-24T15:38:41"
+   "https://kamernet.nl/en/for-rent/room-tilburg/louis-regoutstraat/room-2420671": "2026-11-24T15:38:41",
+   "https://kamernet.nl/en/for-rent/room-gilze/steenakkerplein/room-2420890": "2026-11-25T00:07:44"
   },
   "fails": 0,
   "down_notified": false
@@ -3626,7 +3638,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 439,
+  "fails": 440,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -4138,7 +4150,8 @@
    "https://huurportaal.nl/en/listings/spoorlaan-6-21-tilburg-p707a83": "2026-11-24T15:39:29",
    "https://huurportaal.nl/en/listings/apartment-in-100-ketelhavenplein-5045-ne-tilburg-pca3969": "2026-11-24T15:39:29",
    "https://huurportaal.nl/en/listings/te-huur-per-1-december-ruime-woning-op-de-eerste-p18e06c": "2026-11-24T15:39:29",
-   "https://huurportaal.nl/en/listings/1-bedroom-surface-area-17m2-pbee96a": "2026-11-24T15:39:29"
+   "https://huurportaal.nl/en/listings/1-bedroom-surface-area-17m2-pbee96a": "2026-11-24T15:39:29",
+   "https://huurportaal.nl/en/listings/fantastisch-tijdelijk-appartement-met-liefde-ingericht-p861645": "2026-11-25T00:08:20"
   },
   "fails": 0,
   "down_notified": false
