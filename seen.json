@@ -1155,7 +1155,10 @@
    "17716": "2026-11-24T15:36:22",
    "17717": "2026-11-24T15:36:22",
    "17745": "2026-11-24T15:36:22",
-   "17752": "2026-11-24T15:36:22"
+   "17752": "2026-11-24T15:36:22",
+   "17748": "2026-11-26T10:35:48",
+   "17755": "2026-11-26T10:35:48",
+   "17756": "2026-11-26T10:35:48"
   },
   "fails": 0,
   "down_notified": false
@@ -1230,7 +1233,8 @@
    "https://magisrealestate.com/for-rent/the-rumour/14.16": "2026-11-19T10:29:54",
    "https://magisrealestate.com/for-rent/novum/2%20F820%20": "2026-11-20T17:16:56",
    "https://magisrealestate.com/for-rent/mister-x/9.34": "2026-11-23T08:39:11",
-   "https://magisrealestate.com/for-rent/novum/2%20F828": "2026-11-24T15:36:41"
+   "https://magisrealestate.com/for-rent/novum/2%20F828": "2026-11-24T15:36:41",
+   "https://magisrealestate.com/for-rent/the-city/The%20City%20Light%20Studio": "2026-11-26T10:35:53"
   },
   "fails": 0,
   "down_notified": false
@@ -1242,7 +1246,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 765,
+  "fails": 766,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -3056,7 +3060,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 6,
+  "fails": 7,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3663,7 +3667,10 @@
    "https://kamernet.nl/en/for-rent/room-breda/ginnekenstraat/room-2421113": "2026-11-25T18:45:15",
    "https://kamernet.nl/en/for-rent/room-tilburg/nachtegaalstraat/room-2420793": "2026-11-25T18:45:15",
    "https://kamernet.nl/en/for-rent/apartment-tilburg/anna-paulownahof/apartment-2421062": "2026-11-25T18:45:15",
-   "https://kamernet.nl/en/for-rent/room-tilburg/roggestraat/room-2421032": "2026-11-25T18:45:15"
+   "https://kamernet.nl/en/for-rent/room-tilburg/roggestraat/room-2421032": "2026-11-25T18:45:15",
+   "https://kamernet.nl/en/for-rent/room-tilburg/roggestraat/room-2421296": "2026-11-26T10:37:46",
+   "https://kamernet.nl/en/for-rent/room-tilburg/dillenburglaan/room-2420661": "2026-11-26T10:37:46",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/aartshertogenlaan/room-2421275": "2026-11-26T10:37:46"
   },
   "fails": 0,
   "down_notified": false
@@ -3673,7 +3680,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 443,
+  "fails": 444,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
