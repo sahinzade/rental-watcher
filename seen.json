@@ -1249,7 +1249,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 769,
+  "fails": 770,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -3077,7 +3077,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 10,
+  "fails": 11,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3695,7 +3695,10 @@
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/orthen/apartment-2421308": "2026-11-26T19:51:32",
    "https://kamernet.nl/en/for-rent/apartment-vught/koestraat/apartment-2421533": "2026-11-27T11:14:06",
    "https://kamernet.nl/en/for-rent/apartment-den-bosch/visstraat/apartment-2421534": "2026-11-27T11:14:06",
-   "https://kamernet.nl/en/for-rent/studio-den-bosch/nolenshof/studio-2421429": "2026-11-27T11:14:06"
+   "https://kamernet.nl/en/for-rent/studio-den-bosch/nolenshof/studio-2421429": "2026-11-27T11:14:06",
+   "https://kamernet.nl/en/for-rent/studio-tilburg/zwartvenseweg/studio-2421607": "2026-11-27T20:02:49",
+   "https://kamernet.nl/en/for-rent/studio-breda/tramsingel/studio-2421591": "2026-11-27T20:02:49",
+   "https://kamernet.nl/en/for-rent/studio-baarle-nassau/kievit/studio-2421551": "2026-11-27T20:02:49"
   },
   "fails": 0,
   "down_notified": false
@@ -3705,7 +3708,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 447,
+  "fails": 448,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
