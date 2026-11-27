@@ -1248,7 +1248,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 767,
+  "fails": 768,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -2990,7 +2990,20 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478930-talentenplein-151": "2026-11-26T01:58:48",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479623-burgemeester-fockema%20andreaeplein-385": "2026-11-26T01:58:48",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479632-winschoterdiep-46-d112": "2026-11-26T01:58:48",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/external/487-verhoefbelt-65a": "2026-11-26T19:50:34"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/external/487-verhoefbelt-65a": "2026-11-26T19:50:34",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479646-willem-de%20zwijgerstraat-8-k23": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479638-cambridgelaan-435": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479639-nieuwegracht-153-k01": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479637-vechtstraat-52-e": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479641-trouwhof-17": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479642-europaplein-394": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479640-ina-boudier-bakkerlaan-117-2-k752": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479645-warande-39-k162": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479644-bisschopssteeg-677-k5": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478695-koningsweg-104-k02": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1478967-hugo-de%20grootstraat-32-bis-k12": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479383-willem-schuylenburglaan-70-k04": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1471765-willem-schuylenburglaan-70-k12": "2026-11-27T02:27:28"
   },
   "fails": 0,
   "down_notified": false
@@ -3063,7 +3076,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
   },
-  "fails": 8,
+  "fails": 9,
   "down_notified": true
  },
  "Kamernet (Tilburg)": {
@@ -3688,7 +3701,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 445,
+  "fails": 446,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
