@@ -1249,7 +1249,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 770,
+  "fails": 771,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -3004,7 +3004,19 @@
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478695-koningsweg-104-k02": "2026-11-27T02:27:28",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1478967-hugo-de%20grootstraat-32-bis-k12": "2026-11-27T02:27:28",
    "https://www.sshxl.nl/en/rental-offer/long-stay/1479383-willem-schuylenburglaan-70-k04": "2026-11-27T02:27:28",
-   "https://www.sshxl.nl/en/rental-offer/long-stay/1471765-willem-schuylenburglaan-70-k12": "2026-11-27T02:27:28"
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1471765-willem-schuylenburglaan-70-k12": "2026-11-27T02:27:28",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479657-salamancapad-403-k25": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479658-ina-boudier-bakkerlaan-89-2-k452": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479649-veemarkt-21--15": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479660-pythagoraslaan-111b-k9": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479618-talent-square-391": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479647-ina-boudier-bakkerlaan-61-k1136": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479651-pythagoraslaan-113-k8": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479581-albertine-agnesplein-2--17": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479663-ina-boudier-bakkerlaan-21-4-k195": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479662-prinsendam-406": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479650-spoorstraat-9-k24": "2026-11-28T02:39:20",
+   "https://www.sshxl.nl/en/rental-offer/long-stay/1479659-cambridgelaan-789-k5": "2026-11-28T02:39:20"
   },
   "fails": 0,
   "down_notified": false
@@ -3075,10 +3087,13 @@
    "https://www.pararius.com/studio-for-rent/tilburg/e63df4c7/zwartvenseweg": "2026-11-17T14:40:26",
    "https://www.pararius.com/studio-for-rent/tilburg/ed33914c/veldhovenring": "2026-11-20T23:11:23",
    "https://www.pararius.com/studio-for-rent/tilburg/6ce90ee6/veldhovenring": "2026-11-20T23:11:23",
-   "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23"
+   "https://www.pararius.com/studio-for-rent/tilburg/acba146b/zomerstraat": "2026-11-20T23:11:23",
+   "https://www.pararius.com/studio-for-rent/tilburg/1c1585ed/beeklaan": "2026-11-28T02:40:17",
+   "https://www.pararius.com/studio-for-rent/tilburg/1e0e9335/piusplein": "2026-11-28T02:40:17",
+   "https://www.pararius.com/studio-for-rent/tilburg/ef826068/poirtersstraat": "2026-11-28T02:40:17"
   },
-  "fails": 11,
-  "down_notified": true
+  "fails": 0,
+  "down_notified": false
  },
  "Kamernet (Tilburg)": {
   "seen": {
@@ -3708,7 +3723,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 448,
+  "fails": 449,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -4226,7 +4241,9 @@
    "https://huurportaal.nl/en/listings/apartment-in-96-berlagehof-5041-jv-tilburg-p1467e2": "2026-11-26T02:00:36",
    "https://huurportaal.nl/en/listings/te-huur-appartement-koestraat-in-tilburg-p3b5ee5": "2026-11-26T19:52:16",
    "https://huurportaal.nl/en/listings/apartment-in-247-puccinistraat-5049-gh-tilburg-p1ee794": "2026-11-26T19:52:16",
-   "https://huurportaal.nl/en/listings/apartment-in-418-corellistraat-5049-et-tilburg-pe4e8a9": "2026-11-27T11:14:47"
+   "https://huurportaal.nl/en/listings/apartment-in-418-corellistraat-5049-et-tilburg-pe4e8a9": "2026-11-27T11:14:47",
+   "https://huurportaal.nl/en/listings/house-in-217-enschotsestraat-5014-de-tilburg-paf2d17": "2026-11-28T02:40:59",
+   "https://huurportaal.nl/en/listings/studio-begane-grond-p3631a9": "2026-11-28T02:40:59"
   },
   "fails": 0,
   "down_notified": false
