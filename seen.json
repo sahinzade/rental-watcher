@@ -1249,7 +1249,7 @@
  },
  "Holland2Stay (tumu)": {
   "seen": {},
-  "fails": 771,
+  "fails": 772,
   "down_notified": true
  },
  "SSH Short Stay": {
@@ -3092,7 +3092,7 @@
    "https://www.pararius.com/studio-for-rent/tilburg/1e0e9335/piusplein": "2026-11-28T02:40:17",
    "https://www.pararius.com/studio-for-rent/tilburg/ef826068/poirtersstraat": "2026-11-28T02:40:17"
   },
-  "fails": 0,
+  "fails": 1,
   "down_notified": false
  },
  "Kamernet (Tilburg)": {
@@ -3713,7 +3713,11 @@
    "https://kamernet.nl/en/for-rent/studio-den-bosch/nolenshof/studio-2421429": "2026-11-27T11:14:06",
    "https://kamernet.nl/en/for-rent/studio-tilburg/zwartvenseweg/studio-2421607": "2026-11-27T20:02:49",
    "https://kamernet.nl/en/for-rent/studio-breda/tramsingel/studio-2421591": "2026-11-27T20:02:49",
-   "https://kamernet.nl/en/for-rent/studio-baarle-nassau/kievit/studio-2421551": "2026-11-27T20:02:49"
+   "https://kamernet.nl/en/for-rent/studio-baarle-nassau/kievit/studio-2421551": "2026-11-27T20:02:49",
+   "https://kamernet.nl/en/for-rent/room-tilburg/gasthuisring/room-2421690": "2026-11-28T10:54:52",
+   "https://kamernet.nl/en/for-rent/room-breda/mgr-nolensplein/room-2421682": "2026-11-28T10:54:52",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/beatrixpark/room-2351151": "2026-11-28T10:54:52",
+   "https://kamernet.nl/en/for-rent/room-den-bosch/commissaris-de-quaylaan/room-2371172": "2026-11-28T10:54:52"
   },
   "fails": 0,
   "down_notified": false
@@ -3723,7 +3727,7 @@
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-hoefstraat-129-c/80836331": "2026-07-30T18:04:34",
    "https://www.funda.nl/en/detail/huur/tilburg/appartement-rosmolenplein-4-d/80836333": "2026-07-30T18:04:34"
   },
-  "fails": 449,
+  "fails": 450,
   "down_notified": true
  },
  "Huurportaal (Tilburg)": {
@@ -4243,7 +4247,8 @@
    "https://huurportaal.nl/en/listings/apartment-in-247-puccinistraat-5049-gh-tilburg-p1ee794": "2026-11-26T19:52:16",
    "https://huurportaal.nl/en/listings/apartment-in-418-corellistraat-5049-et-tilburg-pe4e8a9": "2026-11-27T11:14:47",
    "https://huurportaal.nl/en/listings/house-in-217-enschotsestraat-5014-de-tilburg-paf2d17": "2026-11-28T02:40:59",
-   "https://huurportaal.nl/en/listings/studio-begane-grond-p3631a9": "2026-11-28T02:40:59"
+   "https://huurportaal.nl/en/listings/studio-begane-grond-p3631a9": "2026-11-28T02:40:59",
+   "https://huurportaal.nl/en/listings/house-in-29-sallandstraat-5018-bt-tilburg-pf5e837": "2026-11-28T10:55:33"
   },
   "fails": 0,
   "down_notified": false
